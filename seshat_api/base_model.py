@@ -298,7 +298,9 @@ class BaseAPICall:
             results = response.get('results', [])
             if not results:
                 break
-            all_results.extend(results)
+            for result in results:
+                if result['id'] not in [r['id'] for r in all_results]:
+                    all_results.append(result)
             page += 1
 
         return all_results
