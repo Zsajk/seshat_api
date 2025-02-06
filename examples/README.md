@@ -32,3 +32,13 @@ You can explore the Seshat data in an interactive Jupyter notebook. This folder 
 5. From the Jupyter notebook interface in your browser, choose an `.ipynb` file to open, then choose the Kernel that you created called `Python (seshat_api)` in the top right.
 
 6. Follow the instructions in the notebook.
+
+## Additional requirements for `LLM.ipynb`
+
+1. Download and install [Ollama](https://ollama.com/)
+
+2. In the CLI, ensure `deepseek-r1` is installed and usable:
+
+    ```
+        ollama run deepseek-r1
+    ```
