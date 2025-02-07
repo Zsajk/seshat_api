@@ -3,4 +3,4 @@ repos:
     rev: 0.5.0
     hooks:
       - id: nbstripout
-        include: ^(?!examples/LLM\.ipynb$).*
+        exclude: ^examples/LLM\.ipynb$
