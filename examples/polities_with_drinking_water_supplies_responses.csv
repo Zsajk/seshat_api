@@ -1,4 +1,4 @@
-new_name,answer,full
+new_name,answer,full,correct
 ru_soviet_union,absent,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Soviet Union during its time between 1918 CE and 1991 CE. Let's break this down step by step.
 
@@ -25,7 +25,7 @@ So putting this all together: The Soviet Union did have some infrastructure proj
 Therefore, I think the system was absent during most of the Soviet era except for brief periods when there were infrastructure projects, which didn't last.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 fr_la_tene_c2_d,present,"<think>
 Alright, so I need to figure out whether a specialized drinking water supply system existed in La Tene C2-D between 175 BCE and 27 BCE. First, I should probably recall what La Tene is—wait, no, that's actually a real historical site located near Pavingstones, England, known for its Neolithic stone circles like Stonehenge. Wait, but the user might be referring to ""La Tene C2-D"" as a fictional or perhaps less commonly known polity in their question? Hmm, maybe I should consider both possibilities.
 
@@ -38,7 +38,7 @@ Given that La Tene C2-D is a Neolithic site, perhaps they were part of a larger 
 However, without more specific information about La Tene C2-D's governance structure during that time, it's a bit tricky. But leaning on historical trends, most polities around that period did have some form of drinking water supply system, whether it was from the state or local authorities. So I would expect that such a system existed.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 in_kannauj_varman_dyn,present,"<think>
 Alright, so I need to figure out whether there was a Drinking Water Supply System in the Kannauj - Varman Dynasty between 650 CE and 780 CE. Hmm, first off, I'm not super familiar with this specific dynasty, but I know that the Varman Dynasties were in present-day India, part of the NorthWest Indian subcontinent. They were known for their extensive administrative systems, trade networks, and maybe infrastructure.
 
@@ -59,7 +59,7 @@ Also, considering the political stability and resources allocated: from 650 to 7
 In summary, without specific evidence pointing to the absence of a Drinking Water Supply System in the Kannauj - Varman Dynasty during that period, it's reasonable to expect that such a system would be present. It aligns with general trends of resource management in ancient polities, especially in regions where agriculture and urbanization were significant.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_so_mesopotamia_nl,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Southern Mesopotamia during its Neolithic period, which was between 9000 BCE and 5501 BCE. Hmm, let's break this down step by step.
 
@@ -78,7 +78,7 @@ However, considering that Southern Mesopotamia might not have been as urbanized 
 So putting it all together, even in Southern Mesopotamia during its Neolithic period, especially as cities started to develop around 3500 BCE, a Drinking Water Supply System would likely have been present. Therefore, I'd expect the answer to be 'present'.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 it_western_roman_emp,absent,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Western Roman Empire between 395 CE and 476 CE. Let me start by understanding what the question is asking. 
 
@@ -99,7 +99,7 @@ Moreover, after the fall of the Western Roman Empire in 476 CE, the area became 
 Putting this together, I don't expect that most communities in the Western Roman Empire had a DWSS during this period. They might have used whatever water sources they could find, but these systems were likely absent or non-existent on a widespread scale.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 mn_rouran_khaganate,present,"<think>
 Okay, so I'm trying to figure out whether a Drinking Water Supply System existed in Rouran Khaganate between 300 CE and 555 CE. Hmm, I don't know much about this polity, but I'll try to break it down.
 
@@ -124,7 +124,7 @@ Wait, but I'm not certain about their exact governance structure or resources al
 I think the answer is probably 'present,' assuming they had the capability and resources to manage it, but I'm not entirely sure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 mn_turk_khaganate_2,absent,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Second Turk Khaganate between 682 CE and 744 CE. First, I should understand what exactly this polity was. From what I remember, the Second Turk Khaganate was part of the Golden Horde, which was an empire established after the Mongol conquests. It collapsed around the 15th century, so it's definitely a pre-empted state.
 
@@ -139,7 +139,7 @@ Moreover, if the polity collapsed around 744 CE after Baybars' defeat, that like
 On the other hand, maybe parts of the empire still had access to rivers or existing Mongol constructions like water towers. But without centralized management, it would be hard to classify this as a present DWS within the polity itself.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 jp_ashikaga,present,"<think>
 Alright, so I need to figure out whether a Drinking Water Supply System existed during the Ashikaga Shogunate, which was in existence from 1336 CE to 1467 CE. Let's start by breaking down what a Drinking Water Supply System entails. It refers to specialized buildings where drinking water is supplied—this could include places like government buildings, temples, or even private residences with such facilities.
 
@@ -158,7 +158,7 @@ However, I should consider if there are any historical records or sources indica
 In conclusion, it seems reasonable to expect that a Drinking Water Supply System would be present during the Ashikaga Shogunate based on the need for efficient governance and the centralized nature of the polity. The absence of modern infrastructure doesn't necessarily mean there was no system; they might have used simpler but effective methods.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 jp_heian,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Heian, which was between 794 CE and 1185 CE. The question defines the system as special buildings owned by the polity, either through the state or community. If it was present, I answer 'present', else 'absent'.
 
@@ -179,7 +179,7 @@ Putting it all together, while Edo period had more advanced systems, Heian itsel
 
 The polity 'Heian' existed from 794 to 1185 CE, during a period of significant urban development and cultural prosperity. Given this context, it is reasonable to expect that a Drinking Water Supply System was present.
 
-**Answer:** XXXpresentXXX"
+**Answer:** XXXpresentXXX",absent
 jp_nara,present,"<think>
 Okay, so I need to figure out whether the Nara Kingdom had a drinking water supply system. The question defines it as specialized buildings that are owned by the polity, either individually or collectively, including the state.
 
@@ -196,7 +196,7 @@ So considering all this, I think the drinking water supply system was present in
 
 The Nara Period, marked by significant political unification and societal change, saw infrastructure improvements. Recognizing the necessity for reliable water supplies, it's reasonable to infer that the polity owned such systems through specialized buildings, reflecting their role in governance and urban management.
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 mr_wagadu_3,present,"<think>
 Okay, so I need to figure out whether the Later Wagadu Empire had a Drinking Water Supply System based on my knowledge of world history. First, I should recall what I know about the Later汪州帝国, also known as the Wangadu Empire. It existed from 1078 CE to 1203 CE, which was a time when various empires were rising and falling across East Asia.
 
@@ -217,7 +217,7 @@ In summary, while there's no direct information confirming the existence of a Dr
 
 The Later汪州帝国 (1078–1203 CE) existed within a broader period of Chinese history marked by various empires and socio-economic developments. While there is no explicit evidence confirming the presence of a Drinking Water Supply System, factors such as potential infrastructure projects akin to later Song Dynasty engineering and access to natural water sources could suggest its existence. However, without concrete records, it remains speculative.
 
-**Answer: XXXpresentXXX**"
+**Answer: XXXpresentXXX**",present
 mr_wagadu_2,present,"<think>
 Okay, so I need to figure out whether the Middle Wagadu Empire had a Drinking Water Supply System based on what I know about their history. Let me start by recalling what I know about this polity.
 
@@ -234,7 +234,7 @@ Additionally, historical sources from the Sangam period often highlight the engi
 So putting this all together: the Middle Wagadu Empire's emphasis on agriculture, their centralized administration, and historical records suggesting engineering marvels all point towards having a Drinking Water Supply System present during their time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_basin_of_mexico_5,absent,"<think>
 Okay, so I need to figure out whether the Late Formative Basin of Mexico had a Drinking Water Supply System during the period between 400 BCE and 101 BCE. Let me start by breaking down what that means.
 
@@ -255,7 +255,7 @@ Therefore, I'm leaning towards absent because during this period, it was more ab
 
 The Late Formative Basin of Mexico, around the 400 BCE to 101 BCE period, primarily used decentralized, traditional water systems relying on natural sources like wells and rivers. While there were efforts during Aztec times to improve water management through terraced agriculture, these remained subsistence strategies without centralized infrastructure. Therefore, a Drinking Water Supply System as defined by specialized buildings was likely absent.
 
-**Answer:** XXXabsentXXX"
+**Answer:** XXXabsentXXX",present
 mx_basin_of_mexico_6,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Terminal Formative Basin of Mexico between 100 BCE and 99 CE. First, let me understand what this polity was. The Terminal Formative Basin refers to a region that was part of the Aztec Empire during its last stages. The Aztecs were known for their advanced city-states like Tenochtitlan, which became Mexico City today.
 
@@ -270,7 +270,7 @@ Also, the definition says it's polity owned, which includes community or state o
 However, since the polity in question is the Terminal Formative Basin, which might be more of an early Aztec city before it fell, I'm leaning towards thinking they had some form of drinking water supply. Maybe not as complex as later ones, but still present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pk_indo_greek_k,present,"<think>
 Okay, so I need to figure out whether an Drinking Water Supply System (DWSS) was present in the Indo-Greek Kingdom between 180 BCE and 10 BCE. The polity is considered a small, centralized state with significant administrative control over its domain.
 
@@ -293,7 +293,7 @@ Additionally, during the Mauryan period, there were significant changes in gover
 In conclusion, considering the centralized nature of the polity, the need for public health and efficient governance, and historical context about resource management in ancient empires, it's reasonable to expect that a Drinking Water Supply System would have been present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 eg_kushite,present,"<think>
 Okay, so I'm trying to figure out whether Egypt had a Drinking Water Supply System during their Kushite Period, which was between 747 BCE and 656 BCE. First off, I remember that the Kushite Period refers to the reigns of Pharaohhotep II (690-671 BCE) and his son Seqenenrepsot Tutankhamun's father or an ancestor, but I might be mixing up some details here.
 
@@ -324,7 +324,7 @@ I'm leaning towards the idea that by the Kushite Period, especially during Tutan
 
 The Kushite Period in Egypt, spanning from 747 BCE to 656 BCE, likely included the reigns of Pharaohhotep II and his son Tutankhamun. During Tutankhamun's rule, which is considered part of the Kushite Period, significant architectural advancements occurred, including the construction of structures like the狮柱 (qubataiyun). These developments suggest that advanced engineering and water management systems were in place during this period. Therefore, it can be expected that a Drinking Water Supply System was present during the Kushite Period, particularly during Tutankhamun's reign.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ye_himyar_2,absent,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the polity Himyar II between 378 CE and 525 CE. First, I should understand what the Himyar II polity was. From what I remember, Himyar II was an Amorite dynasty that ruled over parts of the Arabian Peninsula during the early Islamic period.
 
@@ -343,7 +343,7 @@ I also need to think about any historical records or sources from this period th
 In summary, given their geographical location and the time period, I would expect that a Drinking Water Supply System was probably absent in the polity of Himyar II.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 tr_konya_eba,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Konya Plain during the Early Bronze Age, which was between 3000 BCE and 2000 BCE. Hmm, let's start by breaking down what I know about this period and region.
 
@@ -374,7 +374,7 @@ Given all this, I think it's reasonable to expect that such a system was present
 
 The Konya Plain during the Early Bronze Age (EBA) period likely experienced a mix of polities with and without Drinking Water Supply Systems (DWS). While evidence suggests that city-states like the Hittites may have incorporated DWS such as wells in their urban centers, the overall presence varied. Some areas might have had centralized systems due to strategic trade routes or agricultural needs, while others could have relied on local water sources without a formalized supply system. Thus, the expectation is that certain polities within the Konya Plain had DWS, but it was not uniformly present across all regions.
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_east_roman_emp,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Eastern Roman Empire between 395 CE and 631 CE. Hmm, let me start by breaking this down.
 
@@ -391,7 +391,7 @@ Also, I recall that Justinian's time had a focus on centralized governance, whic
 So putting it all together, I think the Drinking Water Supply System was present in the Eastern Roman Empire during its existence.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 us_cahokia_1,present,"<think>
 Okay, so I need to figure out whether a polity like Cahokia - Lohman-Stirling had a drinking water supply system. First, I should probably recall what Cahokia was. From what I remember, Cahokia is an ancient city in present-day Illinois, part of the Mississippian culture. It was known for being one of their largest cities around 1050 CE. 
 
@@ -406,7 +406,7 @@ So putting it all together, even if we don't know specifically about Cahokia, gi
 
 The presence of a drinking water supply system in the polity of Cahokia - Lohman-Stirling can be expected. Given its location and historical context as part of the Mississippian culture, which typically had access to natural water sources and engineering skills to manage water systems, it is reasonable to conclude that such a system was present during its time period (1050 CE to 1199 CE).
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 us_cahokia_2,absent,"<think>
 Okay, so I need to figure out whether there was a Drinking Water Supply System in Cahokia-Moorehead between 1200 CE and 1275 CE. I'm not super familiar with the history of this polity, but I know it's an Ancestral Puebloan settlement located in what is now Arizona.
 
@@ -432,7 +432,7 @@ Step-by-step explanation:
 2. **Water Reliance**: Puebloan cultures often relied on natural water sources, which might have become less accessible or reliable after the decline.
 3. **Post-Delay Factors**: Environmental factors and resource management could have contributed to the decline, potentially leading to the absence of an elaborate water system by 1275 CE.
 
-Answer: XXXabsentXXX"
+Answer: XXXabsentXXX",present
 us_woodland_1,present,"<think>
 Okay, so I need to figure out whether a polity like Cahokia had a drinking water supply system. I know that Cahokia was an early woodenland society in the Mississippian culture, existing from around 600 BCE to 150 BCE. 
 
@@ -449,7 +449,7 @@ I don't recall any information indicating that Cahokia didn't have access to wat
 
 The early Mississippian polity of Cahokia, known for its large city-states from 600 BCE to 150 BCE, utilized earthen mounds and channels to manage water supplies. These structures were essential for providing reliable water sources, both for residential and ceremonial needs. Therefore, a Drinking Water Supply System was expected to be present.
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 us_emergent_mississippian_2,absent,"<think>
 Alright, so I need to figure out whether a Drinking Water Supply System was present in Cahokia during the Mississippian II period (900 CE to 1049 CE). I'm not super familiar with all the details about this polity, but I'll try to break it down step by step.
 
@@ -476,7 +476,7 @@ I'm leaning towards 'absent' because even if they had a system, its decline and 
 
 The consideration of whether a Drinking Water Supply System existed in Cahokia during Mississippian II (900 CE–1049 CE) involves examining the polity's historical context and infrastructure. While there is no definitive evidence of such a system at its peak around 900 CE, the decline by approximately 1050 CE likely made any pre-decline systems obsolete or irrelevant due to the polity's collapse. Therefore, it is reasonable to conclude that the Drinking Water Supply System would be absent after this period.
 
-Answer: XXXabsentXXX"
+Answer: XXXabsentXXX",present
 us_woodland_5,absent,"<think>
 Okay, so I need to figure out whether there was a Drinking Water Supply System in Cahokia during the Late Woodland III period, which was from 600 CE to 750 CE. Let me start by recalling what I know about Cahokia.
 
@@ -495,7 +495,7 @@ Alternatively, maybe during peak times around 500-600 CE, the city still functio
 
 The Drinking Water Supply System (DWSS) in Cahokia during the Late Woodland III period (600-750 CE) is expected to have been absent. 
 
-**Answer:** XXXabsentXXX"
+**Answer:** XXXabsentXXX",present
 us_cahokia_3,absent,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Cahokia between 1275 CE and 1400 CE based on what I know about the polity. First, I should recall what Cahokia was like during that time.
 
@@ -512,7 +512,7 @@ Moreover, during times of decline, people might have relied more on what was ava
 So putting this all together, I think it's possible that by 1275 CE when the polity existed, a Drinking Water Supply System wasn't present anymore because their main reasons for decline didn't hinge on water. Therefore, expecting it to be absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 us_emergent_mississippian_1,present,"<think>
 Okay, so I'm trying to figure out whether a Drinking Water Supply System existed in Cahokia during its Mississippian I period, which was from 750 CE to 900 CE. First, I should probably understand what exactly a Drinking Water Supply System entails. From the question, it's defined as specialized buildings owned by the polity or community that provide drinking water. So, this could include structures like wells, reservoirs, filtration systems, etc.
 
@@ -525,7 +525,7 @@ I don't remember hearing about any specific absence of such systems during this 
 Also, considering that Cahokia was a hub for trade and migration, ensuring a reliable water supply would have been crucial for their sustenance and interactions with neighboring communities.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 af_durrani_emp,present,"<think>
 Okay, so I need to figure out whether the Durrani Empire had a Drinking Water Supply System based on its history between 1747 CE and 1826 CE. First, I should recall what I know about the Durrani Empire. It was an Islamic principality in Central Asia, right? They were known for their administrative efficiency and their use of a system called qanat, which is like an underground network used for irrigation.
 
@@ -540,7 +540,7 @@ I should also consider if there were any empires or dynasties before or after th
 But wait, the Durrani Empire was known for its efficient administration, so it's plausible they integrated a drinking water system into their governance to manage resources effectively across their large empire. Therefore, my initial thought is that they likely had such a system in place.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 af_greco_bactrian_k,present,"<think>
 Okay, so I'm trying to figure out whether a Drinking Water Supply System existed in the Greco-Bactrian Kingdom between 256 BCE and 125 BCE. Hmm, let's start by understanding what exactly this system entails. It seems like it refers to specialized buildings where water is supplied—either owned by the polity or the community itself.
 
@@ -573,7 +573,7 @@ Wait, maybe looking at their administrative structure can give a clue. If they h
 So, putting this all together: considering the period, the polity's nature, and the necessity for water supply systems in an agrarian society, I'm leaning towards expecting that such a system was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 af_kushan_emp,present,"<think>
 Alright, so I need to figure out whether the Kushan Empire had a drinking water supply system in place between 35 CE and 319 CE. Let me start by recalling what I know about the Kushans.
 
@@ -594,7 +594,7 @@ I should also think about any known archaeological evidence from Kushan cities l
 In conclusion, considering the size and administrative complexity of the Kushan Empire during this period, along with their engineering capabilities inherited from Ashoka's empire and later Roman parallels, it's highly likely that a Drinking Water Supply System was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 cn_eastern_han_dyn,present,"<think>
 Okay, so I need to figure out whether the Eastern Han Empire had a Drinking Water Supply System based on their buildings. Let me start by recalling what I know about the Eastern Han Empire. It was a Chinese dynasty that existed from 25 CE to 220 CE. They were known for being one of China's most unified and prosperous periods.
 
@@ -613,7 +613,7 @@ However, I should be careful not to assume too much without concrete evidence. W
 So, putting this all together, I think the Eastern Han Empire likely did have a Drinking Water Supply System because of their centralized governance, efficient infrastructure needs, and capacity for advanced resource management.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 sy_umayyad_cal,absent,"<think>
 Okay, so I need to figure out whether a drinking water supply system was present in the Umayyad Caliphate between 661 CE and 750 CE. Hmm, let me break this down step by step.
 
@@ -638,7 +638,7 @@ I'm leaning towards the conclusion that the Drinking Water Supply System was abs
 
 The Umayyad Caliphate's drinking water supply system was likely absent during their rule from 661 CE to 750 CE. This conclusion is based on factors such as their focus on military conquest over infrastructure development, potential challenges in water availability across their vast empire, and the broader decline of infrastructure investment during the 7th century. These elements suggest that a specialized drinking water supply system was absent during this period.
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 tr_konya_lba,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Konya Plain during the Late Bronze Age II period, which was between 1500 BCE and 1400 BCE. 
 
@@ -659,7 +659,7 @@ But wait, I also need to think about possible limitations. Were there any challe
 Considering all this together, it seems likely that the Konya Plain, under Hittite rule, would have had access to an adequate water supply system. The strategic location and the nature of their society suggest that such a system was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_hatti_new_k,absent,"<think>
 Okay, so I need to figure out whether a drinking water supply system existed in the Hatti New Kingdom polity between 1400 BCE and 1180 BCE. First, I should recall what I know about the Hatti culture and their history.
 
@@ -680,7 +680,7 @@ In summary, while it's possible that Hatti in the New Kingdom era had a drinking
 
 The Hatti New Kingdom polity, existing between 1400 BCE and 1180 BCE, likely lacked a drinking water supply system based on the available evidence. While advanced urban planning suggests possible investments in infrastructure, historical records or artifacts from this period do not specifically indicate the presence of such systems. Therefore, it is expected that the Drinking Water Supply System was absent.
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 tr_neo_hittite_k,present,"<think>
 Okay, so I need to figure out whether a Neo-Hittite Kingdoms would have had a Drinking Water Supply System. First, I should understand what the Neo-Hittite Kingdoms were like. From what I remember, they existed between around 1180 BCE and 900 BCE, based in the ancient region of Hittite Cyprus. They were known for their city-states, each with its own ruler, and their political structure was quite advanced.
 
@@ -697,7 +697,7 @@ Moreover, trade with neighboring regions would have required efficient water man
 So putting it all together, given their advanced city-states, engineering skills, and strategic importance in trade, I expect that the Neo-Hittite Kingdoms did have a Drinking Water Supply System.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 cn_ming_dyn,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed during the Great Ming polity, which spanned from 1368 CE to 1644 CE. First, I'll break down what a Drinking Water Supply System entails according to the definition given. It's about specialized buildings owned by the polity or its communities that provide drinking water. So, if such structures existed under the Ming dynasty, either through imperial ownership or the local communities, then it would be present; otherwise, absent.
 
@@ -714,7 +714,7 @@ On the other hand, while it's possible that the term ""drinking water supply sys
 So, putting this all together, I think a Drinking Water Supply System would have been present during the Great Ming polity.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 cn_tang_dyn_2,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed during the Tang Dynasty II, which was from 763 CE to 907 CE. First, I remember that the Tang Dynasty was one of China's most powerful and longest-ruling dynasties. They were known for their advancements in various fields, including infrastructure.
 
@@ -727,7 +727,7 @@ I'm not sure about the specifics, but I think that in many ancient civilizations
 Also, the term ""Drinking Water Supply System"" suggests it's a polity-owned system, which includes both state and community ownership. Given that the Tang Dynasty was centralized, I think they would have owned such systems. So putting this all together, I expect that during Tang Dynasty II, there was a Drinking Water Supply System present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 co_tairona,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Tairona between 1050 CE and 1524 CE. First, I should recall what Tairona was. From history, Tairona is also known as Chavín de Huántar, an Andean city that was the administrative center of the Inca Empire. It's located near the Andes mountain range in modern-day Peru.
 
@@ -744,7 +744,7 @@ However, after the Inca Empire fell in 1533 CE, Tairona was conquered by the Spa
 So putting this together, I expect that Tairona had a Drinking Water Supply System during the Inca period. After their decline, whether it was absent or not depends on if the Spanish took over and if they continued using the same system. But since the question is about the existence in general for the polity, even if the system was disrupted later, I think the answer would be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ec_shuar_1,absent,"<think>
 Okay, so I'm trying to figure out whether a Drinking Water Supply System existed in the Shuar - Colonial polity between 1534 CE and 1830 CE. I don't know much about this specific polity, but I can try to break down what I need to consider.
 
@@ -771,7 +771,7 @@ So, weighing these factors, I'm leaning towards absent because being in a coloni
 
 The Shuar - Colonial polity, existing between 1534 CE and 1830 CE, was part of a colonial system in the Americas. Given the historical context of colonial rule, which disrupted indigenous natural resources and shifted control over water sources, it is unlikely that they maintained an independent Drinking Water Supply System. Instead, their access to clean water may have depended on external European sources provided by settlements or colonial authorities. Therefore, absent.
 
-**Answer:** XXXabsentXXX"
+**Answer:** XXXabsentXXX",present
 eg_mamluk_sultanate_3,present,"<think>
 Alright, so I need to figure out whether a Drinking Water Supply System existed during the Mamluk Sultanate III period in Egypt, which was from 1412 CE to 1517 CE. 
 
@@ -788,7 +788,7 @@ However, I should consider if there were any periods where these systems were ab
 So putting it all together, I think it's expected that a Drinking Water Supply System existed during Mamluk Sultanate III.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ec_shuar_2,absent,"<think>
 Alright, so I need to figure out whether the Shuar polity in Ecuador had a Drinking Water Supply System between 1831 and 1931 CE. The system is defined as specialized buildings owned by the polity or its community, which includes the state if they're involved.
 
@@ -803,7 +803,7 @@ They might have had local solutions, such as relying on natural springs, rainwat
 So putting it all together: the Shuar likely didn't have a Drinking Water Supply System based on how their polity functioned, their water sources, and the historical context without state involvement.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 eg_dynasty_1,present,"<think>
 Okay, so I need to figure out whether an ancient Egyptian polity from around 3100 BCE to 2900 BCE would have had a Drinking Water Supply System. The system is defined as specialized buildings owned by the polity or their community. 
 
@@ -821,7 +821,7 @@ So, it's likely that such a system existed because the basic infrastructure need
 The presence of a Drinking Water Supply System during Dynasty I (circa 3100–2900 BCE) is expected to be present. Ancient Egyptians, under their pharaohs, likely invested in infrastructure such as reservoirs to ensure reliable water supply for agriculture and urban use, essential for sustaining their population.
 
 **Answer:**  
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_dynasty_2,present,"<think>
 Okay, so I need to figure out whether there was a Drinking Water Supply System in Egypt during Dynasty II, which existed from 2900 BCE to 2687 BCE. First, I should understand what the question is asking. The drinking water supply system refers to specialized buildings that provide access to safe or potable water, either owned by the polity (like the state) or the community. 
 
@@ -836,7 +836,7 @@ I also recall that during the reigns of pharaohs like Sesostris I, IV, V, VI, an
 Therefore, considering the engineering feats of the time and the need for reliable water sources, it's reasonable to conclude that a Drinking Water Supply System was present during Dynasty II.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 eg_mamluk_sultanate_1,absent,"<think>
 Okay, so I need to figure out whether the Mamluk Sultanate in Egypt had a Drinking Water Supply System. Let me start by recalling what I know about the Mamluk dynasty. It was established after Saladin's death in 1187 and ruled from around 1260 CE until the Ottoman Turks conquered them in 1348.
 
@@ -857,7 +857,7 @@ Wait, but since the question defines the presence of the system based on ownersh
 Given all this uncertainty, maybe it's safer to say that while they might have access to natural resources, there was no formal Drinking Water Supply System in place during their rule.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 eg_mamluk_sultanate_1,present,"<think>
 Alright, so I'm trying to figure out whether an Egypt Mamluk Sultanate would have a Drinking Water Supply System based on my knowledge up until 2023. Let me break this down.
 
@@ -874,7 +874,7 @@ Also, considering their administrative capabilities, they could have centralized
 So putting it all together, given their focus on infrastructure and efficient administration, it's reasonable to expect that an Egypt Mamluk Sultanate would have a Drinking Water Supply System present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 eg_mamluk_sultanate_3,present,"<think>
 Alright, so I need to figure out whether there was a Drinking Water Supply System in Egypt during the Mamluk Sultanate III period, which was from 1412 to 1517 CE. 
 
@@ -893,7 +893,7 @@ Moreover, during this period, there were also challenges like conflicts or envir
 In summary, while I'm not certain about specific details, the Mamluk Sultanate's size and administrative needs likely required a robust Drinking Water Supply System to support their vast empire.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_naqada_3,absent,"<think>
 Okay, so I need to figure out whether the drinking water supply system existed in Egypt during Dynasty 0, which was active between 3300 BCE and 3100 BCE. Hmm, I'm not super familiar with all the details of Egyptian history, but I'll try to piece it together.
 
@@ -908,7 +908,7 @@ Also, construction for such systems is probably expensive and labor-intensive. I
 I should also consider the economic factors. If water was abundant from natural sources without the need for storage or distribution, there might not have been a necessity for a specialized building system to manage it. So, perhaps during Dynasty 0, such systems were absent because they didn't exist yet in that context.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 il_judea,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the polity called Yehuda between 141 BCE and 63 BCE. First, I should recall what Yehuda was. From my history classes, I remember that Yehuda refers to several Jewish communities, including the ones in Caesarea, Capernaum, and Nablus. These were important centers for Jewish activities during the Roman period.
 
@@ -925,7 +925,7 @@ However, I should also consider if there were alternative methods of obtaining w
 In conclusion, based on the presence of Roman control, Roman law requiring infrastructure support, and the necessity for reliable water supply in an urban center like Caesarea during this period, I expect that a Drinking Water Supply System was present in Yehuda.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 fr_capetian_k_1,present,"<think>
 Okay, so I need to figure out whether a polity called the Proto-French Kingdom would have had a Drinking Water Supply System based on its historical context. The period is between 987 CE and 1150 CE. 
 
@@ -942,7 +942,7 @@ However, not all polities had such systems; some were more isolated or less adva
 So putting this together, I think the Proto-French Kingdom would expect to have a Drinking Water Supply System present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 fr_capetian_k_2,present,"<think>
 Alright, so I need to figure out whether a Drinking Water Supply System (DWS) was present in the French Kingdom during the Late Capetian period between 1150 CE and 1328 CE. Let me break this down step by step.
 
@@ -969,7 +969,7 @@ Looking at historical sources, I'm not sure about specific records on water supp
 In conclusion, considering the time frame, political stability, economic activities, and governance structures, it seems likely that the French Kingdom during the Late Capetian period did have a Drinking Water Supply System present. The central government's resources would support such an infrastructure for the benefit of the entire polity.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 fr_carolingian_emp_1,present,"<think>
 Okay, so I need to figure out whether the Carolingian Empire had a Drinking Water Supply System based on my knowledge of their history. Let me start by recalling what I know about the Carolingian Empire.
 
@@ -994,7 +994,7 @@ Alternatively, considering that many Carolingian towns had their own water syste
 
 The Carolingian Empire's history suggests that a Drinking Water Supply System was likely present during certain periods, particularly under Pepin the Short's reign when centralization and stability were achieved. While smaller in scale compared to larger polities, the empire invested enough resources into infrastructure due to the necessity for daily life, trade, and defense. Thus, while not universal throughout their entire existence, such systems were present at least during key periods, including under Pepin.
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 il_yisrael,absent,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System was present in Yisrael between 1030 BCE and 722 BCE. First, I should recall what Yisrael is—it's another name for the Kingdom of Israel, right? It existed from around 1458 BCE when Solomon founded it until its destruction by the Babylonians around 722 BCE.
 
@@ -1013,7 +1013,7 @@ I also think about trade routes and how resources were transported in ancient ti
 In summary, while there might have been plans for better water management during certain periods, there's no clear indication from historical records that Yisrael had an actual Drinking Water Supply System in place between 1030 BCE and 722 BCE. So, perhaps it was absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 in_deccan_ia,absent,"<think>
 Alright, so I need to figure out whether a Drinking Water Supply System (DWSS) was present in the Deccan Iron Age polity between 1200 BCE and 300 BCE. I'm not too familiar with this period or region, but I'll try to break it down.
 
@@ -1034,7 +1034,7 @@ Moreover, the absence of written records or archaeological evidence from this sp
 In summary, without concrete evidence, I'm leaning towards the absence of a Drinking Water Supply System because earlier periods might not have required such centralized systems. However, the possibility exists that as empires rose and fell within the Deccan region during this time, they might have had some form of system, either owned by or managed through local communities.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 mx_basin_of_mexico_4,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Middle Formative Basin of Mexico between 800 BCE and 401 BCE. I'm not super familiar with this region, but I remember that the Middle Formative Period is part of the Pre-Columbian history in Mexico, along with the Aztec and Pre-Aztec civilizations.
 
@@ -1053,7 +1053,7 @@ I should also consider the possibility of water being sourced from natural sourc
 In summary, given the agricultural intensity and urbanization during the Middle Formative Period, it seems reasonable to expect that a Drinking Water Supply System would have been present. The need for consistent water sources aligns with the demands of farming and supporting a growing population.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 no_norway_k_2,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System (DWSS) was present in Norway II during its time, which was between 1262 CE and 1396 CE. 
 
@@ -1086,7 +1086,7 @@ The question asks whether Norway II, an island kingdom existing between 1262 CE 
 
 During this period, many medieval kingdoms developed water supply systems due to the critical importance of clean water for daily life, agriculture, and health. Norway II's isolation might suggest less need for external supplies, but the region's proximity to religious sites like Bergen Cathedral likely provided access to pre-existing water sources that could be utilized effectively. Additionally, the kingdom may have integrated such systems into its governance or relied on communal efforts, as evidenced by other medieval polities. Therefore, it is expected that Norway II had a DWSS present during its time.
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 in_achik_1,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Early A'chik between 1775 CE and 1867 CE. I'm not very familiar with their history, but I can try to break this down.
 
@@ -1115,7 +1115,7 @@ Alternatively, considering the time frame overlaps with European colonial period
 I think I'll go with 'present' because many polities of that era likely developed such systems, especially if they were settled communities relying heavily on water for sustenance.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_achaemenid_emp,present,"<think>
 Okay, so I need to figure out whether the Achaemenid Empire had a Drinking Water Supply System based on their history. Hmm, where do I start? Well, I know that the Achaemenids were situated in what's now Iran, part of Persia. They were a powerful empire after Alexander the Great, right? He was killed in 323 BCE and his general, Darius I, took over.
 
@@ -1140,7 +1140,7 @@ Wait, but what about periods of conflict? Would that affect the presence of such
 So putting it all together: The Achaemenid Empire was a vast and complex polity with significant administrative needs. Given their infrastructure, including engineering expertise, it's reasonable to expect that they had a Drinking Water Supply System in place between 550 BCE and 331 BCE.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 in_achik_2,present,"<think>
 Okay, so I need to figure out whether a polity called Late A'chik had a Drinking Water Supply System between 1867 CE and 1956 CE. First, I should understand what the drinking water supply system entails. It's about whether there are specialized buildings for water supply—like reservoirs, purification plants, or distribution systems—owned by the polity, either through their community or government.
 
@@ -1159,7 +1159,7 @@ But given the time frame spans over 90 years, it's possible that advancements in
 In conclusion, considering historical trends towards infrastructure development for sustenance and health, and without specific reasons to believe Late A'chik was in an arid or isolated environment, it's reasonable to expect that a Drinking Water Supply System would be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 in_mahajanapada,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed during the Mahajanapada era, which was between 600 BCE and 324 BCE. I'm not too familiar with the history of that period, but I know it's an important part of Indian history, related to the Maurya Empire.
 
@@ -1178,7 +1178,7 @@ I should also consider if there are any historical texts or sources that mention
 Putting it all together, while I'm not entirely sure if they had the exact term ""Drinking Water Supply System,"" their infrastructure and administrative systems would likely have included ways to manage water access. So my initial thought is that it was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 in_mughal_emp,present,"<think>
 Okay, so I need to figure out whether the Mughal Empire had a drinking water supply system in place. The Mughal Empire was a vast empire that existed from around 1526 CE to 1858 CE under successive sultans. They were known for their extensive network of canals and rivers, especially the Yamuna River, which is the source of their drinking water.
 
@@ -1197,7 +1197,7 @@ However, I should also consider any potential challenges. Large empires often st
 In conclusion, given their geographic size, reliance on natural resources like the Yamuna, decentralized governance with regional rulers responsible for local administration, and comparison to other empires, it's reasonable to expect that the Mughal Empire did have a Drinking Water Supply System in place.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 in_vijayanagara_emp,present,"<think>
 Okay, so I need to figure out whether the Vijayanagara Empire had a Drinking Water Supply System based on its history from 1336 CE to 1646 CE. Let's break this down step by step.
 
@@ -1216,7 +1216,7 @@ Moreover, the empire's economy was likely agrarian-heavy, so having an efficient
 So putting it all together, given their administrative structure, military needs, economic dependencies on agriculture, and the importance of maintaining control over resources, it seems plausible that the Vijayanagara Empire did have a Drinking Water Supply System.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 iq_abbasid_cal_1,present,"<think>
 Okay, so I need to figure out whether the Abbasid Caliphate had a Drinking Water Supply System in place based on their buildings or infrastructure. The time frame is from 750 CE to 946 CE.
 
@@ -1234,7 +1234,7 @@ So putting it all together, considering their emphasis on governance, efficient 
 The Abbasid Caliphate, established after the fall of the Byzantine Empire, was known for its efficient administration and infrastructure. Given their focus on maintaining a healthy population through proper hygiene and resource management, it is reasonable to conclude that they likely implemented a Drinking Water Supply System using specialized buildings, such as those with advanced drainage systems and organized urban planning.
 
 **Answer:**  
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_early_dynastic,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System (DWSS) existed in the Early Dynastic period, which was between 2900 BCE and 2500 BCE. Hmm, let me think about this step by step.
 
@@ -1253,7 +1253,7 @@ Wait, but I'm not entirely certain if the term ""Drinking Water Supply System"" 
 Overall, considering the need for water management during that time and the centralized nature of polities, I would lean towards expecting a DWSS to have been present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 iq_neo_babylonian_emp,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Neo-Babylonian Empire between 626 BCE and 539 BCE. First, I should understand what this system entails. It's about having special buildings where drinking water is provided, which could be by the state or owned by the community.
 
@@ -1270,7 +1270,7 @@ I also recall that in later periods of Mesopotamia, there were campaigns to rest
 Therefore, considering the importance of water during this time and the likely maintenance of infrastructure by the ruling class, I would expect that a Drinking Water Supply System was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_ubaid,absent,"<think>
 Okay, so I need to figure out whether a polity called Ubaid, which existed between 5500 BCE and 4201 BCE, had a Drinking Water Supply System. The system is defined as polity-owned structures that provide drinking water, either owned by the community or the state.
 
@@ -1287,7 +1287,7 @@ So, putting it all together, while the time period suggests some level of comple
 
 The polity 'Ubaid', existing between 5500 BCE and 4201 BCE, is known for its reliance on fishing and submarine basket weaving. Although the time period suggests possible infrastructure development, there are no specific records indicating the presence of a Drinking Water Supply System. Ubaid's culture emphasized community living without centralized systems. Therefore, it is absent.
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 iq_parthian_emp_2,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed during the Parthian Empire II, which spanned from 41 CE to 226 CE. Hmm, I'm not too familiar with Parthian history, but I know they were a significant ancient empire in the region now known as Afghanistan. Let me try to break this down.
 
@@ -1312,7 +1312,7 @@ Also, considering similar empires in the region, such as the Kushan Empire or th
 In summary, given the strategic importance of water supply in ancient empires and the Parthians' organizational capabilities, I would expect that their polity during this period did have a Drinking Water Supply System present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_safavid_emp,absent,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Safavid Empire between 1501 CE and 1722 CE. First, let me recall what I know about the Safavid Empire. They were an Islamic dynasty in Iran, established by Shah Abbas Rezaoward in 1501. The empire lasted until it was overthrown in 1722.
 
@@ -1331,7 +1331,7 @@ So putting it all together, while water supply systems existed in other parts of
 
 The drinking water supply system as we understand it may not have been present within the Safavid Empire during its tenure from 1501 to 1722 CE. While other regions saw advancements in water systems around this period, there's no specific evidence indicating a formalized drinking water supply system specifically within the empire itself. Therefore, the answer is:
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 ir_sassanid_emp_2,present,"<think>
 Okay, so I need to figure out whether the Sasanid Empire II had a Drinking Water Supply System. Hmm, first off, what do I know about the Sasanids? They were an Iranian empire that existed from around 488 CE until their fall in 651 CE. But wait, there's a specific period called Sasanid Empire II mentioned here—between 488 and 642 CE. So maybe it refers to either the early or mid-period of the empire.
 
@@ -1352,7 +1352,7 @@ On the other hand, if the empire was dealing with internal conflicts or governan
 I'm leaning towards expecting the presence of a Drinking Water Supply System because empires in history often invest in infrastructure for sustainability and administration. Plus, considering their scale, it would be crucial to manage large populations.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_seleucid_emp,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed during the time when the Seleucid Empire was in place, which was between 312 BCE and 63 BCE. I'm not entirely sure about all the historical details, but I'll try to piece it together.
 
@@ -1383,7 +1383,7 @@ But since I don't recall specific mentions of this term, maybe it's safer to say
 I think after all this consideration, I'll go with 'present' because despite not being explicitly named as such, the selukids likely had effective water management due to their size and administrative needs.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_seljuk_sultanate,present,"<think>
 Okay, so I need to figure out whether the Seljuk Sultanate had a Drinking Water Supply System based on their history and social structures. Let me start by recalling what I know about the Seljuk Turks.
 
@@ -1410,7 +1410,7 @@ Also, considering other parts of the empire, like their use of copper and metal 
 Putting it all together, I think the Seljuk Sultanate likely did have a Drinking Water Supply System due to their engineering prowess and centralized administration that required reliable water sources for both palaces and cities.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 it_ostrogoth_k,absent,"<think>
 Okay, so I need to figure out whether the Ostrogothic Kingdom had a Drinking Water Supply System based on my knowledge of their history. First, let me recall what I know about the Ostrogoths. They were a Germanic tribe that ruled the territories around modern-day Czech Republic and Slovakia between 489 CE and 554 CE. The period is roughly equivalent to the time when the Visigoths were active.
 
@@ -1427,7 +1427,7 @@ I also remember that during periods of war or invasions, polities often lost the
 
 The Ostrogothic Kingdom likely lacked a Drinking Water Supply System by 554 CE. After losing support from the Merovingian dynasty and facing Avar invasions, their infrastructure, including any centralized water management systems, was disrupted. Thus, the system was absent during that time.
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 it_st_peter_rep_2,absent,"<think>
 Okay, so I'm trying to figure out whether the drinking water supply system existed in the Republic of St. Peter II (Rome) between 904 CE and 1198 CE based on my knowledge of world history. Hmm, first, I need to understand what a drinking water supply system entails. From the question, it's defined as specialized buildings that the polity owns, whether by the community or the state. So if there were public buildings designated for providing water, like water towers, reservoirs, or filtration systems, then it would be present.
 
@@ -1460,7 +1460,7 @@ Considering the historical context of the Republic of St. Peter II (Rome) during
 
 Therefore, based on the evidence and historical context, the drinking water supply system was expected to be **absent** during this period.
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 it_ravenna_exarchate,present,"<think>
 Alright, so I'm trying to figure out whether there was a Drinking Water Supply System in Ravenna between 568 CE and 751 CE based on the information about its history as an Exarchate. First off, I know Ravenna is famous for being the birthplace of St. Augustine, but I don't recall if that's directly related to the water supply system.
 
@@ -1473,7 +1473,7 @@ Another point is that during the 6th and 7th centuries, Ravenna was a hub for mi
 Putting this all together, I'm leaning towards the presence of a Drinking Water Supply System because the historical context of Ravenna as an exarchate under Justinian likely included infrastructure projects like aqueducts.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 it_roman_rep_3,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Late Roman Republic between 133 BCE and 31 BCE. Let's start by breaking down what this system is. It's defined as specialized buildings owned by the polity or the state, which supply drinking water. So, if such buildings existed in ancient Rome during that period, I should answer ""present""; otherwise, it would be ""absent.""
 
@@ -1494,7 +1494,7 @@ I should also consider if there are any historical records indicating the presen
 In summary, considering the importance of water supply for daily life in ancient cities, and the fact that Romans were skilled engineers who would invest in infrastructure projects, it's reasonable to expect that a Drinking Water Supply System was present during the Late Roman Republic between 133 BCE and 31 BCE.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 it_roman_rep_2,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Middle Roman Republic between 264 BCE and 133 BCE. Let's break this down.
 
@@ -1514,7 +1514,7 @@ Putting this together, the Middle Roman Republic would have expected a Drinking 
 The Middle Roman Republic, existing from approximately 264 BCE to 133 BCE, would have expected a Drinking Water Supply System. This expectation is rooted in the need for reliable water sources and the trend towards centralized governance, which facilitated the establishment of specialized infrastructure such as reservoirs and filtration systems.
 
 **Answer:**  
-XXXpresentXXX"
+XXXpresentXXX",absent
 pe_inca_emp,present,"<think>
 Okay, so I need to figure out whether the Inca Empire had a Drinking Water Supply System based on their polity structure. The question defines such a system as specialized buildings owned by the polity—either individually or collectively. 
 
@@ -1531,7 +1531,7 @@ So, putting it all together, it seems reasonable to expect that the Inca Empire 
 
 The Incas, with their centralized authority and emphasis on infrastructure for governance, likely implemented a Drinking Water Supply System. Their extensive road networks and agricultural demands suggest an investment in reliable water systems, though specific records are scarce.
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 it_st_peter_rep_1,absent,"<think>
 Okay, so I need to figure out whether the Republic of St. Peter I had a Drinking Water Supply System. I don't know much about this polity, but let's break down what I know.
 
@@ -1554,7 +1554,7 @@ I should also consider if any empires or regions around that time had such syste
 So, weighing these factors, it's possible that during St. Peter I's existence, there wasn't a Drinking Water Supply System present as per their definition. Therefore, I would lean towards 'absent.'
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 it_venetian_rep_3,absent,"<think>
 Okay, so I need to figure out whether the Republic of Venice III had a Drinking Water Supply System. From what I remember, the Republic of Venice was a significant European polity that existed from 1204 to 1563 CE. I know they were known for their merchant marine and maritime trade, but I'm not sure about their infrastructure systems like drinking water.
 
@@ -1577,7 +1577,7 @@ The Republic of Venice III, existing between 1204 CE and 1563 CE, did not have a
 
 **absent**
 
-XXXabsentXXX"
+XXXabsentXXX",present
 jp_azuchi_momoyama,present,"<think>
 Okay, so I need to figure out whether Japan during the Azuchi-Momoyama period had a Drinking Water Supply System as defined by the presence or absence of specialized buildings for drinking water. The time frame is between 1568 CE and 1603 CE.
 
@@ -1608,7 +1608,7 @@ But overall, I'm leaning towards believing that such a system was present becaus
 
 The polity of Japan during the Azuchi-Momoyama period (1568–1603 CE) saw the emergence of a more structured society with centralized governance. This shift likely included the development of specialized buildings and systems to manage essential resources like drinking water. While there may not have been as advanced infrastructure as in later periods, the transition from a daimyō-based system to an independent polity under the shogunate probably necessitated some level of organization for resource management. Therefore, it is reasonable to expect that a Drinking Water Supply System was present during this time.
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 jp_tokugawa_shogunate,present,"<think>
 Okay, so I need to figure out whether the Tokugawa Shogunate had a Drinking Water Supply System in place. First, let me recall what the Tokugawa Shogunate was like historically. It was Japan's imperial family from 1603 until the Meiji Restoration in 1868, right? They were responsible for maintaining control over Japan through military coups and established a centralized system of government.
 
@@ -1625,7 +1625,7 @@ However, I'm not entirely sure about specific details regarding Japan's water su
 So, considering the administrative needs, centralization of power, and the importance of maintaining health during such a long period, it seems plausible that the Tokugawa Shogunate had a Drinking Water Supply System in place. They probably ensured access to clean water through specialized buildings and infrastructure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kg_kara_khanid_dyn,absent,"<think>
 Okay, so I need to figure out whether the Kara-Khanid polity had a drinking water supply system. First, I should recall what the Kara-Khanids were like historically.
 
@@ -1643,7 +1643,7 @@ So putting it all together, while they might have needed some form of water mana
 The Kara-Khanid polity, active between 950 and 1212 CE, likely did not have a dedicated drinking water supply system. Their reliance on natural resources such as rivers suggests they managed water without the need for complex infrastructure. Thus, the presence of such a system is absent.
 
 **Answer:**  
-XXXabsentXXX"
+XXXabsentXXX",present
 kh_angkor_2,present,"<think>
 Alright, I'm trying to figure out whether the Classical Angkor had a Drinking Water Supply System. First, I need to understand what the system entails. It's about specialized buildings that either the polity owns or where communities might use, providing water. So, this could include palaces, temples, granaries, etc., each of which might have its own water sources.
 
@@ -1660,7 +1660,7 @@ I don't recall any major historical sources indicating that the Angkore Empire d
 So, putting this all together, I think the Drinking Water Supply System would be present in Classical Angkor.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_angkor_1,present,"<think>
 Alright, so I need to figure out whether the Early Angkor polity had a Drinking Water Supply System. The time frame is from 802 CE to 1100 CE. Hmm, okay. Let me start by recalling what I know about Angkor and its history.
 
@@ -1695,7 +1695,7 @@ Alternatively, considering the decline phase after 1200s, they might have had is
 Given all this, I'm leaning towards 'present' because their engineering capabilities suggest they had systems to manage water resources, even if not through a single specialized building. They might have used multiple structures for water storage and distribution across cities.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_monte_alban_3_a,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Monte Alban III between 200 CE and 500 CE. First, I should understand what Monte Alban was. From my limited knowledge, Monte Alban seems to refer to a city or polity, possibly an ancient Mediterranean settlement. The time frame given is from the early Roman Empire period up until the late antiquity.
 
@@ -1714,7 +1714,7 @@ Additionally, considering the era around 200-500 CE, which is a period of mixed 
 Therefore, putting this together, I think it's reasonable to expect that a Drinking Water Supply System was present in Monte Alban III during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_angkor_3,present,"<think>
 Okay, so I need to figure out whether the Late Angkor polity, which existed from 1220 CE to 1432 CE, had a Drinking Water Supply System. The system in question is defined as specialized buildings owned by the polity or its community that provide drinking water.
 
@@ -1735,7 +1735,7 @@ Additionally, I recall that many Angkorian temples and administrative centers we
 In conclusion, considering the scale of the empire, the centralization required for administration, and the engineering expertise present in their architecture, it's reasonable to expect that a Drinking Water Supply System was present during the Late Angkor period. They likely maintained such systems through specialized buildings and infrastructure to meet the water needs of their population and temples.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_khmer_k,present,"<think>
 Okay, so I need to figure out whether the Khmer Kingdom had a Drinking Water Supply System in place during its time, which was between 1432 CE and 1594 CE. The user has defined this system as either present or absent based on specialized buildings owned by the polity (which could include both public and community ownership). 
 
@@ -1756,7 +1756,7 @@ I should also think about any archaeological findings related to water systems d
 In summary, given the importance of water in daily life and the engineering capabilities demonstrated by the Khmer Empire, it's reasonable to expect that they would have implemented some form of Drinking Water Supply System within their polity.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_chenla,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Chenla between 550 CE and 825 CE. First, I should probably recall what Chenla was. From history, I remember that Chenla is an ancient Chinese city located in modern-day Shaanxi province. It was quite significant during the Tang Dynasty, which ruled from 618 to 907 CE. Since our time frame is between 550 and 825, that's within the Tang Dynasty.
 
@@ -1767,7 +1767,7 @@ Chenla being part of the Tang Dynasty would likely have had such a system. The T
 Also, considering the time period, 825 CE is just before the decline of the Tang Dynasty under Liardate's rule, but even then, infrastructure wasn't always abandoned immediately. It's plausible that Chenla continued to have a water supply system up until at least 825.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_funan_1,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Funan I between 225 CE and 540 CE. First, let's break down what the question is asking. A Drinking Water Supply System (DWS) here refers to specialized buildings owned by a polity for providing water, which could be their own structures or built by the community. The task is to determine if such a system was present or absent in Funan I during that period.
 
@@ -1786,7 +1786,7 @@ Also, considering the historical context, around 200 BCE, Funan I began expandin
 Therefore, putting this all together, it seems reasonable to expect that a Drinking Water Supply System was present in Funan I during their polity period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_funan_2,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in Funan II between 540 CE and 640 CE. I know that Funan II is the polity of Japan from 589 to 913 CE, but here it's specified as existing from 540 to 640 CE. Wait, maybe there was a shorter period? Or perhaps it's referring to a different interval within their history.
 
@@ -1811,7 +1811,7 @@ The Drinking Water Supply System present in Funan II is expected to be:
 
 **XXXpresentXXX**
 
-This conclusion is based on the understanding that during the Nara Period, Japan began implementing infrastructure improvements, including water supply systems as part of their rebuilding and governance efforts."
+This conclusion is based on the understanding that during the Nara Period, Japan began implementing infrastructure improvements, including water supply systems as part of their rebuilding and governance efforts.",present
 mx_basin_of_mexico_1,present,"<think>
 Alright, so I need to figure out whether there was a Drinking Water Supply System in the Archaic Basin of Mexico between 6000 BCE and 2001 BCE. Hmm, okay. Let me start by breaking down what the question is asking.
 
@@ -1832,7 +1832,7 @@ On the other hand, if the basin was largely rural or sparsely populated at the t
 So, putting this all together, it's reasonable to expect that a Drinking Water Supply System would have been present. There's historical evidence of advanced water systems in similar areas, even if they were smaller or less elaborate than later examples.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 mx_basin_of_mexico_3,present,"<think>
 Okay, so I need to figure out whether a polity in the Early Formative Basin of Mexico would have had a Drinking Water Supply System. The time frame is from 1200 BCE to 801 BCE.
 
@@ -1851,7 +1851,7 @@ I should also think about specific examples within this time frame. For instance
 In conclusion, while it's possible that an early polity in this region might not have had a full-fledged Drinking Water Supply System right away, by the end of the 8th century BCE, as their infrastructure developed and city-states began to form, such systems would likely emerge. So expecting presence makes sense.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pe_inca_emp,present,"<think>
 Okay, so I need to figure out whether an Inca Empire would have a Drinking Water Supply System. The question defines this system as specialized buildings that the polity owns or uses for water supply—either owned by the community or the state.
 
@@ -1870,7 +1870,7 @@ Moreover, the empire's administrative complexity would necessitate organized wat
 So putting this all together, it seems logical that an Inca polity would have a Drinking Water Supply System due to their advanced engineering and organizational structures.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 pe_wari_emp,absent,"<think>
 Okay, so I need to figure out whether the Wari Empire had a Drinking Water Supply System based on my knowledge of their history. Let's start by recalling what I know about the Wari Empire.
 
@@ -1895,7 +1895,7 @@ In summary, I'm leaning towards ""absent"" because the information isn't explici
 
 The Wari Empire's history suggests that while they may have utilized water for various purposes, including agricultural and urban contexts, there is no explicit record of a centralized Drinking Water Supply System as defined in the question. Given their emphasis on agriculture and trade rather than domestic water supply systems, it is reasonable to conclude that such a system was absent.
 
-**Answer: XXXabsentXXX**"
+**Answer: XXXabsentXXX**",absent
 pg_orokaiva_colonial,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System (DWSS) existed in the polity ""Orokaiva - Colonial"" between 1884 CE and 1942 CE. The question defines DWSS as either present or absent based on specialized buildings owned by the polity or its community, which includes both state and community ownership.
 
@@ -1924,7 +1924,7 @@ However, there are exceptions where indigenous communities might have managed wa
 Therefore, I think that the Drinking Water Supply System would be present in Orokaiva - Colonial during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pk_kachi_proto_historic,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the polity known as Kachi Plain during its proto-historical period, which was from 1300 BCE to 500 BCE. The question defines this system as specialized buildings that are owned by the polity or the community, including the state if it's relevant.
 
@@ -1947,7 +1947,7 @@ In summary, given the period and context, it's plausible that a Drinking Water S
 
 The drinking water supply system is expected to be present in the polity of Kachi Plain during its proto-historical period (1300 BCE–500 BCE). 
 
-**Answer:** XXXpresentXXX"
+**Answer:** XXXpresentXXX",present
 pk_kachi_urban_1,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed during the Kachi Plain - Urban Period I, which was between 2500 BCE and 2100 BCE. I don't know much about this specific period or polity, but I can try to think through what I know about ancient civilizations and their infrastructure.
 
@@ -1960,7 +1960,7 @@ I'm not sure about the exact time period of the Kachi Plain's history, but 2500 
 However, without specific information about their political structure or engineering capabilities during that time, it's hard to be certain. But given the arid nature of the Kachi Plain and the importance of water in early human settlements, it seems plausible that they would have had some form of Drinking Water Supply System.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pk_kachi_urban_2,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed during the Kachi Plain - Urban Period II, which was from 2100 BCE to 1800 BCE. I'm not very familiar with this specific polity, but I'll try to break it down.
 
@@ -1981,7 +1981,7 @@ Additionally, historical records from this period might mention architectural fe
 In conclusion, considering the need for reliable water sources and the complexity of managing water in arid regions, it's reasonable to expect that a Drinking Water Supply System was present during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ru_sakha_early,present,"<think>
 Okay, so I'm trying to figure out whether a polity called Sakha - Early had a Drinking Water Supply System. The time frame is between 1400 CE and 1632 CE. 
 
@@ -2002,7 +2002,7 @@ Given that Sakha - Early existed between 1400-1632, it's plausible they would ha
 Therefore, I'm leaning towards the presence of such a system based on the need and the likelihood that community efforts would provide it.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ru_sakha_late,present,"<think>
 Okay, so I need to figure out whether a polity called Sakha - Late, which existed from 1632 CE to 1900 CE, would have had a Drinking Water Supply System. I'm not exactly familiar with this polity, but I'll try to break it down.
 
@@ -2019,7 +2019,7 @@ I should also consider if there are any historical examples within this time fra
 So putting it all together, I think a Drinking Water Supply System would likely be present, either through local construction or as part of the colonial administration efforts.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 th_rattanakosin,present,"<think>
 Okay, so I need to figure out whether a polity called Rattanakosin had a Drinking Water Supply System between 1782 CE and 1873 CE. I'm not too familiar with Rattanakosin, but from what I remember, it's an ancient kingdom in Thailand. They were known for their advanced water management systems.
 
@@ -2032,7 +2032,7 @@ Moreover, Rattanakosin was known for its administrative efficiency, maintaining 
 Given that other Thai polities had such systems, it's likely that Rattanakosin also had a Drinking Water Supply System in place during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_byzantine_emp_1,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System (DWS) existed in the Byzantine Empire during its time, which was from 632 CE to 866 CE. The definition given says that DWS is present if there are special buildings owned by the polity or the community for water supply.
 
@@ -2055,7 +2055,7 @@ In summary, given their vast empire and the necessity for reliable water supply,
 
 The answer is XXXpresentXXX.
 
-The Byzantine Empire, existing from 632 CE to 866 CE, likely maintained a Drinking Water Supply System (DWS) due to its extensive territorial coverage and reliance on agriculture, which necessitated reliable water sources. The empire's organized administration would have included infrastructure such as reservoirs, wells, and distribution networks to ensure access to water in both urban and rural areas. Although there might be variations based on geographical conditions, the centralization of resources and governance suggests that a DWS was present during this period."
+The Byzantine Empire, existing from 632 CE to 866 CE, likely maintained a Drinking Water Supply System (DWS) due to its extensive territorial coverage and reliance on agriculture, which necessitated reliable water sources. The empire's organized administration would have included infrastructure such as reservoirs, wells, and distribution networks to ensure access to water in both urban and rural areas. Although there might be variations based on geographical conditions, the centralization of resources and governance suggests that a DWS was present during this period.",absent
 tr_byzantine_emp_2,present,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System existed in the Byzantine Empire II between 867 CE and 1072 CE. The user provided a definition that includes specialized buildings owned by the polity or the community, which can include the state. So, if such buildings exist for providing drinking water, then it's present; otherwise, absent.
 
@@ -2074,7 +2074,7 @@ I should check if there are any references or sources indicating that during thi
 Wait, though, I think even as empires decline, they often still maintained essential services due to community needs or state necessity. So it's possible that during this period from 867 to 1072 CE, the Byzantine Empire did have a Drinking Water Supply System present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_byzantine_emp_3,absent,"<think>
 Okay, so I need to figure out whether a Drinking Water Supply System was present in the Byzantine Empire III between 1073 and 1204 CE. Hmm, I'm not super familiar with Byzantine history, but I'll try to break this down step by step.
 
@@ -2103,7 +2103,7 @@ Given all this, I'm leaning towards thinking that while such a system was presen
 
 The presence of a Drinking Water Supply System in Byzantine Empire III between 1073 and 1204 CE can be analyzed through the lens of the Justinianic Period (527–565 CE), during which significant infrastructure improvements, including water systems, were implemented. However, as the empire declined after this period, resources for maintaining such systems likely decreased.
 
-Answer: XXXabsentXXX"
+Answer: XXXabsentXXX",absent
 tr_hatti_old_k,present,"<think>
 Okay, so I need to figure out whether the Hatti - Old Kingdom had a Drinking Water Supply System. From what I remember, the Hatti Empire was around between 1650 BCE and 1500 BCE in modern-day present-day Tunisia. They were known for their advanced city planning and administrative systems.
 
@@ -2114,7 +2114,7 @@ I'm not exactly sure if they had specialized buildings for drinking water, but t
 Therefore, I'm leaning towards expecting the Drinking Water Supply System to be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_lysimachus_k,present,"<think>
 Okay, so I need to figure out whether the Lysimachus Kingdom had a Drinking Water Supply System based on my knowledge of their history. The time period is between 323 BCE and 281 BCE.
 
@@ -2129,7 +2129,7 @@ Also, during that time, there were advancements in engineering and urban plannin
 So putting it all together, the presence of specialized buildings and owned drinking water supply systems seems plausible. Therefore, I expect that a Drinking Water Supply System was present during the Lysimachus Kingdom period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_ottoman_emp_1,present,"<think>
 Alright, so I need to figure out whether the Ottoman Empire had a Drinking Water Supply System in place during its time. The Ottoman Empire existed from 1402 CE to 1517 CE, right? Okay, so I'm looking at this period before and after that.
 
@@ -2150,7 +2150,7 @@ So putting it all together, I think the Ottoman Empire did have a Drinking Water
 
 The Ottoman Empire, existing from 1402 CE to 1517 CE, was known for its extensive administrative structure and focus on resource management. Given their emphasis on hygiene, efficient water distribution systems were likely in place. The use of reservoirs, filtration methods, and organized control through beylik systems would have supported a Drinking Water Supply System.
 
-**Answer:** XXXpresentXXX"
+**Answer:** XXXpresentXXX",absent
 tr_ottoman_emp_2,present,"<think>
 Okay, so I need to figure out whether the Ottoman Empire had a drinking water supply system in place during its time between 1517 CE and 1683 CE. I know that the Ottoman Empire was quite extensive, covering a lot of land from Anatolia all the way down to modern-day countries like Albania and parts of the Middle East. They were known for their administrative systems, which were pretty organized.
 
@@ -2171,7 +2171,7 @@ I should also consider the time period. The Ottomans were around from 1517 to 16
 In summary, given their vast empire, efficient administrative structure, investment in infrastructure, engineering capabilities, and public health considerations, it seems highly likely that the Ottoman Empire did have a drinking water supply system during this period. They probably maintained this through specialized buildings like reservoirs, aqueducts, treatment facilities, etc., ensuring a reliable water source for their entire empire.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_ottoman_emp_3,absent,"<think>
 Okay, so I need to figure out whether an Ottoman Empire III had a Drinking Water Supply System based on the time period between 1683 CE and 1839 CE. First, I should probably understand what the Ottomans were like during that time.
 
@@ -2182,7 +2182,7 @@ The concept of an Ottoman Empire III is not well-documented historically. The Ot
 
 The absence of such a system can be attributed to the challenges faced by the empire during its later years, including limited resources, logistical difficulties in maintaining a centralized water supply, and political instability which could have impeded infrastructure development.
 
-Answer: XXXabsentXXX"
+Answer: XXXabsentXXX",absent
 us_haudenosaunee_1,present,"<think>
 Okay, so I need to figure out whether a drinking water supply system existed in the Haudenosaunee Confederacy between 1566 CE and 1713 CE. Let's break this down.
 
@@ -2203,7 +2203,7 @@ So putting it all together, while European colonization might have caused some c
 
 The Haudenosaunee Confederacy, an indigenous Anishinaabeg community in present-day Ontario, Canada, likely had a drinking water supply system in place between 1566 CE and 1713 CE. As an ancient and long-standing community, they would have developed robust infrastructure to manage their resources, including water. Despite European colonization, which may have disrupted some systems, the Haudenosaunee maintained their self-sufficient ways of life with reliable water management practices.
 
-**Answer: XXXpresentXXX**"
+**Answer: XXXpresentXXX**",absent
 us_haudenosaunee_2,present,"<think>
 Okay, so I need to figure out whether there was a Drinking Water Supply System (DWS) in the Haudenosaunee Confederacy between 1714 CE and 1848 CE. First, I should understand what exactly this system entails. According to the question, it's about specialized buildings owned by the polity or communities within them for providing drinking water. So if a polity had such systems, it would be present; otherwise, absent.
 
@@ -2222,7 +2222,7 @@ Given that, and considering the definition provided, which includes ownership by
 Therefore, during the Late period, there would still be some form of Drinking Water Supply System present in those areas that were under their jurisdiction or control.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 uz_samanid_emp,present,"<think>
 Okay, so I need to figure out whether the Samanid Empire had a Drinking Water Supply System. I'm not too familiar with their history, but I'll try to break it down step by step.
 
@@ -2243,7 +2243,7 @@ But without specific records or historical texts mentioning their drinking water
 In summary, based on what I know about the Samanid Empire and typical needs of ancient polities during that era, I would expect them to have had some form of Drinking Water Supply System. They likely integrated basic infrastructure to support their growing population and administration.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 uz_sogdiana_city_states,present,"<think>
 Okay, so I'm trying to figure out whether a Drinking Water Supply System existed in Sogdiana during its city-states period from 604 CE to 711 CE. First off, I need to understand what exactly the question is asking. A Drinking Water Supply System here refers to specialized buildings that are either owned by the polity itself or the community as part of their water supply infrastructure.
 
@@ -2270,7 +2270,7 @@ But I'm not certain if the Abbasids specifically provided funds or support for s
 In conclusion, considering the reliance on agriculture and trade, the need for clean water sources, and the possible continuation of infrastructure under subsequent empires, I would lean towards expecting that a Drinking Water Supply System was present in Sogdiana during this period. However, without concrete evidence from that specific time, it's a bit speculative.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ye_qasimid_dyn,present,"<think>
 Okay, so I need to figure out whether a drinking water supply system existed in Yemen during the Qasimid Dynasty, which was from 1637 CE to 1805 CE. I'm not super familiar with Yemen's history, but I know that Yemen has had several civilizations and political periods. The Qasimids were one of them.
 
@@ -2293,4 +2293,4 @@ Alternatively, maybe they didn't have such systems because of limited resources 
 I think I'm leaning towards present because aridity requires reliable water sources, and rulers often invest in such systems to sustain their population and economy. So, I expect the Drinking Water Supply System to be present during the Qasimids.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent

@@ -1,4 +1,4 @@
-new_name,answer,full
+new_name,answer,full,correct
 jp_kofun,present,"<think>
 Okay, so I need to figure out whether roads were present in the Kansai region during the Kofun Period (250 CE to 537 CE). Hmm, first off, what do I know about the Kofun Period? It was a time of significant cultural and societal development in Japan, right? The Kofun is often associated with the rise of urbanization and administrative centers. 
 
@@ -13,7 +13,7 @@ I think in ancient times, especially in regions with dense settlements and trade
 But I'm also thinking about the materials used for roads back then. Were there asphalt-like substances? Probably not; maybe dirt paths or stone roads. But even so, the concept of deliberately constructed roads would still apply. So yeah, I think roads were present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 jp_kofun,present,"<think>
 Okay, so I need to figure out whether roads existed during the Kofun Period in Japan, specifically for Roads, which is defined as deliberately constructed roads connecting settlements outside of individual sites. The period we're looking at is from 250 CE to 537 CE.
 
@@ -36,7 +36,7 @@ I should also consider the transportation methods of the time. Before roads, peo
 Therefore, I think roads were present during the Kofun Period as a necessity for trade, migration, and governance among various clans and towns that began to emerge.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 co_neguanje,present,"<think>
 Okay, so I need to figure out whether the polity known as Neguanje had roads during the time between 250 CE and 1050 CE. I'm not too familiar with this specific region or its history, but I'll try to break down what I know.
 
@@ -55,7 +55,7 @@ But then again, some periods might have been more agrarian or focused on interna
 So putting it all together: the periods around 250–1050 CE include times when road systems were definitely developed—like during the Sui, Tang, and Song. Since Neguanje is within this timeframe, I'd expect roads to be present unless there's specific evidence otherwise.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 jp_kofun,present,"<think>
 Okay, so I need to figure out whether roads were present in the Kansai region during the Kofun Period, which was between 250 CE and 537 CE. Hmm, I'm not too familiar with Japanese history in detail, but I'll try to piece it together.
 
@@ -76,7 +76,7 @@ Additionally, the Shogunate came into power in 1234 CE and started centralizing 
 So putting this together, it seems that as Jurchen incursions brought roads with them, and the growing need for trade and defense necessitated better transport systems. Therefore, roads were probably present in Kansai during the Kofun Period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 co_neguanje,absent,"<think>
 Alright, so I need to figure out whether the polity called ""Neguanje"" had roads or not, based on its history between 250 CE and 1050 CE. The question is asking if Roads (as defined) was present or absent in Neguanje during that time.
 
@@ -111,7 +111,7 @@ Lastly, I should think about regional alliances and conflicts. If Neguanje was p
 Putting it all together, without specific information on Neguanje's history or their economic/military activities, it's challenging to say definitively. However, considering the time period and possible reasons for a polity's lack of road infrastructure, I'm leaning towards absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 th_rattanakosin,absent,"<think>
 Okay, so I need to figure out whether the polity Rattanakosin had roads based on the time period between 1782 CE and 1873 CE. The user wants me to think about this as someone with knowledge of world history, even though I'm not an expert. 
 
@@ -132,7 +132,7 @@ Also, considering the historical context, European powers focused their attentio
 So putting this all together, I don't expect roads to be present in Rattanakosin during the 18th and early 19th centuries because it wasn't part of a centralized kingdom building infrastructure there, and it's not densely populated enough to need road networks.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ru_soviet_union,present,"<think>
 Okay, so I need to figure out whether roads were present in the Soviet Union during its existence from 1918 to 1991 CE. Let me start by recalling what I know about the Soviet Union's history.
 
@@ -151,7 +151,7 @@ In some cases, especially under certain leaders like Stalin or Khrushchev, the e
 Therefore, putting this all together, I expect that roads were definitely present during the Soviet Union's history. They played a vital role in connecting various parts of the empire, supporting both domestic operations and international relations.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 us_hawaii_2,absent,"<think>
 Alright, so I'm trying to figure out whether the polity ""Hawaii II"" had roads or not. The time frame given is between 1200 CE and 1580 CE. Okay, first off, I need to make sure I understand what ""Hawaii II"" refers to. From what I remember, Hawaii has a history that's quite different from other parts of the Pacific. It was part of the Kingdom of Hawaii until its eventual overthrow in 1903.
 
@@ -170,7 +170,7 @@ But wait, I'm not entirely sure. The Polynesians did develop long-distance commu
 Alternatively, perhaps ""Hawaii II"" refers to a specific period where roads were indeed constructed as part of infrastructure projects for agriculture, military, or governance purposes. Without more context, it's hard to say definitively, but considering the broader historical trends towards isolation and limited contact, I might lean toward absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 uz_timurid_emp,present,"<think>
 Okay, so I need to figure out whether roads were present in the Timurid Empire based on my knowledge of history. Let me start by recalling what I know about the Timurid Empire.
 
@@ -191,7 +191,7 @@ I also think about the time period when roads were being built. In medieval time
 Putting this all together, I expect that the Timurid Empire did have roads present as part of their transport infrastructure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 fr_valois_k_1,absent,"<think>
 Okay, so I'm trying to figure out whether roads were present in the Early Valois French Kingdom between 1328 CE and 1450 CE based on what I know about their history. First, I remember that the Valois dynasty was prominent during this time, ruling from France. Roads would have been significant for trade, military movements, and connecting various regions.
 
@@ -210,7 +210,7 @@ Wait, but was road construction standardized? I think in medieval Europe, roads 
 I'm leaning towards absent because maybe they focused more on other aspects like walls and administrative centers without extensive road networks. Or perhaps roads existed but weren't as developed or prominent as in later periods.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 it_papal_state_3,absent,"<think>
 Okay, so I need to figure out whether roads were present in the Papal States during the Early Modern Period (1527-1648 CE). First, I should understand what the Papal States were like historically. They were a collection of territories controlled by the Catholic Church from Rome, including places like Italy, France, and parts of Germany, as well as colonies in places such as Spain, Portugal, the Netherlands, and even parts of Eastern Europe.
 
@@ -227,7 +227,7 @@ I should also consider the economic activities of the Papal States. Since they w
 In summary, while there might have been some roads used for governance or military purposes, given the medieval reliance on animal-based paths and the hierarchical structure of the Papal States under Rome, I would expect that dedicated road infrastructure was absent in the Early Modern Period.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 id_majapahit_k,present,"<think>
 Okay, so I have this question about the Majapahit Kingdom, which existed from 1292 CE to 1518 CE. The question is asking whether roads were present or not during that time based on the definition provided. Roads here are defined as deliberately constructed roads connecting settlements or sites, excluding streets within settlements and paths between them.
 
@@ -244,7 +244,7 @@ Additionally, trade was likely an important aspect. Nepal has had extensive trad
 So putting it all together, the Majapahit Kingdom's history includes periods of road construction to support their expansion and governance. Therefore, it's reasonable to expect that roads were present during their reign.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 eg_naqada_1,absent,"<think>
 Okay, so I need to figure out whether the polity Naqada I had roads or not. From what I remember, Naqada I was an early Iron Age society in sub-Saharan Africa, existing from around 3800 BCE to 3550 BCE. Their population numbers were around 120,000 people.
 
@@ -261,7 +261,7 @@ I also recall that Naqada I had urban centers and perhaps trade routes, but whet
 So, considering all this, it seems possible that while roads weren't a common feature of Naqada I's transport infrastructure, there might not have been many dedicated roadways either.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 id_medang_k,present,"<think>
 Okay, so I need to figure out whether the Medang Kingdom had roads or not based on what I know about their history. Let me start by recalling some information about the Medang Kingdom.
 
@@ -278,7 +278,7 @@ However, I'm not entirely sure if they specifically built roads as we understand
 In summary, considering the Medang Kingdom's need for efficient transport given their large empire, I think they would have had roads as per the definition provided.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 in_mughal_emp,absent,"<think>
 Okay, so I need to figure out whether roads were present in the Mughal Empire based on what I know about it. The Mughal Empire existed from 1526 CE to 1858 CE, right? It's a huge empire in South Asia, stretching across modern-day countries like India, Pakistan, and parts of Nepal.
 
@@ -297,7 +297,7 @@ So I think the answer is 'absent.' Roads were present during some periods but li
 
 The Mughal Empire's infrastructure included roads and other transport systems for their vast empire, especially under Akbar. However, later periods saw decline due to conflict and changing rulers, leading to a reduction in road maintenance and reliance on camel caravans. Thus, roads were absent after the empire's decline.
 
-XXXabsentXXX"
+XXXabsentXXX",present
 in_vijayanagara_emp,present,"<think>
 Okay, so I need to figure out whether the Vijayanagara Empire had roads or not based on what I know. The empire existed from 1336 CE to 1646 CE. First, I remember that the Vijayanagars were part of the larger Deccan Sultanate in South India, which was a major political and cultural center during their rule.
 
@@ -318,7 +318,7 @@ I'm a bit torn here. I think it's possible they had roads but perhaps not as ext
 
 The Vijayanagara Empire, existing from 1336 CE to 1646 CE, likely had roads during its peak period due to its administrative needs and control over vast territories. However, as the empire declined or faced challenges such as internal conflict, reliance on alternative transport methods might have decreased. Thus, expecting them to be absent isn't entirely accurate.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_neo_assyrian_emp,present,"<think>
 Okay, so I need to figure out whether the roads existed in the Neo-Assyrian Empire based on their transport infrastructure. Let's start by recalling what I know about the Neo-Assyrian Empire.
 
@@ -337,7 +337,7 @@ Moreover, roads were probably used for caravans and horses, which were important
 Considering all this, it seems very likely that the Neo-Assyrian Empire had a road infrastructure in place. So Roads should be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_seljuk_sultanate,present,"<think>
 Okay, so I need to figure out whether roads existed in the Seljuk Sultanate based on what I know about their history. The Seljuk Turks were a powerful Islamic principality that ruled from 1037 CE until 1157 CE, right? So that's about a century and a half.
 
@@ -354,7 +354,7 @@ I'm not sure if there's specific evidence about roads from that period, but give
 So, considering all this, I think the answer should be 'present'.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 is_icelandic_commonwealth,absent,"<think>
 Okay, so I need to figure out whether roads were present or absent in the Icelandic Commonwealth based on its history from 930 CE to 1262 CE. Hmm, let's break this down.
 
@@ -377,7 +377,7 @@ I should also think about how their economy functioned. If it was primarily agra
 Putting this all together, while there might have been some roads built for strategic reasons (like defense or resource transportation), the overall presence of widespread, well-connected road infrastructure is less likely because of the commonwealth's decentralized nature and emphasis on other forms of governance and economic activity.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 it_latium_ba,present,"<think>
 Okay, so I need to figure out whether the polity called Latium in the Bronze Age period (1800 BCE to 900 BCE) had roads or not. Hmm, I don't know much about this specific group, but I can think through what I do know.
 
@@ -402,7 +402,7 @@ I think it's possible that by 1800 BCE, Latium had some form of transport infras
 So, putting it all together, I'm leaning towards the idea that roads were present in Latium during the Bronze Age, as part of their transport infrastructure before the Roman conquest or expansion periods.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_ostrogoth_k,absent,"<think>
 Okay, so I need to figure out whether the Ostrogothic Kingdom had roads or not based on what I know about their history. Let me start by recalling what I remember about this period.
 
@@ -417,7 +417,7 @@ Moreover, considering that many Germanic kingdoms before and after the Ostrogoth
 So, putting this all together, I don't recall any mention of road infrastructure being part of the Ostrogothic Kingdom's development. Therefore, Roads as defined wouldn't be present.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 it_st_peter_rep_2,present,"<think>
 Okay, so I need to figure out whether roads were present in the Republic of St. Peter II, which existed from 904 CE to 1198 CE. The user defines roads as deliberately constructed infrastructure connecting settlements, excluding streets within towns and paths between them.
 
@@ -432,7 +432,7 @@ However, the collapse of the Western Roman Empire around 1198 CE could indicate 
 So considering that, it's reasonable to expect that Roads would be present during the time of the Republic of St. Peter II.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_papal_state_2,present,"<think>
 Okay, so I need to figure out whether roads were present or absent in the polity known as the Papal States during the Renaissance period. The time frame given is from 1378 CE to 1527 CE. 
 
@@ -457,7 +457,7 @@ In terms of transport infrastructure, roads might have been present but not as d
 So, putting this all together, I think that during the Renaissance period in the Papal States, roads would have existed but were likely not as advanced as in more developed European cities. They might have been part of a network supporting trade, governance, and travel between settlements. Therefore, Roads should be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_roman_principate,present,"<think>
 Okay, so I'm trying to figure out whether roads were present in the Roman Empire during their Principate period, which was from 31 BCE to 284 CE. Let me start by recalling what I know about the Roman Empire and their infrastructure.
 
@@ -472,7 +472,7 @@ Then there's the later period after the Principate, when Constantine the Great m
 So putting it all together, I think that while emperors from the Principate onwards did continue to construct or maintain road networks, like the Carpedamae. The roads were a key part of their infrastructure during that time. Therefore, Roads would be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 jp_asuka,present,"<think>
 Okay, so I need to figure out whether the Asuka Empire had roads or not based on what I know about their history. First, let me think about when the Asuka period was. It was from 538 CE to 710 CE. That's a period of significant cultural and political development in East Asia.
 
@@ -489,7 +489,7 @@ On the other hand, I'm not sure about specific records indicating that the Asuka
 So putting this all together, I think it's reasonable to expect that roads were present in the Asuka polity, especially considering their extensive movements and need for efficient transportation during their period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 jp_jomon_1,present,"<think>
 Okay, so I need to figure out whether Roads was present or not in the historical polity known as Japan - Incipient Jomon, which existed between 13600 BCE and 9200 BCE. First, I should understand what ""Roads"" refers to here. It's defined as deliberately constructed roads connecting settlements or sites, excluding streets within settlements and paths that develop naturally.
 
@@ -504,7 +504,7 @@ Additionally, the construction of roads would require significant resources and 
 So, putting this together, Roads likely existed but perhaps in a different form—more as temporary or internally managed paths rather than deliberately constructed roads as defined.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mn_mongol_early,present,"<think>
 Okay, so I need to figure out whether roads were present or absent in the Early Mongols polity, which existed from 1000 CE to 1206 CE. Hmm, let's start by understanding what roads are. The definition says roads are deliberately constructed pathways that connect settlements, excluding streets within settlements and paths between settlements used repeatedly without being built.
 
@@ -529,7 +529,7 @@ I should also think about the definition provided: deliberately constructed road
 But considering that 1000-1206 is a period before the full expansion of the Mongol Empire, maybe during this time they were building roads as part of their expansionary policies. So my answer would lean towards present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_lysimachus_k,present,"<think>
 Okay, so I need to figure out whether the roads existed in the Lysimachus Kingdom between 323 BCE and 281 BCE. Hmm, I'm not too familiar with this polity, but let's break it down.
 
@@ -544,7 +544,7 @@ Also, considering it's a polity, governance likely required some form of central
 I don't have specific information about Lysimachus, but given that it was part of a region with a history of road construction during the Hellenistic period, it's reasonable to expect that they had roads present. It aligns with the trend of developing infrastructure for governance and military purposes.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_konya_lnl,present,"<think>
 Okay, so I'm trying to figure out whether the polity known as Konya Plain - Late Neolithic had roads or not. The time frame for this polity is between 6600 BCE and 6000 BCE. Roads in this context are defined as deliberately constructed roads that connect settlements or sites, excluding streets within settlements and paths between them.
 
@@ -563,7 +563,7 @@ Moreover, if I think about the broader context of Anatolia around 6000 BCE, ther
 In summary, while there could be regional variations or specific exceptions, it's reasonable to expect that roads would have been present in the Konya Plain - Late Neolithic polity given the general trend of road construction during the Neolithic period and its importance for connecting settlements.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 jp_nara,present,"<think>
 Okay, so I need to figure out whether the Nara Kingdom had roads or not based on what I know about history. The time frame given is from 710 CE to 794 CE. I remember that Japan underwent significant changes during this period, often referred to as the Nara Period.
 
@@ -596,7 +596,7 @@ Wait, but I'm not sure if those were considered 'roads' in the traditional sense
 So, after this reasoning, I think roads were present during the Nara Period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kg_kara_khanid_dyn,present,"<think>
 Alright, so I'm trying to figure out whether roads were present in the Kara-Khanid polity between 950 CE and 1212 CE. I don't know much about this group, but I'll try to piece together what I can.
 
@@ -615,7 +615,7 @@ On the other hand, if the Kara-Khanids were often isolated due to frequent warfa
 Putting this all together, it seems like a road network would be present as part of their transport infrastructure. So I think Roads should be marked as 'present'.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_angkor_3,present,"<think>
 Okay, so I'm trying to figure out whether the polity known as Late Angkor had roads or not. I don't know a lot about their history, but I'll try to piece it together.
 
@@ -648,7 +648,7 @@ I'm also thinking about how other neighboring regions handled transportation—m
 So, putting it all together, while there's some uncertainty and no direct evidence, it seems plausible that Late Angkor did have roads as part of their infrastructure to manage their large empire. Alternatively, they might not have had them if other factors made road construction less feasible or necessary.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 lb_phoenician_emp,present,"<think>
 Okay, so I need to figure out whether the Phoenician Empire had roads or not. I'm a bit fuzzy on their history, but I remember they were big traders and colonizers. The empire existed from around 1200 BCE to 332 BCE, which is before Alexander the Great, right?
 
@@ -663,7 +663,7 @@ Additionally, as they expanded their empire through colonies, building roads wou
 I'm not sure if they used roads extensively, but given their emphasis on trade and expansion, it seems likely they would invest in some form of road infrastructure. So, I think Roads was present during the Phoenician Empire's time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_rosario,present,"<think>
 Okay, so I have this history question about the polity Oaxaca-Rosario which existed between 700 BCE and 500 BCE. The question is whether roads were present or absent in that region during that time period.
 
@@ -690,7 +690,7 @@ Also, considering the size of the region and its geography—Oaxaca is known to 
 In conclusion, based on the presence of road systems in surrounding civilizations and the necessity for transportation given the region's geography and potential trade activities, I expect that roads were present in Oaxaca-Rosario during the 700-500 BCE period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_hatti_new_k,present,"<think>
 Okay, so I need to figure out whether the polity known as Hatti during its New Kingdom period (1400 BCE to 1180 BCE) had roads or not. Roads here are defined as deliberately constructed roads connecting settlements or sites, excluding just streets within settlements and paths between settlements that develop through use.
 
@@ -707,7 +707,7 @@ I should consider if there's any historical evidence pointing towards the absenc
 In summary, based on the advanced urban planning and the need for connecting settlements for administration and trade, I expect Hatti had roads present during their New Kingdom period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_hatti_old_k,present,"<think>
 Okay, so I need to figure out whether the polity called Hatti Old Kingdom had roads or not. The time frame for this is between 1650 BCE and 1500 BCE. Hmm, I don't know much about Hatti specifically, but maybe I can think about other similar ancient civilizations.
 
@@ -724,7 +724,7 @@ But wait, I'm not entirely sure if Hatti specifically had roads. Maybe some sour
 So, putting it all together, I think the answer is present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_neo_hittite_k,present,"<think>
 Okay, so I need to figure out whether roads were present in the Neo-Hittite Kingdoms between 1180 BCE and 900 BCE. Hmm, let's start by breaking down what I know about the Hittites.
 
@@ -743,7 +743,7 @@ However, I'm not entirely sure if the Neo-Hittite period was just a reconstructi
 So, putting it all together, I think roads were probably present because of the necessity for trade and military logistics given their historical context.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 uz_sogdiana_city_states,present,"<think>
 Okay, so I need to figure out whether the city-states period in Sogdiana from 604 CE to 711 CE had roads or not. The question defines roads as deliberately constructed connections between settlements, excluding streets within settlements and minor paths. 
 
@@ -760,7 +760,7 @@ Additionally, the period up to 711 CE was before the Arab conquests, so the focu
 Putting it all together, I expect that roads were present during this period because they were necessary for both defense and trade, which were central to Sogdiana's function.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ye_himyar_2,absent,"<think>
 Okay, so I need to figure out whether roads existed in the polity Himyar II based on what I know. Let me start by recalling who Himyar II was. He's a historical ruler from the Hellenistic period, right? He ruled over parts of Mesopotamia around 400-525 CE.
 
@@ -779,7 +779,7 @@ I also wonder about the political structure of Himyar II's empire. If it was a c
 So, putting this all together, I'm leaning towards absent because the Hellenistic period's infrastructure wasn't as advanced as later Roman roads, and maybe the political and military needs didn't prioritize road construction as much. They might have relied on other means of communication like camel caravans or shorter walkways that were sufficient for their time.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 us_woodland_1,present,"<think>
 Okay, so I need to figure out whether the polity Cahokia had roads or not based on historical knowledge. I'm not super familiar with Cahokia, but I remember it's an ancient city in what is now Illinois, USA. It existed between around 600 BCE and 150 BCE, which was a pretty long time before European contact.
 
@@ -802,7 +802,7 @@ I'm also thinking about trade routes in ancient America. Many Aztec cities had r
 In summary, considering the time period, possible centralized governance, and reliance on transportation for trade, it's plausible that Cahokia had roads. However, without concrete evidence from sources or archeology, this is an educated guess rather than a fact.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 us_woodland_2,present,"<think>
 Okay, so I need to figure out whether roads were present in Cahokia during the time it existed, which was between 150 BCE and 300 CE. Let me start by recalling what I know about Cahokia. It's often referred to as the ""City of a Thousand Pits"" because of the many earthen mounds that were-excavated there over the years, each one possibly representing an attempt to build a settlement or a structure.
 
@@ -821,7 +821,7 @@ I should also consider that in ancient cultures, roads might not be as defined a
 Putting this all together, I'm leaning towards the conclusion that roads were present in Cahokia because of the need for efficient transportation given their size and location along significant trade routes like the Mississippi River.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 us_woodland_3,present,"<think>
 Okay, so I need to figure out whether roads were present in Cahokia during the Late Woodland period, which was from 300 CE to 450 CE. First, I should recall what Cahokia is—it's one of the largest pre-Columbian cities known, located around the Mississippi River. It was a significant center for Native American culture and trade.
 
@@ -838,7 +838,7 @@ I should also consider the decline of the Mississippian culture and whether road
 I'm a bit confused because while roads were used, maybe there wasn't a standardized system like in later civilizations such as the Aztecs or Incans. But given that Cahokia was a major center, it's likely they had some form of road infrastructure to support their extensive trade and social networks.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 id_kediri_k,absent,"<think>
 Alright, so I need to figure out whether the Kediri Kingdom had roads during its time, which was from 1049 CE to 1222 CE. Okay, first off, I'm not super familiar with the Kediri Kingdom specifically, but I know it's a historical polity in Java, Indonesia. It was an independent state around that period, right?
 
@@ -855,7 +855,7 @@ I should also think about neighboring kingdoms and their infrastructure. Maybe t
 But I'm not entirely sure. There's a possibility that even in smaller regions, some form of road infrastructure existed to connect key settlements or strategic points. Without specific historical records indicating the absence of roads, it's tricky. However, considering the broader context of medieval times and regional isolation, I'm leaning towards absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 af_durrani_emp,absent,"<think>
 Okay, so I need to figure out whether the Durrani Empire had roads or not based on what I know about their history. The Durrani Empire existed from 1747 CE to 1826 CE, which is a short period compared to some other empires, but it was significant for its time.
 
@@ -874,7 +874,7 @@ I'm leaning towards the idea that roads might not have been a primary focus for 
 But then again, if they had to regulate trade routes between their controlled regions, roads could be necessary for managing the influx of goods and people across their extensive domain. So it's a bit of a balance—maybe some roads were present but not as extensive as in other empires.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 af_greco_bactrian_k,present,"<think>
 Okay, so I need to figure out whether Roads was present in the Greco-Bactrian Kingdom based on their history. First, I should recall what the Greco-Bactrian Kingdom was like. It existed from around 256 BCE to 125 BCE, right? That's a significant period after Alexander the Great's conquests but before the Hellenistic kingdoms fully took over.
 
@@ -889,7 +889,7 @@ Also, governance-wise, roads could help in organizing troops and ensuring that a
 Considering all these factors—trade needs, administrative efficiency, strategic military movements—the presence of roads seems very likely during their reign.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 af_hephthalite_emp,absent,"<think>
 Okay, so I need to figure out whether the roads existed in the Hephthalites polity during their time, which was between 408 CE and 561 CE. The question defines roads as deliberately constructed infrastructure connecting settlements or sites, excluding streets within settlements and minor paths.
 
@@ -916,7 +916,7 @@ I'm still leaning towards 'absent' because after their decline into the Roman Em
 
 The Hephthalites were an independent polity that declined in influence before falling to the Roman Empire around 56 BCE, but they existed from approximately 408 CE until 561 CE. During this period, while they might have had some local infrastructure for governance and military needs, it is less likely that extensive road systems were specifically constructed as part of their polity, given their eventual decline into Roman control in the later stages of their existence.
 
-Answer: XXXabsentXXX"
+Answer: XXXabsentXXX",present
 af_kidarite_k,absent,"<think>
 Okay, so I need to figure out whether Roads was present in the Kitarite Kingdom between 388 CE and 477 CE. Hmm, first off, I don't know much about this specific polity called the Kitarite Kingdom. Maybe I should start by recalling what I know about historical periods around that time.
 
@@ -937,7 +937,7 @@ I'm also thinking about the materials used for roads back then. If the regions h
 Overall, I'm leaning towards Roads not being present because their political structure might not have required it, and natural conditions made road construction impractical. Plus, the time period seems more aligned with relying on other forms of transportation like boat routes or camel caravan paths.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 cn_erligang,present,"<think>
 Alright, so I need to figure out whether roads were present in the polity Erligang between 1650 BCE and 1250 BCE. Hmm, I don't know much about Erligang specifically, but I can try to piece together what I might know.
 
@@ -954,7 +954,7 @@ I'm not entirely sure about the specific time period, but 1650 BCE to 1250 BCE f
 So putting this together, it's plausible that Erligang had roads because being an important settlement would require infrastructure like roads for both defensive and economic reasons. Plus, the broader context of the period suggests that road building was a common practice in ancient China.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 cn_erlitou,present,"<think>
 Okay, so I need to figure out whether the polity Erlitou had roads or not, based on what I know from history. First, I should recall any information about Erlitou. From what I remember, Erlitou is an ancient polity that existed around the time of the Zhou Dynasty in China, specifically between 1850 BCE and 1600 BCE. It's often associated with the Shang Dynasty before thezhou ruled it.
 
@@ -969,7 +969,7 @@ I should also consider if there's any evidence from archaeological findings or t
 Given that the Zhou focused heavily on roads, and assuming Erlitou was an integral part of that administration, I think Roads were present as a deliberate infrastructure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 cn_hmong_2,present,"<think>
 Okay, so I need to figure out whether the Hmong early Chinese polity between 1895 and 1941 CE had roads or not. I'm a bit rusty on this topic, but let me try to piece together what I know.
 
@@ -992,7 +992,7 @@ However, considering their history under foreign invasions and internal turmoil,
 So, putting this all together, I'm not entirely sure. On one hand, they might have had roads for trade and communication between settlements. On the other hand, their historical context suggests instability which could impede infrastructure development.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_roman_dominate,present,"<think>
 Okay, so I need to figure out whether the roads were present in the Roman Empire during its鼎盛时期，也就是285 CE到394 CE。首先，我得回忆一下罗马帝国的历史。我记得罗马帝国在西晋时期灭亡之前是一个非常强大的帝国，拥有广泛的领土和庞大的基础设施。
 
@@ -1009,7 +1009,7 @@ Okay, so I need to figure out whether the roads were present in the Roman Empire
 综合以上点，我觉得在那个时期，罗马帝国肯定有 roads，特别是状道网络，用来连接各地的贸易市场、城市等重要地点。因此，答案应该是“present”。
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 cn_longshan,absent,"<think>
 Okay, so I have this question about whether the polity called Longshan had roads or not. Let me try to figure this out step by step.
 
@@ -1036,7 +1036,7 @@ Wait, another angle: if Longshan was an early state, they might have started dev
 In conclusion, considering the time period and the prominence of road construction in later periods like Qin and Han, I lean towards expecting that roads were absent during Longshan's existence.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 cn_western_zhou_dyn,present,"<think>
 Okay, so I need to figure out whether the polity known as the Western Zhou had roads or not. The time period given is between 1122 BCE and 771 BCE. 
 
@@ -1059,7 +1059,7 @@ Wait, another thought: the Zhou were known for using roads in trade routes durin
 So after considering all this, I'm leaning towards Roads being present because despite the lack of specific records, the reasons for building roads (like connecting trade routes and settling cities) would have driven their construction during the Zhou Dynasty.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_venetian_rep_4,absent,"<think>
 Okay, so I need to figure out whether the Republic of Venice IV had roads or not based on the definition given. Let's break this down step by step.
 
@@ -1078,7 +1078,7 @@ However, during times of war or reconstruction, maybe they built temporary roads
 So putting it all together, I don't think the Republic of Venice IV had roads in the sense of deliberately constructed roadways connecting settlements consistently. Their transport was more via rivers and bridges.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 co_tairona,present,"<think>
 Okay, so I need to figure out whether the polity Tairona had roads or not, based on its existence between 1050 CE and 1524 CE. Hmm, first, I should recall what Tairona is known for. From history, Tairona was an Aztec city-state located in modern-day Mexico. It was a significant center during the Aztec Empire's golden period.
 
@@ -1089,7 +1089,7 @@ Moreover, the Aztecs were known for their engineering skills. They built roads o
 Also, considering the time frame up until 1524 CE, before Spanish conquest, Aztec cities were thriving with well-developed systems. The absence of roads might have hindered their ability to manage large populations or expand beyond their immediate area. So, expecting roads seems plausible.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ec_shuar_1,absent,"<think>
 Okay, so I need to figure out whether the polity known as ""Shuar - Colonial"" had roads in place during its time between 1534 CE and 1830 CE. The definition of roads here is that they are deliberately constructed infrastructure connecting settlements or sites, excluding streets within settlements or paths between them.
 
@@ -1110,7 +1110,7 @@ Also, considering their use of camel or horse trading routes, they might not hav
 Therefore, based on this reasoning, I think Roads was likely absent from the Shuar - Colonial polity.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ec_shuar_2,present,"<think>
 Okay, so I need to figure out whether Roads was present in the Shuar polity of Ecuador between 1831 and 1931 CE. I'm not too familiar with Ecuadorian history, but I know that the Shuar people were indigenous peoples in Ecuador during this time. I remember hearing about the roads built by European colonizers for mining purposes, so maybe that's relevant here.
 
@@ -1139,7 +1139,7 @@ I should also think about whether roads were exclusively a Spanish or Portuguese
 In conclusion, while it's not certain without specific historical evidence, given the time frame and the context of European colonization, it seems likely that Roads would be present in the Shuar polity as a result of road construction projects aimed at facilitating trade, governance, or resource extraction.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_mamluk_sultanate_1,present,"<think>
 Alright, so I'm trying to figure out whether roads existed in the Mamluk Sultanate of Egypt between 1260 CE and 1348 CE. Okay, first off, I know that the Mamluk dynasty was a powerful rulership in Egypt, stretching from around 1250 to 1350. They were known for their administrative efficiency and infrastructure development.
 
@@ -1156,7 +1156,7 @@ However, I also know that the construction of roads is resource-intensive and re
 So putting it all together, while I can't find explicit mention of roads from 1260 to 1348 CE, the historical context suggests that the Mamluk rulers, with their engineering capabilities, likely included roads in their transportation network during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_mamluk_sultanate_3,present,"<think>
 Okay, so I need to figure out whether roads were present in Egypt during the Mamluk Sultanate III period, which was from 1412 to 1517 CE. Hmm, I don't have a lot of knowledge about this specific time or the infrastructure of that era, but maybe I can piece together what I know.
 
@@ -1173,7 +1173,7 @@ Alternatively, perhaps after a major rebuilding effort like the one in Thonis-He
 I should also consider that Mamluk rulers might have inherited previous structures and needed to maintain or improve connectivity after wars or expansions. So it's possible that during the reign of Suleiman I, roads were indeed present as part of these efforts.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_mamluk_sultanate_2,present,"<think>
 Alright, so I'm trying to figure out whether the Mamluk Sultanate of Egypt had roads around 1348 CE. I know that the Mamlukes were a powerful rulership in Egypt from around the 13th century until the 15th century. They were known for their administrative efficiency and infrastructure development, but I'm not exactly sure about specific details regarding roads.
 
@@ -1196,7 +1196,7 @@ Another angle is to consider that roads could have been used for military purpos
 In summary, considering their organizational structure, control over strategic regions like the Red Sea, and the need for efficient governance, it's reasonable to expect that the Mamluk Sultanate of Egypt would have had roads in place around 1348 CE.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_middle_k,present,"<think>
 Alright, so I need to figure out whether the ancient Egyptian city of Memphis during the Middle Kingdom (2016 BCE to 1700 BCE) had roads based on their transport infrastructure. First, I'll recall what I know about Egyptian cities and their transportation systems.
 
@@ -1211,7 +1211,7 @@ Another point is that while the definition excludes streets within settlements a
 I'm not entirely sure about specific records of road infrastructure during the Middle Kingdom, but given the social and economic activities, it seems plausible that roads were present. Maybe there are references in historical texts or inscriptions about road construction or usage for trade and military purposes.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_new_k_2,present,"<think>
 Okay, so I need to figure out whether roads were present in Egypt during the New Kingdom Ramesside Period, which was between 1293 BCE and 1070 BCE. Hmm, I'm not super familiar with Egyptian history, but I'll try to recall what I know.
 
@@ -1230,7 +1230,7 @@ I also recall that during the New Kingdom, monumental architecture and infrastru
 So putting this all together, I think Roads were present during the Ramesside Period because earlier periods already had road systems, and the New Kingdom probably expanded upon those.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_new_k_1,present,"<think>
 Okay, so I need to figure out whether roads were present in Egypt during the New Kingdom under Thutmosis III around 1500 BCE. Hmm, I'm a bit rusty on Egyptian history, but let me think through this step by step.
 
@@ -1253,7 +1253,7 @@ Wait, maybe the construction of roads was more prominent during certain periods?
 In summary, considering their emphasis on governance, military expansion, and cultural achievements alongside administrative needs like managing large populations, it's reasonable to expect that roads were present in Egypt during Thutmosis III's period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_old_k_2,present,"<think>
 Okay, so I need to figure out whether the infrastructure ""Roads"" was present in Egypt during the Late Old Kingdom period, which is between 2350 BCE and 2150 BCE. Let me start by recalling what I know about Egyptian history.
 
@@ -1276,7 +1276,7 @@ But wait, I should make sure about when roads started to become more widespread.
 Therefore, considering all this, I think Roads (as defined) would have been present in Egypt during the Late Old Kingdom.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 eg_regions,present,"<think>
 Okay, so I need to figure out whether Roads was present in the historical polity 'Egypt - Period of the Regions' during the time between 2150 BCE and 2016 BCE. The definition given is about transport infrastructure that are deliberately constructed roads connecting settlements, excluding streets within settlements or paths between them.
 
@@ -1297,7 +1297,7 @@ In the New Kingdom, roads might have been less prominent as administrative contr
 Considering all these periods within the given timeframe (2150 BCE to 2016 BCE), it seems that roads were a present feature of Egyptian polity during the 'Period of the Regions.' They served both military, administrative, and logistical purposes essential for maintaining control over vast territories.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_saite,present,"<think>
 Okay, so I need to figure out whether roads were present in Egypt during the Saite Period, which was from 664 BCE to 525 BCE. Hmm, let's start by recalling what I know about ancient Egyptian history and their infrastructure.
 
@@ -1318,7 +1318,7 @@ On the other hand, it's possible that with their focus on administration and gov
 So putting this together, I'm leaning towards the presence of roads during the Saite Period because their rule involved military campaigns that would logically require road construction for troop movements and supply routes.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 es_spanish_emp_1,present,"<think>
 Okay, so I need to figure out whether roads were present in the Spanish Empire from 1516 to 1715 CE based on my knowledge of historical polities. Roads are defined as deliberately constructed infrastructure connecting settlements, excluding streets and paths within settlements.
 
@@ -1339,7 +1339,7 @@ Also, considering that Spain was involved in the Crusades and had control over e
 In summary, while it's possible that some areas didn't have roads at all, I would expect that as a whole, the Spanish Empire had roads present because managing such an extensive territory required efficient transportation networks. Therefore, Roads should be expected to be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 fm_truk_1,absent,"<think>
 Alright, so I'm trying to figure out whether the polity called Chuuk, which existed from 1775 CE to 1886 CE, had roads in their area. The user has defined ""Roads"" as deliberately constructed roads connecting settlements or sites, excluding streets within settlements and minor paths between them.
 
@@ -1356,7 +1356,7 @@ However, it's also possible that some smaller towns or trade routes within their
 In conclusion, considering their society's structure, transportation preferences, environmental focus, and isolationist policies, it's reasonable to expect that the Chuuk polity would be absent of extensive road infrastructure. Therefore, Roads as defined in this context likely did not play a significant role in their society.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 kh_angkor_1,present,"<think>
 Okay, so I need to figure out whether roads were present in Early Angkor, which existed from 802 CE to 1100 CE. First, I should think about what I know about Angkor. It's one of the most famous historical cities in Southeast Asia, known for its grand architecture and temples.
 
@@ -1375,7 +1375,7 @@ So considering both aspects: if roads refer strictly to built dirt roads (which 
 I think it's more likely that they had roads or at least causeways for moving large goods and people across the city. So Roads might be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 fm_truk_2,present,"<think>
 Alright, so I need to figure out whether the polity called ""Chuuk - Late Truk"" had roads during their time between 1886 CE and 1948 CE. I'm not very familiar with this region or its history, so I'll have to break it down step by step.
 
@@ -1400,7 +1400,7 @@ However, I'm not entirely sure about the specifics of the Late Truk polity's his
 In summary, considering the general trend of infrastructure development in Southeast Asia during this period and the likelihood that a polity would invest in roads for governance and trade, I lean towards expecting that Roads was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 fr_atlantic_complex,present,"<think>
 Alright, so I'm trying to figure out whether the polity called Atlantic Complex had roads in their history or not. The time frame given is from 2200 BCE to 1000 BCE. I don't know much about Atlantic Complex specifically, but I can try to draw some connections based on what I know.
 
@@ -1421,7 +1421,7 @@ On the other hand, maybe the Atlantic Complex was a more decentralized system wh
 So putting it all together, I think it's reasonable to expect that roads were present in Atlantic Complex during its history between 2200 BCE and 1000 BCE because the need for efficient transportation would have been essential for their functioning as a polity.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 fr_beaker_eba,absent,"<think>
 Okay, so I need to figure out whether the Beaker Culture had roads or not. First, I should probably recall what the Beaker Culture is like. It's an ancient Neolithic culture in what's now southern England, from around 3200 BCE to 2000 BCE. They're known for their pottery and metalwork, right? Like big stone axes and so on.
 
@@ -1438,7 +1438,7 @@ Wait, but roads could have been used for trade routes or military movements with
 So putting this together: Beakers were settled, herding small groups, moving less intensively compared to later cultures. They used local resources and hand tools. Roads might not have been a priority for them because their main needs were more about personal movement and seasonal changes rather than long-distance transport of goods or large groups.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 fr_capetian_k_1,present,"<think>
 Okay, so I need to figure out whether Roads was present in the Proto-French Kingdom between 987 CE and 1150 CE based on its definition. Roads are deliberately constructed roads connecting settlements, excluding streets within settlements or usage-based paths.
 
@@ -1457,7 +1457,7 @@ Wait, but the Proto-French Kingdom was a significant political entity with its o
 Also, considering that between 987 and 1150, there were invasions and changes in power, having a stable road network could have helped maintain control over their expanding territories. So Roads might have been present to facilitate the movement of armies and goods.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 fr_valois_k_2,present,"<think>
 Okay, so I need to figure out whether roads were present in the French Kingdom under the Late Valois period, which was from 1450 CE to 1589 CE. Hmm, I'm not too familiar with that exact time frame, but I know a bit about medieval France and its history.
 
@@ -1472,7 +1472,7 @@ Also, considering the era, roads would have been more permanent structures compa
 Therefore, I'm leaning towards expecting that roads were present in the French Kingdom during the Late Valois period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 il_canaan,present,"<think>
 Okay, so I need to figure out whether the polity Canaan had roads based on its history between 2000 BCE and 1175 BCE. Hmm, first, I should think about what I know about Canaan. From what I remember, Canaan was an ancient civilization in the Land of Israel, around the Mediterranean region. They were known for their religious significance, especially to Jews and Christians.
 
@@ -1493,7 +1493,7 @@ Wait, but I think that in many ancient civilizations, roads were common for trad
 Given all this, I'm leaning towards the idea that Roads were present because having some form of transport infrastructure would be essential for communication between settlements and facilitating trade or troop movements.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 il_judea,present,"<think>
 Okay, so I need to figure out whether the historical polity Yehuda had Roads present or not based on the time frame of 141 BCE to 63 BCE. First, I should understand who Yehuda was. From what I remember, Yehuda refers to the Kingdom of Judah, which existed in the region between about 586 BCE and 72 BCE under King Solomon. But wait, the question mentions a polity that existed between 141 BCE and 63 BCE, which seems later than the usual accounts of Yehuda.
 
@@ -1516,7 +1516,7 @@ Another angle: looking at archaeological findings from this period could give cl
 But I'm not certain. I think the safest answer is to go with ""present"" because even if it's a later period, the kingdom would have needed some form of transport infrastructure for governance and administration, so Roads likely existed during Yehuda's time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 in_delhi_sultanate,present,"<think>
 Okay, so I'm trying to figure out whether roads were present in the Delhi Sultanate during its time, from 1206 CE to 1526 CE. I don't know a lot about this history, but I'll try to think through what I remember and maybe break it down step by step.
 
@@ -1537,7 +1537,7 @@ I should also think about later periods when the Mughals took over. The decline 
 Putting it all together: Roads were built for trade, governance, and military needs. Given the strategic importance of the Delhi Sultanate's location at the convergence of major trade routes, it's highly likely that they had roads present during their time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 in_achik_1,present,"<think>
 Okay, so I need to figure out whether the polity Early A'chik had roads or not based on their time period of existence from 1775 CE to 1867 CE. Hmm, first, I should think about when roads were commonly built in general. From what I remember, roads became more prevalent with the rise of organized transportation systems, especially after the invention of the wheel and later the development of railways.
 
@@ -1552,7 +1552,7 @@ I'm also thinking about technological advancements. The steam engine came around
 But I don't have specific information on Early A'chik. Without knowing their exact location and economic activities, it's hard to say definitively. However, considering the time frame and the fact that many empires in similar periods had roads, I'm leaning towards present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 mn_mongol_emp,present,"<think>
 Okay, so I need to figure out whether the Mongol Empire had roads or not. The question is asking me to consider if roads were part of their infrastructure based on my knowledge of history.
 
@@ -1573,7 +1573,7 @@ So, considering their nomadic lifestyle, military needs, and expansionist polici
 I'm a bit torn here. On one hand, an empire of their size would need efficient transportation; on the other, historical sources don't always detail every aspect of infrastructure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 in_achik_2,absent,"<think>
 Okay, so I need to figure out whether the polity Late A'chik had roads or not during the period from 1867 CE to 1956 CE. I'm a bit new to this topic, but let's break it down.
 
@@ -1596,7 +1596,7 @@ I also wonder if there's any indirect evidence. Maybe neighboring kingdoms had b
 In summary, considering the historical context—mid to late 19th century to early 20th century—the Zulu Kingdom was likely focusing on military and defensive structures rather than road infrastructure. Roads might have been present for specific military or defense purposes, but given the broader decline of Late A'chik, it's possible they weren't a major part of their infrastructure.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 in_satavahana_emp,present,"<think>
 Okay, so I need to figure out whether the Satavahana Empire had roads during their time, which was between 100 BCE and 200 CE. Hmm, first, I should recall what I know about the Satavahana Empire. They were a significant group in India around the 5th to 6th centuries CE. But wait, their period is given as 100 BCE to 200 CE, which includes some time before their known history too. 
 
@@ -1615,7 +1615,7 @@ But I should also consider that empires often varied in their infrastructure. Wh
 In summary, while there isn't explicit information about the Satavahana building roads, considering their period overlaps with other empires that did have road infrastructure, I might lean towards expecting roads were present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_abbasid_cal_1,present,"<think>
 Okay, so I have this question about the Abbasid Caliphate and whether roads were present or not during their time. The time frame is from 750 CE to 946 CE. Alright, let's break this down.
 
@@ -1646,7 +1646,7 @@ So putting it all together, I think that while the Abbasid Caliphate might not h
 So my tentative answer would be that Roads was present during the Abbasid Caliphate.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_akkad_emp,present,"<think>
 Okay, so I need to figure out whether the Akkadian Empire had roads or not. The question is asking me about Roads as defined: transport infrastructure that's deliberately built, connecting settlements without including streets within settlements or paths between them.
 
@@ -1663,7 +1663,7 @@ Moreover, Akkad's law code talks about assigning people to these roads as a form
 So putting this all together, even though the Akkadian Empire existed for only around 300 years, it seems clear that they did have roads as part of their transport infrastructure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_babylonia_2,present,"<think>
 Okay, so I need to figure out whether Roads was present during the Kassite Babylonia period, which was from 1595 BCE to 1150 BCE. The question is about transport infrastructure, specifically roads as defined by the user.
 
@@ -1684,7 +1684,7 @@ I should also consider the definition given: roads are deliberately constructed 
 Putting this all together, I think Roads would have been present because the region was a center of trade and needed efficient transport infrastructure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_bazi_dyn,absent,"<think>
 Okay, so I need to figure out whether the Bazi Dynasty had roads or not based on their historical context. The Bazi Dynasty existed from 1005 BCE to 986 BCE. I'm not super familiar with this specific dynasty, but I can try to think through what I know about ancient Chinese history and infrastructure.
 
@@ -1705,7 +1705,7 @@ I'm also thinking about how road infrastructure development might have been infl
 In summary, while I don't have specific information about whether roads were present during the Bazi Dynasty, I can infer based on general patterns of ancient Chinese history that road construction was a significant part of infrastructure development. However, without explicit evidence pointing to the absence or presence, it's hard to say definitively. But considering their time period and possible focus areas, maybe roads weren't as prominent as in later dynasties.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 iq_dynasty_e,present,"<think>
 Okay, so I need to figure out whether the transport infrastructure Roads was present during the time of the Dynasties of E between 979 BCE and 732 BCE. Hmm, not too familiar with their history, but let's break this down.
 
@@ -1718,7 +1718,7 @@ I don't have specific information on whether they built roads, but considering t
 
 The Dynasties of E likely had roads present during their rule between 979 BCE and 732 BCE. Given the typical investment in infrastructure by empires for logistical needs, such as roads, it is expected they constructed them.
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 iq_isin_dynasty2,present,"<think>
 Okay, so I need to figure out whether the polity known as the Second Dynasty of Isin had roads or not. The time frame is between 1153 BCE and 1027 BCE. Hmm, I remember that Isin was an Amorite city-state in what's now southern Iraq. They were quite prominent around that time period.
 
@@ -1733,7 +1733,7 @@ Wait, I'm not entirely sure if there's specific evidence about roads in Isin's S
 So putting it all together, I think the Second Dynasty of Isin probably did have roads as part of their transport infrastructure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_isin_larsa,present,"<think>
 Okay, so I need to figure out whether the polity Isin-Larsa had roads or not. The time frame is between 2004 BCE and 1763 BCE. I remember that Isin-Larsa was an ancient kingdom in Mesopotamia, which is modern-day Iraq. They were known for their urbanization and administrative systems.
 
@@ -1750,7 +1750,7 @@ However, I should consider if there are any specific historical records or sourc
 Putting this together, while I can't say for certain without more specific records, the general trend in ancient civilizations was towards road infrastructure for organizational and economic reasons. Therefore, it's likely that roads were present in Isin-Larsa during that time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 iq_ur_dyn_3,present,"<think>
 Okay, so I need to figure out whether Roads was present in the Ur-Dynasty III polity, which existed from 2112 BCE to 2004 BCE. The question is about transport infrastructure, specifically roads as deliberately constructed connections between settlements.
 
@@ -1765,7 +1765,7 @@ Given that Roads were important for both practicality and status in ancient Meso
 So, putting this together, I think Roads would have been present in Ur-Dynasty III because their transportation network was likely an integral part of their political and social structure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_achaemenid_emp,present,"<think>
 Okay, so I need to figure out whether the Achaemenid Empire had roads or not. The time frame given is between 550 BCE and 331 BCE. I remember that the Achaemenid Empire was a Persian empire under Cyrus the Great's son, Darius I. They were known for their vast territories and expansion.
 
@@ -1784,7 +1784,7 @@ I should also consider if there are any historical records or inscriptions menti
 So putting it all together: The Achaemenid Empire was a large and expanding empire under powerful emperors who would logically invest in infrastructure to support their military campaigns, administration, and trade. Roads were likely constructed during this time for various purposes, including transportation of goods, armies, and communication between distant regions.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_ak_koyunlu,present,"<think>
 Okay, so I need to figure out whether Roads was present during the time polity Ak Koyunlu existed, which was from 1339 CE to 1501 CE. First, I should understand what ""Roads"" means in this context. The question defines it as deliberately constructed roads connecting settlements or sites, excluding streets within settlements and access paths between them that develop naturally.
 
@@ -1803,7 +1803,7 @@ Another angle is the economic activities of Ak Koyunlu. If they were involved in
 I'm not entirely sure about specific archaeological findings related to Ak Koyunlu's roads, but given the historical context and similar practices in other regions, it seems reasonable to expect that they had roads during their existence.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_susiana_archaic,present,"<think>
 Okay, so I need to figure out whether the polity ""Susiana - Muhammad Jaffar"" had roads in their transport infrastructure between 7000 BCE and 6000 BCE. The question defines roads as deliberately constructed pathways that connect settlements, excluding streets within settlements or just paths between them.
 
@@ -1820,7 +1820,7 @@ Moreover, the polity's name includes ""Muhammad Jaffar,"" but I'm not sure if th
 Putting this together, even during earlier times, road construction for transport was likely present in Susiana as part of their infrastructure that supported their polity's functioning.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_elam_1,present,"<think>
 Okay, so I need to figure out whether the road infrastructure existed in the Elam-Awan Dynasty based on what's known about ancient civilizations and historical contexts. The Elam-Awan Dynasty is mentioned to have been around from 2675 BCE to 2100 BCE. That's a pretty long period—about 575 years. 
 
@@ -1837,7 +1837,7 @@ Moreover, archaeological evidence from similar periods shows that road construct
 So putting it all together, given the historical context, road infrastructure was a common feature for empires with large territories, and Elam-Awan being such a polity would have expected to have roads present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_elymais_2,present,"<think>
 Alright, so I'm trying to figure out whether roads were present in the polity Elymais II based on its history between 25 CE and 215 CE. First, I need to understand what Elymais II is—since it's not a well-known name, maybe it's an ancient polity that existed during that period.
 
@@ -1860,7 +1860,7 @@ I'm also thinking about the definition provided: roads are deliberately construc
 Given all these considerations, I'm leaning towards roads being present because many ancient polities developed road systems for governance, trade, or defense. Unless Elymais II was highly isolated without the need for such infrastructure, which seems unlikely given its time frame and possible role in the region.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_susiana_formative,present,"<think>
 Okay, so I need to figure out whether the polity known as the Formative Period (7200 BCE to 7000 BCE) had roads or not. Roads in this context are defined as deliberately constructed roads that connect settlements, excluding streets within settlements and paths between them.
 
@@ -1877,7 +1877,7 @@ But wait, was there enough evidence for road construction at that exact time? Ma
 Also, considering that the Formative Period is a broad term, it might encompass various city-building phases where roads could have been present as part of the development process. So, I'm leaning towards expecting roads to be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_susiana_b,present,"<think>
 Okay, so I'm trying to figure out whether the polity Susiana B, which existed between 5700 BCE and 5100 BCE, had roads or not. Roads here are defined as deliberately constructed infrastructure connecting settlements, excluding streets within settlements or paths between them that developed naturally.
 
@@ -1900,7 +1900,7 @@ Also, considering the time frame—5700 BCE to 5100 BCE—the Susiana culture mi
 Putting it all together, even though the exact history of Susiana B isn't clear to me, considering the context and other ancient polities' practices, it's reasonable to expect that they would have had roads as part of their transport infrastructure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_susiana_ubaid_2,present,"<think>
 Okay, so I'm trying to figure out whether Roads was present in the historical polity of Susiana during the Late Ubaid period, which spans from 4700 BCE to 4300 BCE. The question is asking about transport infrastructure, specifically roads. From what I remember, Roads were defined as deliberately constructed roads that connect settlements or other sites, excluding streets within settlements and paths between them that develop through use.
 
@@ -1921,7 +1921,7 @@ I'm also thinking about the materials used for roads in ancient times. Susiana's
 In summary, considering the time period, the likely need for transport infrastructure to support a polity, and the typical development of road systems in similar regions during that era, I would expect Roads to be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_susiana_ubaid_1,absent,"<think>
 Okay, so I need to figure out whether the polity of Susiana - Early Ubaid had roads or not. The time frame is between 5100 BCE and 4700 BCE. 
 
@@ -1938,7 +1938,7 @@ Moreover, the Susiana culture is associated with craftsmanship and agriculture. 
 So, putting this together, it's possible that while they had some form of transportation networks, they might not have had roads as we define them. Therefore, I think the answer is absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 mr_wagadu_2,present,"<think>
 Okay, so I'm trying to figure out whether the Middle Wagadu Empire would have had roads based on their history from 700 CE to 1077 CE. I don't know much about their transportation systems, but I can make some educated guesses.
 
@@ -1959,7 +1959,7 @@ I should also consider if there's any indication from historical sources about t
 So putting this all together, while I can't be certain, the evidence from other empires suggests that having roads was common. Therefore, it's likely that the Middle Wagadu Empire did have roads during its time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_elam_4,present,"<think>
 Okay, so I need to figure out whether the polity known as Elam Late Sukkalmah had roads or not. The time frame is between 1700 BCE and 1500 BCE. I'm not super familiar with this specific region or its history, but I can try to piece it together based on what I know.
 
@@ -1980,7 +1980,7 @@ Another point is that Elam was known for its natural resources, like gold and co
 So putting it all together, I think Roads were present in Elam Late Sukkalmah because, as part of a major ancient civilization with efficient administration, they likely had roads to facilitate movement and administration.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_elam_7,present,"<think>
 Alright, so I need to figure out whether Roads was present during the Shuttle Period of Elam, which was from 1199 BCE to 1100 BCE. The user has defined Roads as deliberately constructed roads connecting settlements or sites, excluding streets within settlements and minor paths between them.
 
@@ -1997,7 +1997,7 @@ Moreover, considering the word ""Shuttle"" implies frequent movement, which woul
 Therefore, putting this all together, it's reasonable to expect that Elam would have had roads during the Shuttle Period as part of their infrastructure to support various activities like trade, military operations, and governance.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_neo_elam_2,absent,"<think>
 Okay, so I need to figure out whether the polity Elam II had roads or not during its time, which was between 743 BCE and 647 BCE. First, I should understand what Elam II is exactly. From what I remember, Elam was an ancient Persian city-state in Mesopotamia, near modern-day Iraq. It's part of the Achaemenid Empire during the time of Cyrus the Great.
 
@@ -2016,7 +2016,7 @@ Additionally, the size and resources of Elam might have limited the need for ext
 So putting this all together, it seems unlikely that Elam II would have had roads in place during its existence because their role as an independent city-state under the Achaemenid Empire might not have necessitated such infrastructure. The larger empire's focus was more on military and administrative needs rather than road construction for individual city-states.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ir_neo_elam_3,present,"<think>
 Alright, so I need to figure out whether the polity Elam III had roads or not based on historical knowledge. Let me start by recalling what I know about Elam III.
 
@@ -2035,7 +2035,7 @@ Moreover, during their time in power, Elam III likely focused on infrastructure 
 So putting it all together, considering the Achaemenid tradition of road building, Elam's shorter duration but still within the Persian Empire context, I think that roads were present during Elam III.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_parthian_emp_1,present,"<think>
 Okay, so I need to figure out whether the Parthian Empire had roads based on their time period and their infrastructure. The Parthian Empire existed from 247 BCE to 40 CE, which is roughly ancient Persia.
 
@@ -2054,7 +2054,7 @@ Moreover, considering the geographical challenges: Afghanistan has mountainous r
 In conclusion, while there's no direct evidence from the Parthian Empire about roads, their strategic location and need for efficient trade and military logistics suggest that they likely built roads during their period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_parthian_emp_2,absent,"<think>
 Okay, so I need to figure out whether the Parthian Empire II had roads or not based on what I know about their history. The time period given is from 41 CE to 226 CE. 
 
@@ -2075,7 +2075,7 @@ So putting this all together, while it's possible that some local roads existed 
 
 The Parthian Empire II, existing from 41 CE to 226 CE, did not have a centralized road network but may have had some local roads due to their decentralized governance and limited resources for infrastructure development. Therefore, Roads would be absent.
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ir_qajar_dyn,present,"<think>
 Okay, so I need to figure out whether the Qajar polity had roads or not. The time period is from 1794 CE to 1925 CE, which includes parts of history in what was then the Qajar dynasty and later their expansion into Afghanistan under the Soviet influence.
 
@@ -2092,7 +2092,7 @@ However, I'm not entirely sure about specific records or evidence that they cons
 So putting it all together, I think it's reasonable to expect that Roads was present during the Qajar period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_safavid_emp,present,"<think>
 Alright, so I need to figure out whether roads were present in the Safavid Empire based on the given definition. The Safavid Empire existed from 1501 to 1722 CE. I remember that the Safavids were an Islamic dynasty in Iran and its territories, established by Cyrus the Great. They expanded their influence quite a bit.
 
@@ -2107,7 +2107,7 @@ Moreover, the empire's territorial expansion involved moving into various areas 
 Putting this all together, I believe that roads were definitely present in the Safavid Empire because the time period aligns with when such infrastructure was already in place and necessary for managing a large polity.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_sassanid_emp_1,present,"<think>
 Okay, so I need to figure out whether the Sasanid Empire had roads or not during their time, which was from 205 CE to 487 CE. I'm a bit rusty on ancient history, but let's break this down.
 
@@ -2126,7 +2126,7 @@ The Sasanid Empire under Achaemenid III from 483-487 BCE probably inherited some
 So considering all this, it's possible that during the Sasanid period after Cyrus, roads were present but perhaps in varying states depending on who was ruling. However, since the empire existed from 205 to 487, and given the continuity of road construction under earlier emperors like Achaemenid I and Cyrus, it's reasonable to expect that roads continued into the Sasanid period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_seleucid_emp,present,"<think>
 Okay, so I need to figure out whether roads existed in the Seleucid Empire, which was active from around 312 BCE to 63 BCE. The question defines roads as deliberately constructed connections between settlements, excluding streets within settlements and minor paths.
 
@@ -2145,7 +2145,7 @@ I should also consider if there are any historical records or sources that menti
 In summary, considering their military needs, the expansionist nature of their empire, the engineering expertise present in their culture, and possible influences from earlier Hellenistic periods, it's reasonable to expect that roads existed during the Seleucid period. They would have been a crucial part of their infrastructure.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_elam_3,present,"<think>
 Okay, so I need to figure out whether Roads was present in the polity Elam - Early Sukkalmah during its time between 1900 BCE and 1701 BCE. The definition of roads given excludes streets within settlements and paths between them but includes deliberately constructed roads connecting settlements.
 
@@ -2168,7 +2168,7 @@ Additionally, after Cyrus' death in 539 BCE, his general Darius I continued the 
 But since the time frame given ends at 1701 BCE (which is after Cyrus' death), it could include both periods—Cyrus and Darius I. Therefore, Roads would likely be present during that time due to the need for efficient administration across Elam.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_susa_1,present,"<think>
 Okay, so I need to figure out whether the polity 'Susa I', which existed between 4300 BCE and 3800 BCE, had roads or not. Roads here are defined as deliberately constructed roads that connect settlements, excluding streets within settlements and paths between them that develop naturally.
 
@@ -2187,7 +2187,7 @@ I'm trying to recall if there are any sources that specifically mention roads in
 So considering all this, I think Roads was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_susa_2,present,"<think>
 Okay, so I need to figure out whether the polity Susa II had roads or not. First, let me recall what Susa II is. From my history classes, I remember that Susa was an advanced Neolithic city in Mesopotamia, around what's now Iraq. It was one of the largest and most prosperous cities back then.
 
@@ -2200,7 +2200,7 @@ Also, Susa is mentioned in the context of cuneiform writing and law codes, which
 I don't recall any specific info about Susa not having roads during that time. The construction of roads in ancient cities is pretty common, so it's likely they were present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_susa_3,absent,"<think>
 Okay, so I have this history question about the polity called Susa III, which existed from around 3100 BCE to 2675 BCE. The question is whether Roads was present during that time. Roads here are defined as deliberately constructed roads connecting settlements, not including streets within settlements or just paths between places used regularly.
 
@@ -2219,7 +2219,7 @@ Additionally, the rise of other city-states like Ur or Lagash during this period
 Putting it all together, while the Polycastian League had strong road systems, Susa III's reign might have seen a decline in road construction efforts due to various factors like internal administration changes, conflicts with neighboring powers, or shifts in economic and political priorities. Therefore, it's possible that Roads were absent during their time.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 it_latium_ca,present,"<think>
 Okay, so I have this question about a historical polity called Latium, which existed from around 3600 BCE to 1800 BCE. The question is asking whether roads were present in this society or not, based on my knowledge of world history.
 
@@ -2236,7 +2236,7 @@ But wait, was Latium exactly the same as Rome? No, I think there were several ci
 So putting this together, I'd expect that Roads was present in Latium's polity during their time because road infrastructure was a common development for early city-states and kingdoms as they grew and became more interconnected.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_papal_state_1,absent,"<think>
 Alright, so I need to figure out whether roads were present in the Papal States during the High Medieval Period, which was between 1198 CE and 1309 CE. Hmm, okay, let me break this down.
 
@@ -2261,7 +2261,7 @@ But overall, considering the reasons like limited resources for maintenance, emp
 So, putting this all together, I would say that Roads was probably absent in the sense of extensive, well-maintained road networks. However, some informal roads existed for specific purposes like trade or military movements.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 it_ravenna_exarchate,present,"<think>
 Okay, so I need to figure out whether the roads existed in the Exarchate of Ravenna during its time, which was from 568 CE to 751 CE. Let me start by recalling what I know about this period and the region.
 
@@ -2280,7 +2280,7 @@ Moreover, Ravenna's role as a center of learning and culture might have supporte
 So putting it all together: Ravenna being a central administrative hub with the Exarchate likely involved in managing resources and territories would need roads to facilitate that. Therefore, I expect that Roads were present during the time of the Exarchate of Ravenna.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_roman_rep_1,present,"<think>
 Okay, so I need to figure out whether the polity known as the Early Roman Republic had roads or not. The time frame given is between 509 BCE and 264 BCE. Hmm, let me break this down.
 
@@ -2301,7 +2301,7 @@ Also, there are mentions in historical texts and archaeological findings of road
 So considering all that, I think the answer would be 'present' because it's reasonable to assume that the early Roman republic had road infrastructure as part of their state and military needs.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_roman_rep_3,present,"<think>
 Okay, so I need to figure out whether roads existed in the Late Roman Republic, which was from 133 BCE to 31 BCE. Let me break this down step by step.
 
@@ -2320,7 +2320,7 @@ I should also think about any specific events or policies related to roads in th
 In conclusion, given the focus on governance and the need for efficient transportation during the Roman Republic period, especially in its later stages up until 31 BCE, I would expect that roads were present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 it_roman_rep_2,present,"<think>
 Okay, so I need to figure out whether the polity called Middle Roman Republic had roads or not. The time frame given is from 264 BCE to 133 BCE. Hmm, okay, that's a period during which the Roman Empire was definitely declining and there were various kingdoms and republiques emerging in Italy.
 
@@ -2353,7 +2353,7 @@ Alternatively, perhaps during this period, road construction was more common tha
 I'm a bit torn here. On one hand, Rome had roads before its decline; on the other hand, fragmentation might have led to less maintenance. But without specific evidence about each polity during this time, it's hard to say definitively.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_roman_k,present,"<think>
 Okay, so I need to figure out whether roads were present in the Roman Kingdom based on what I know about their history. The Roman Kingdom existed from 716 BCE to 509 BCE, which is a period that includes the time of Julius Caesar and his conquests.
 
@@ -2366,7 +2366,7 @@ Also, considering other aspects like agriculture and trade routes, roads would h
 I think I'm confident enough now to say that Roads were present during the Roman Kingdom.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_venetian_rep_3,absent,"<think>
 Okay, so I need to figure out whether the Republic of Venice III had roads or not based on my knowledge of history. Let me start by recalling what I know about the Republic of Venice.
 
@@ -2403,7 +2403,7 @@ But wait, another angle: The term 'republic' might imply more emphasis on govern
 Therefore, considering all these factors, I think it's reasonable to conclude that roads were absent during the Republic of Venice III.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 jp_azuchi_momoyama,present,"<think>
 Okay, so I need to figure out whether roads were present in Japan during the Azuchi-Momoyama period, which was between 1568 CE and 1603 CE. I'm not super familiar with Japanese history, but I'll try to piece this together.
 
@@ -2422,7 +2422,7 @@ I'm also thinking about how Japan was isolated, relying on trade via rivers and 
 But given the presence of tsunayome bridges and the emphasis on daimyō's control over large areas, it seems plausible that roads were in place to facilitate movement across these territories. They might have been used alongside rivers but also as separate roads for more direct travel paths.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 jp_heian,present,"<think>
 Okay, so I need to figure out whether roads were present in Heian, the polity that existed from 794 CE to 1185 CE. I'm not too familiar with Japanese history, but I know a bit about Japan's development through the Yayoi and Nara periods.
 
@@ -2441,7 +2441,7 @@ I'm also thinking about the transport systems in Japan at the time. They used a 
 So putting this all together, roads were likely present in Heian because by that time there was already a network being used for transport between settlements, supporting trade and military movements.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 jp_jomon_3,absent,"<think>
 Okay, so I need to figure out whether roads existed in the early Jomon period polity of Japan, which was from around 5300 BCE to 3500 BCE. I'm a bit fuzzy on this, but let me try to break it down.
 
@@ -2454,7 +2454,7 @@ The concept of roads implies a more organized system for moving goods and people
 Also, I recall that in some prehistoric societies, especially those with small settlements, roads were not as necessary compared to later periods where urbanization and trade expanded required more infrastructure.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 jp_jomon_4,absent,"<think>
 Okay, so I need to figure out whether the polity known as Japan-Middle Jomon had roads or not. The time period for this is between 3500 BCE and 2500 BCE. Hmm, I'm a bit fuzzy on Middle Jomon details, but let me think.
 
@@ -2471,7 +2471,7 @@ I should also consider if there's any evidence from archaeological sites in Japa
 So putting it all together: while roads as we know them might not have been present due to material and structural limitations, there could have been simpler trail systems used for moving goods or people. Therefore, Roads would likely be absent in this context.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 jp_jomon_5,absent,"<think>
 Okay, so I need to figure out whether the polity known as Japan - Late Jomon had roads or not. The time frame given is between 2500 BCE and 1200 BCE. I'm a bit fuzzy on Japanese history, but let me try to recall what I know.
 
@@ -2494,7 +2494,7 @@ Another angle: in many early human societies, movement was done using whatever w
 So putting this together, I'm leaning towards absent because the Late Jomon period seems to focus more on cultural practices like agriculture, warfare, and nominal governance without the infrastructure components like roads. The roads probably came later when more centralized systems developed.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 jp_jomon_6,present,"<think>
 Okay, so I need to figure out whether roads were present in the Final Jomon polity, which existed from around 1200 BCE to 300 BCE. First, I should recall what I know about the Jomon culture and its history.
 
@@ -2511,7 +2511,7 @@ In contrast, while there might have been simpler forms of pathways or access roa
 I also think about other societies of that era, like the Anasazi in the Andes or the Hittites in the Mediterranean, which both developed complex road systems around the same time. Comparatively, Japan's Jomon culture would have had similar needs given their urban development.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 jp_kamakura,absent,"<think>
 Okay, so I need to figure out whether roads were present in the Kamakura Shogunate, which existed from 1185 CE to 1333 CE. Hmm, I'm not super familiar with Japanese history, but I know that Japan went through several periods of shogunate rule after the fall of the Tokugawa period. The Kamakura period was more about warlords and feudalism, right?
 
@@ -2530,7 +2530,7 @@ But then again, maybe the warlords had to set up some form of transportation for
 I'm not entirely sure, but considering the reasons above, I think Roads might be absent during the Kamakura Shogunate.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 jp_tokugawa_shogunate,present,"<think>
 Okay, so I have this question about whether roads were present in the Tokugawa Shogunate period, which was from 1603 to 1868 CE. I'm not super familiar with Japanese history, but I know a bit about Japan's political structure during that time. The Tokugawa shogunate was a period of isolation and maintenance of Japan as a separate entity from the rest of the world, right? They had a system where they controlled trade through their shoguns and other officials.
 
@@ -2547,7 +2547,7 @@ Another angle: historical sources or archaeological evidence might show whether 
 I think the answer is that roads were present, but perhaps limited or adapted in a way suited to their society's needs. They might have used roads for trade routes or military movements, which would make sense during a period of controlled trade.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kg_western_turk_khaganate,present,"<think>
 Okay, so I need to figure out whether the roads were present in the Western Turk Khaganate between 582 CE and 630 CE. Let me break this down step by step.
 
@@ -2566,7 +2566,7 @@ I'm not sure if the term ""roads"" specifically refers to newly constructed road
 Putting this together, while I don't have specific records from the Western Turk Khaganate indicating they built roads themselves, there were likely road systems in place due to neighboring empires' activities. The Mongols might have been involved post-630 CE, and the Byzantines before that. So, it's possible that roads existed during their rule.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mn_zungharian_emp,present,"<think>
 Okay, so I need to figure out whether the Zungharian Empire had roads based on their definition. The empire existed from 1670 to 1757 CE. I'm not too familiar with Hungarian history, but I know that many Central Asian and European empires had road systems for transportation during their time.
 
@@ -2581,7 +2581,7 @@ I don't recall any specific events during this period where roads were abandoned
 
 The Zungharian Empire, active between 1670 and 1757 CE, likely had roads present due to the historical trend of road construction in expanding empires for trade and governance. 
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_angkor_2,present,"<think>
 Alright, so I need to figure out whether roads were present in the polity of Classical Angkor, which existed between 1100 CE and 1220 CE. First, I should recall what I know about Angkor. It's one of the most impressive ancient civilizations, known for its grand architecture, especially the temple complexes at Angkor Wat and Angkor Royal Palace.
 
@@ -2598,7 +2598,7 @@ Another point is that roads were often made from local materials, like stone or 
 So putting it all together: Angkor was a large, centralized state with extensive administrative needs. Roads would support governance, trade, and military operations. While specific records about roads are not well-documented, the reasons for building roads fit well within the context of such an empire. Therefore, I'm inclined to think that roads were indeed present in Classical Angkor.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_khmer_k,absent,"<think>
 Okay, so I need to figure out whether the Khmer Kingdom had roads or not based on their history. Hmm, I remember learning that the Khmer Empire was quite advanced in some areas, like architecture with their famous temples, but I'm not sure about transportation.
 
@@ -2615,7 +2615,7 @@ I'm a bit confused now because on one hand, the size of the empire suggests the 
 So, putting this together, I'm leaning towards them being absent in terms of having a well-developed road system, but perhaps they had some form of roads for local transport within their empire.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 kh_chenla,present,"<think>
 Okay, so I need to figure out whether the polity of Chenla had roads or not. The time frame is from 550 CE to 825 CE. I don't know much about Chenla off the top of my head, but I can try to piece together what I might know.
 
@@ -2636,7 +2636,7 @@ Alternatively, if Chenla declined after a certain point, perhaps during the 8th 
 I'm leaning towards present because even if their economy was agrarian, having roads would help in facilitating trade and movement between settlements, which is essential for any polity of that size.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_funan_1,absent,"<think>
 Okay, so I have this question about whether the polity Funan I had roads or not. The time period is from 225 CE to 540 CE. First, I need to recall what I know about Funan I.
 
@@ -2657,7 +2657,7 @@ I also think about the concept of an empire versus a polity. The Tangs had a wel
 So putting it all together: Funan I likely used horse-drawn transport but didn't have the structured road systems that larger empires like the Tang built. Therefore, Roads would be absent because they didn't build roads as deliberate infrastructure; instead, they relied on existing paths.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 kh_funan_2,present,"<think>
 Okay, so I need to figure out whether the polity Funan II had roads or not based on my knowledge of world history. First, let me recall what Funan II is. From what I remember, Funan II was an early Islamic empire that existed from 540 CE to 640 CE. It was centered in modern-day southwestern China.
 
@@ -2674,7 +2674,7 @@ I should also consider any known sources about Funan II's history. From what I'v
 In summary, given that Funan II was part of an Islamic empire that valued infrastructure, it's reasonable to expect that they had road systems present during their rule from 540 to 640 CE.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ml_jenne_jeno_4,present,"<think>
 Okay, so I'm trying to figure out whether roads were present in Jenne-jeno IV based on the time period they existed—900 CE to 1300 CE. I don't know much about this polity, but I can try to piece together what I know.
 
@@ -2693,7 +2693,7 @@ I should also consider if there are any historical records or sources that menti
 So putting it all together: roads likely became present during Jenne-jeno IV's time because of the need for efficient transportation over longer distances and the growing complexity of their administration.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ml_mali_emp,absent,"<think>
 Okay, so I need to figure out whether the Mali Empire had roads or not during its time, which was from 1230 CE to 1410 CE. Hmm, I don't know much about their infrastructure, but I'll try to recall what I've studied before.
 
@@ -2712,7 +2712,7 @@ Also, considering the size of the empire, if they had roads connecting different
 So putting this all together, while the Mali Empire was highly connected and involved in extensive trade, there's no concrete evidence of deliberate road construction as part of their infrastructure during that time. Therefore, Roads would be absent from the Mali Empire.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ml_songhai_2,absent,"<think>
 Alright, so I need to figure out whether roads were present in the Songhai Empire's Askiya Dynasty based on their definition of roads as deliberately constructed infrastructure connecting settlements or sites, excluding streets within settlements and usage-based paths.
 
@@ -2733,7 +2733,7 @@ Moreover, the Askiya Dynasty was a time when the empire was expanding and contra
 So considering all this, it's possible that while they did use camel roads for long-distance trade, these didn't qualify as the deliberate, maintained roads we think of today. Therefore, under their definition, roads (as in constructed infrastructure) might not have been present.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 mx_monte_alban_2,present,"<think>
 Okay, so I need to figure out whether the polity Monte Alban II had roads or not. They existed from about 100 BCE to 200 CE, which is a period that includes both ancient Rome and the early Christian era. 
 
@@ -2748,7 +2748,7 @@ But wait, could there be any exceptions? Maybe in smaller or isolated settlement
 I should also consider if there's any specific historical evidence or sources about roads in Monte Alban II. If they were built by the same builder as Numantia, which was Roman, then it's likely they had roads too. Without specific information to the contrary, I think Roads is present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_monte_alban_3_a,present,"<think>
 Alright, so I'm trying to figure out whether Roads was present in the historical polity Monte Alban III, which existed between 200 CE and 500 CE. The user has defined ""Roads"" as deliberately constructed roads that connect settlements, excluding streets within settlements or just paths between settlements formed by regular use.
 
@@ -2763,7 +2763,7 @@ Additionally, considering the broader context, many Byzantine provinces invested
 However, without specific information about Monte Alban III, it's a bit speculative. But given the general trends and the fact that many rulers in such regions during this period did build roads, I lean towards expecting Roads to be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_monte_alban_3_b_4,absent,"<think>
 Okay, so I need to figure out whether the polity Monte Alban III and IV had roads or not. They existed between 500 CE and 900 CE. Hmm, I'm not too familiar with their history, but maybe I can piece together what I know about ancient European settlements.
 
@@ -2782,7 +2782,7 @@ Wait, Tara, which is in Ireland, had some roads according to digs there. If Mont
 I think the answer might lean towards absent because it's possible that during that time, without as much emphasis on infrastructure, roads weren't built. Or maybe present if they were part of a trade network that developed later. Without more specific info, it's tricky.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 mx_monte_alban_5,present,"<think>
 Okay, so I need to figure out whether the polity Monte Alban V had roads or not, based on their timeline from 900 CE to 1520 CE. Hmm, I'm not very familiar with this specific historical context, but maybe I can think about other similar civilizations and see if there's a pattern.
 
@@ -2803,7 +2803,7 @@ But wait, maybe there are exceptions where polities chose not to develop roads d
 Also, considering that many important regions in the Mediterranean and beyond had roads by 1000 CE or later, which is within the upper half of Monte Alban V's timeline, this gives more confidence that roads were indeed present during their period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_san_jose,present,"<think>
 Okay, so I need to figure out whether roads were present in the polity known as Oaxaca - San Jose during its time between 1150 BCE and 700 BCE. The question is asking specifically about ""Roads,"" which they've defined as deliberately constructed roads connecting settlements or other sites, excluding streets within settlements and minor paths. 
 
@@ -2820,7 +2820,7 @@ On the flip side, maybe some theories suggest that smaller towns didn't need as 
 So putting this all together: Oaxaca-San Jose was a polity with large cities connected by trade routes; road construction was a deliberate part of their infrastructure for facilitating movement and administration. Therefore, I would expect that Roads were present during their time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_tierras_largas,present,"<think>
 Okay, so I need to figure out whether the polity Oaxaca-Tierras Largas had roads or not based on their timeline between 1400 BCE and 1150 BCE. Hmm, I'm a bit rusty on this, but let me think through it.
 
@@ -2841,7 +2841,7 @@ But then again, maybe after the Spanish conquest in 1521, the road systems were 
 So putting it all together, I think Roads would be present during their existence.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 no_norway_k_2,present,"<think>
 Okay, so I need to figure out whether roads existed in the Kingdom of Norway II between 1262 CE and 1396 CE based on the definition provided. Roads here are defined as deliberately constructed infrastructure connecting settlements, excluding streets within settlements or paths between them.
 
@@ -2858,7 +2858,7 @@ But I'm not entirely sure about the specifics. Maybe there's no concrete evidenc
 So putting it all together, while I'm not certain there are explicit records of roads from that period in Norway II, it's possible that they were present as part of the state's infrastructure efforts.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pe_cuzco_5,present,"<think>
 Okay, so I need to figure out whether the polity Cuzco during the Late Intermediate period (1000-1250 CE) had roads or not. Let's start by recalling what I know about Cuzco.
 
@@ -2879,7 +2879,7 @@ I'm also thinking about the materials used for roads. The Incas used stone and m
 In summary, considering the historical context where the Inca Empire, including Cuzco, was known for road systems and the Late Intermediate period being a specific stage, it seems reasonable to expect that Roads (deliberately constructed roads) were present in Cuzco during this time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 pe_inca_emp,present,"<think>
 Okay, so I have this question about the Inca Empire and whether roads were present or absent. The user wants me to think like someone with knowledge of world history. Let's break this down.
 
@@ -2894,7 +2894,7 @@ Additionally, the Inca Empire was known for centralized administration, so it wo
 So putting this together, I'm fairly confident that the Inca Empire did have roads as part of their transport infrastructure, specifically these well-known Huaraya roads. Therefore, Roads should be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pe_wari_emp,present,"<think>
 Okay, so I need to figure out whether the Wari Empire had roads or not based on what I know about their history. The Wari Empire existed from around 650 CE to 999 CE, which is a period spanning several centuries in what's now southwestern Peru and parts of Chile.
 
@@ -2907,7 +2907,7 @@ I don't recall any sources suggesting that the Wari didn't build roads during th
 So, putting it all together, I'm pretty sure the answer is that Roads was present in the Wari Empire.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pg_orokaiva_pre_colonial,present,"<think>
 Okay, so I'm trying to figure out whether the polity Orokaiva - Pre-Colonial had roads or not. They existed between 1734 CE and 1883 CE. Roads are defined as deliberately constructed infrastructure connecting settlements, excluding streets within settlements or pathways between them.
 
@@ -2930,7 +2930,7 @@ I'm also thinking about the possibility of roads being absent if there was no ce
 In conclusion, considering the time period and the potential necessity for connectivity, I would lean towards roads being present in Orokaiva - Pre-Colonial.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 pg_orokaiva_colonial,present,"<think>
 Okay, so I need to figure out whether the polity Orokaiva - Colonial had roads during its time from 1884 CE to 1942 CE. The user is asking me to consider whether Roads were present or not based on historical knowledge of that specific region.
 
@@ -2961,7 +2961,7 @@ In the absence of specific information to the contrary, I think it's more likely
 So, putting it all together, I expect that Roads would be present in Orokaiva - Colonial during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pk_kachi_post_urban,absent,"<think>
 Okay, so I need to figure out whether the historical polity known as Kachi Plain during the Post-Urban period had roads or not. The time frame given is from 1800 BCE to 1300 BCE. 
 
@@ -2984,7 +2984,7 @@ Also, during the post-urban period, which often coincides with periods of fewer 
 In summary, considering that roads as formal structures are likely to have developed later in human history and given the post-urban context which emphasizes less reliance on cities and more on local, perhaps simpler transportation methods, I would lean towards absent. So, Roads might not have been present during the Kachi Plain's post-urban period.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 pk_kachi_urban_1,present,"<think>
 Okay, so I have this question about a historical polity called ""Kachi Plain - Urban Period I,"" which existed from 2500 BCE to 2100 BCE. The task is to determine whether roads would have been present or absent in this society based on the given definition of roads as deliberately constructed infrastructure connecting settlements, excluding streets and accessways within settlements.
 
@@ -3003,7 +3003,7 @@ Additionally, the deliberate construction of roads suggests a planning process t
 In summary, given the time period and the nature of an urban polity, I expect that roads would have been present. They would serve both practical purposes like trade and governance as well as military needs.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 pk_kachi_urban_2,present,"<think>
 Okay, so I need to figure out whether the polity known as Kachi Plain - Urban Period II had roads or not. The time frame is between 2100 BCE and 1800 BCE. Hmm, that's a pretty early period in human history, maybe around what we now consider ancient times.
 
@@ -3020,7 +3020,7 @@ But then again, maybe some early city-states didn't develop road systems if thei
 Considering all this, I'm leaning towards the presence of roads because urbanization and the need for efficient transport likely drove their construction during that time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_kushite,present,"<think>
 Okay, so I need to figure out whether roads were present in Egypt during the Kushite Period, which was from 747 BCE to 656 BCE. First, I should recall what I know about ancient Egyptian history and their infrastructure.
 
@@ -3039,7 +3039,7 @@ I should also consider the economic factors. If trade routes existed in Egypt du
 In summary, while there's no direct evidence of ancient Egyptian roads from that time period, the Hellenistic influence and their integration into the Roman road system suggest that roads might have been present. However, it's possible that they used simpler paths rather than formalized roads as we understand them.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 sy_umayyad_cal,present,"<think>
 Okay, so I need to figure out whether roads were present in the Umayyad Caliphate based on the information given about the time period between 661 CE and 750 CE. Hmm, let's break this down step by step.
 
@@ -3058,7 +3058,7 @@ Wait, but maybe I should check if there are any specific examples. For instance,
 So putting this all together: The Umayyads were an expanding and prosperous dynasty with a focus on infrastructure to support their growing empire, likely including roads for trade, military movements, and connecting various settlements.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 th_ayutthaya,present,"<think>
 Alright, so I need to figure out whether the road network existed in Ayutthaya during its time or not. I'm a bit new to this topic, so let me break it down.
 
@@ -3079,7 +3079,7 @@ In conclusion, considering the planning and administrative efficiency shown in A
 
 The road network in Ayutthaya during its period (1593-1767 CE) likely existed, given the kingdom's emphasis on centralized governance and infrastructure for trade and administration. Therefore, the expectation is that roads were present.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_konya_lba,present,"<think>
 Okay, so I need to figure out whether roads were present or not in the Konya Plain during the Late Bronze Age II period, which was between 1500 BCE and 1400 BCE. Hmm, first, I should understand what the Konya Plain is. From what I remember, it's an area in Anatolia (modern-day Turkey), near the city of Ephesus. The Late Bronze Age II is a phase after the main Bronze Age, so probably around the time when empires were forming or major conflicts happened.
 
@@ -3100,7 +3100,7 @@ Alternatively, maybe the focus was more on infrastructure within settlements rat
 I'm a bit unsure because I don't have specific information about Konya Plain's road infrastructure from that exact period. But considering the military and trade aspects of empires active there, it seems plausible that some roads were built for connecting settlements.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_central_anatolia_mba,present,"<think>
 Okay, so I need to figure out whether the polity known as the Middle Bronze Age in Central Anatolia had roads or not. Let's start by breaking down what I know.
 
@@ -3117,7 +3117,7 @@ Additionally, the decline of earlier empires like the Phoenicians might have led
 So putting this all together, it seems that roads were definitely present during the Middle Bronze Age in Central Anatolia.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_byzantine_emp_1,present,"<think>
 Okay, so I need to figure out whether roads were present in the Byzantine Empire during its time, specifically between 632 CE and 866 CE. I'm not too familiar with Byzantine history, but I know a bit about ancient empires. Let me think through this step by step.
 
@@ -3142,7 +3142,7 @@ I should also consider the role of caravans. The Byzantines would have relied on
 In summary, given that the Byzantine Empire inherited Roman infrastructure, actively maintained it during their peak under emperors like Justinian, and needed an efficient transportation system for both administration and trade over a large territory, I would expect that roads were present in the Byzantine Empire between 632 CE and 866 CE.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_byzantine_emp_2,present,"<think>
 Okay, so I'm trying to figure out whether the Byzantine Empire II had roads or not. The time period given is between 867 CE and 1072 CE. I don't know much about this specific Byzantine Empire II, but I do remember that the Byzantine Empire in general was known for its infrastructure.
 
@@ -3163,7 +3163,7 @@ Justinian's era, known as the ""Golden Age"" of Byzantine Empire, saw significan
 So putting this all together, it seems that the Byzantine Empire II within the given time frame would have had roads present because they were a continuation of the earlier Byzantine empires known for their infrastructure projects.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_byzantine_emp_3,present,"<think>
 Okay, so I need to figure out whether roads were present in the Byzantine Empire III based on what I know about their history. First, I should clarify that Byzantine Empire III is a specific period or polity within the Byzantine Empire. From the question, it says it existed between 1073 and 1204 CE, which aligns with the fall of the Western Roman Empire in 476 CE and the decline of the Eastern Empire, though the exact timeline might vary.
 
@@ -3178,7 +3178,7 @@ Additionally, the period from 1073 to 1204 saw the Byzantine Empire expanding it
 So, putting it all together, I expect that roads were indeed present in the Byzantine Empire III because the Byzantines invested in infrastructure for both practical and strategic reasons throughout their history.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_cappadocia_2,absent,"<think>
 Alright, so I'm trying to figure out whether roads existed in the polity of Late Cappadocia, which was between 330 BCE and 16 CE. First, I need to understand what Late Cappadocia is—it's a region in Anatolia known for its arid landscape with natural features like oases. Now, considering transport infrastructure, roads would be man-made pathways connecting settlements or sites.
 
@@ -3195,7 +3195,7 @@ Moreover, trade routes often used natural obstacles like mountains or rivers. So
 Putting it all together, the isolation and harsh environment likely meant that roads wouldn't be present. Instead, people would rely on other forms of transport or natural pathways.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 tr_lydia_k,present,"<think>
 Alright, so I need to figure out whether the polity of King of Lydia had roads or not based on their time frame—between 670 BCE and 546 BCE. Hmm, first, I should recall what the Kingdom of Lydia was like historically.
 
@@ -3214,7 +3214,7 @@ But I'm not entirely sure if they built roads themselves or just relied on exist
 Putting it all together, I think it's reasonable to expect that the Kingdom of Lydia would have had roads around this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_ottoman_emirate,present,"<think>
 Okay, so I need to figure out whether roads were present or not in the Ottoman Empire between 1299 and 1402 CE based on historical knowledge. Hmm, I'm a bit rusty on Ottoman history, but let me try to recall.
 
@@ -3231,7 +3231,7 @@ I should also consider that while roads might have been present, they might not 
 So putting it all together, I think the Ottoman Empire did have road infrastructure to support their military campaigns, trade, and governance across their vast territories.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_ottoman_emp_1,present,"<think>
 Okay, so I need to figure out whether roads were present in the Ottoman Empire during its time, which was from 1402 CE to 1517 CE. The question is about whether roads existed as defined here: constructed roads that connect settlements or sites, excluding streets within settlements and paths between them used repeatedly.
 
@@ -3250,7 +3250,7 @@ I also recall that the Ottomans were big users of horses and caravans for trade,
 In terms of infrastructure development, empires usually go through phases where they build up transportation systems as part of their expansion strategy. The Ottomans were no exception. So it's reasonable to expect that during this period, roads would have been a significant part of their transport network.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_ottoman_emp_2,present,"<think>
 Alright, so I need to figure out whether roads were present in the Ottoman Empire II based on what I know about its history. Let me start by recalling some basics.
 
@@ -3267,7 +3267,7 @@ Even during periods of decline or conflict, empires typically maintain or develo
 I don't have specific information about a time when roads were absent in their history, but given how integral roads are to an empire's administration and military operations, their absence would be unusual.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_ottoman_emp_3,present,"<think>
 Okay, so I need to figure out whether the Ottoman Empire III had roads or not. The time frame is between 1683 CE and 1839 CE. Hmm, first, I should clarify what exactly constitutes a road in this context. Roads here refer specifically to deliberately constructed infrastructure connecting settlements, excluding streets within towns or paths that develop naturally.
 
@@ -3300,7 +3300,7 @@ Wait, I'm confusing myself. Let me try to break it down: The period is 1683-1839
 Therefore, I think it's reasonable to expect that roads were present because even during the decline, they would have needed them for governance and military purposes.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_rum_sultanate,present,"<think>
 Okay, so I need to figure out whether roads existed in the Rum Sultanate during its time, which was from 1077 CE to 1307 CE. Hmm, first, I should probably recall what the Rum Sultanate was like historically. I think it's an ethnic group that lived on the eastern side of Java in Indonesia. They were known as Rumai in some sources.
 
@@ -3325,7 +3325,7 @@ Alternatively, maybe after 1296, when the Srivijaya fell, the road network wasn'
 In summary, while I can't be certain, given that empires in that region often had robust transportation networks, and considering the economic and governance needs of a polity like the Rum Sultanate, it's plausible that roads were present. But perhaps not as extensive or developed as before.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 us_cahokia_1,present,"<think>
 Okay, so I need to figure out whether the polity Cahokia - Lohman-Stirling had roads based on their time period of existence from 1050 CE to 1199 CE. First, I remember that Cahokia is a well-known pre-Columbian city in modern-day Missouri. It was an important site for the Mississippian culture.
 
@@ -3340,7 +3340,7 @@ I also think about the Lohman-Stirling part; maybe that refers to another relate
 Given all this, I'm leaning towards there being some roads because their society was complex enough to need infrastructure for trade and governance. However, I can't be 100% certain without historical records from that time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 us_cahokia_2,present,"<think>
 Okay, so I need to figure out whether roads were present in Cahokia - Moorehead during its time, which was between 1200 CE and 1275 CE. Hmm, let's start by recalling what I know about Cahokia.
 
@@ -3371,7 +3371,7 @@ Alternatively, maybe the absence of Cahokia means that no evidence exists for ro
 But since the time frame includes after their decline, maybe by 1275 CE, the roads had been abandoned as well. Hmm, this is tricky.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ye_qatabanian_commonwealth,present,"<think>
 Okay, so I need to figure out whether the Qatabanian Commonwealth had roads or not based on their history from 450 BCE to 111 BCE. Hmm, I don't know a lot about this specific polity, but maybe I can think about similar ancient civilizations and their infrastructure.
 
@@ -3388,7 +3388,7 @@ The Han Dynasty in China from 206 BCE to 220 CE built roads like the famous Road
 So considering all these examples, it seems that ancient civilizations often built roads as part of their infrastructure, whether for governance, military, or economic reasons. The Qatabanian Commonwealth spans several centuries, so even if their time was shorter than some empires, they might have had similar needs and thus roads would be expected.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ye_rasulid_dyn,present,"<think>
 Okay, so I need to figure out whether the Rasulid Dynasty had roads based on their time period. The dynasty existed from 1229 CE to 1453 CE, which is a bit over two centuries. I know that during this period, various empires were active in the Middle East and North Africa.
 
@@ -3403,7 +3403,7 @@ On the other hand, if the Rasulid were isolated in some way or had limited conta
 I'm leaning towards them having roads because the period coincides with other empires building similar infrastructure for both military and administrative reasons.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 us_haudenosaunee_1,absent,"<think>
 Okay, so I need to figure out whether roads were present in the Haudenosaunee Confederacy from 1566 CE to 1713 CE. First, I should recall what I know about this polity. The Haudenosaunee were a group of Indigenous peoples in North America, including the Mohawk people, who lived in longhouses and engaged in trade and warfare with European settlers.
 
@@ -3414,7 +3414,7 @@ Now, thinking about roads. Roads are man-made structures connecting settlements 
 Since roads are a constructed feature of society, the lack of organized transportation networks suggests that roads wouldn't be present in their polity. Instead, they would rely on other means of moving goods and people, such as rivers or trade routes established over time through repeated use without formal road infrastructure.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 us_kamehameha_k,present,"<think>
 Okay, so I need to figure out whether the Kingdom of Hawaii during the Kamehameha period had roads or not. First, I should recall what the Kamehameha Period is. From what I remember, that was the time when Kamehameha I ruled Hawaii from 1778 to 1806. It's often called the ""Golden Age"" because of the relative peace and prosperity.
 
@@ -3429,7 +3429,7 @@ But wait, was Kamehameha I also involved in road-building? Or did Queen Lili'uoh
 Therefore, considering that during the Kamehameha Period (1778–1819), especially towards the end when Queen Lili'uohomu was in power, road infrastructure was being developed and expanded, Roads would be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 us_emergent_mississippian_2,present,"<think>
 Okay, so I need to figure out whether roads were present in Cahokia during the Mississippian II period, which was between 900 CE and 1049 CE. The user has defined ""Roads"" as deliberately constructed roads connecting settlements, excluding streets within settlements or paths used repeatedly.
 
@@ -3448,7 +3448,7 @@ I should also consider if there are any theories or studies suggesting otherwise
 In summary, given the growth and importance of Cahokia as aMississippi II city, along with the historical context suggesting that road networks were part of their urbanization, it seems reasonable to expect that roads were present there during the Mississippian II period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 us_cahokia_3,present,"<think>
 Okay, so I need to figure out whether the polity Cahokia - Sand Prairie had roads during its time from 1275 CE to 1400 CE. First, I should recall what I know about Cahokia.
 
@@ -3471,7 +3471,7 @@ I should also consider that roads can serve dual purposes: they can be a way to 
 In summary, considering their history of advanced infrastructure, it's likely they had roads, especially if they were part of expanding or maintaining their city during its prime. However, by 1400 CE, with the decline of Cahokia, the need for such roads might have diminished.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 us_emergent_mississippian_1,present,"<think>
 Okay, so I need to figure out whether roads existed in Cahokia during the Mississippian I period, which was between 750 CE and 900 CE. I remember that Cahokia is an ancient city in present-day Illinois, part of what's now the Quad Cities area. It was a significant pre-Columbian site.
 
@@ -3490,7 +3490,7 @@ Considering the Mississippian culture's emphasis on large city-states and their 
 I'm still leaning towards the idea that roads were present because the Mississippian culture was known for extensive networks, even though their decline might have been due to broader issues. Without solid evidence suggesting they weren't using roads, I think it's reasonable to assume they existed during that period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 us_oneota,present,"<think>
 Okay, so I need to figure out whether roads were present in the polity of Oneota between 1400 CE and 1650 CE. The definition says roads are deliberately constructed connections between settlements, excluding streets within settlements or footpaths between them.
 
@@ -3511,7 +3511,7 @@ However, I'm also considering whether their road system was as developed as in l
 So, putting it all together, while not sure about the exact infrastructure details, there's a likelihood that roads were present as systems used for governance, trade, or military purposes.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 uz_janid_dyn,present,"<think>
 Okay, so I have this question about the Khanate of Bukhara and whether roads were part of their transport infrastructure during a specific time period. The polity existed from 1599 CE to 1747 CE. Roads are defined here as deliberately constructed roads connecting settlements, excluding streets within settlements or paths between them that develop through use.
 
@@ -3528,7 +3528,7 @@ I should also consider any historical evidence about roads in this region during
 In conclusion, given the importance of transport in an extensive empire like Bukhara's, and their emphasis on trade and logistics, I would expect that roads were indeed present during those centuries.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 uz_samanid_emp,absent,"<think>
 Okay, so I need to figure out whether the Samanid Empire would have had roads or not. The time frame is between 819 CE and 999 CE. Let me start by recalling what I know about the Samanid Empire.
 
@@ -3549,7 +3549,7 @@ In summary, while the Samanid Empire might have had roads as part of their infra
 
 The Samanid Empire, active between 819 CE and 999 CE, likely incorporated roads into their infrastructure to support governance, trade, and military operations. However, given the empire's focus on within-city administration and resource allocation towards defense or agriculture, it is possible that extensive road networks were not a primary focus during their reign. Thus, while roads might have existed as remnants of previous empires in their territory, they may not have been officially constructed by the Samanids themselves.
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ye_saba_k,present,"<think>
 Okay, so I need to figure out whether Roads was present in the Kingdom of Saba and Dhu Raydan based on the time frame given, which is between 110 BCE and 149 CE. Let's break this down step by step.
 
@@ -3564,7 +3564,7 @@ Also, considering that the time frame includes both before and after the Roman c
 I don't recall specific information about Saba and Dhu Raydan not having roads, but I also can't confirm that they didn't. However, since the time frame includes periods both with and without Roman influence, and considering empires typically built roads regardless of external factors, it's reasonable to expect roads were present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ye_tahirid_dyn,present,"<think>
 Okay, so I have this question about whether the Tahirid Dynasty in Yemen had roads during their time, which was from 1454 to 1517 CE. The user is asking me to decide if Roads (as defined here) were present or not, using historical knowledge.
 
@@ -3585,7 +3585,7 @@ Additionally, considering neighboring states and empires, like the Berber kingdo
 So putting this all together, it's reasonable to expect that Roads were present during the Tahirid Dynasty.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ru_romanov_dyn_1,present,"<think>
 Okay, so I need to figure out whether roads were present in the Russian Empire under the Romanov dynasty from 1614 to 1775. Hmm, let me start by recalling what I know about this period.
 
@@ -3602,7 +3602,7 @@ I should also consider that even if roads weren't as extensive as in later perio
 Another point is that before railways, roads were the primary mode of transport for goods across long distances. So it makes sense that during this time, roads would be present as part of the broader infrastructure development needed to sustain the empire's vast territories.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ye_ziyad_dyn,absent,"<think>
 Okay, so I need to figure out whether the Yemen Ziyad Dynasty had roads based on their history from 822 CE to 1037 CE. Let me start by recalling what I know about this dynasty.
 
@@ -3617,7 +3617,7 @@ After 1037, Yemen became an independent kingdom with a different political struc
 So, putting this together, Roads in Yemen after 1037 CE were probably absent because the political structure changed, leading to less emphasis on a national road network.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ru_romanov_dyn_2,present,"<think>
 Okay, so I need to figure out whether roads were present in the Russian Empire during the Romanov dynasty, specifically from 1776 to 1917 CE. Let's break this down step by step.
 
@@ -3634,7 +3634,7 @@ By the time the Russian Revolution broke out in 1916, it's possible that roads h
 Putting this all together, I think there were roads present during parts of the Romanov dynasty, especially under certain tsars who prioritized modernization, but they might not have been consistently present throughout the entire period. However, since the question is about the dynasty as a whole, and considering that even in times of debt and focus on other priorities, some road projects were likely undertaken by key rulers like Catherine and Peter.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 it_italy_k,present,"<think>
 Alright, so I need to figure out whether roads were present in the Italian Kingdom during late antiquity, specifically between 476 CE and 489 CE. Hmm, okay. Let me start by recalling what I know about this period.
 
@@ -3653,4 +3653,4 @@ Additionally, the concept of ""Roads"" specifically excludes streets within sett
 Putting it all together, I think it's reasonable to expect that roads were present in the Italian Kingdom during late antiquity because both the Roman legacy and later Frankish administration would have maintained or reconstructed road infrastructure for practical reasons like governance and trade.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present

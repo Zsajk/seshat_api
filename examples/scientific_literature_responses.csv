@@ -1,4 +1,4 @@
-new_name,answer,full
+new_name,answer,full,correct
 is_icelandic_commonwealth,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Icelandic Commonwealth, which was from 930 CE to 1262 CE. I'm not super familiar with Icelandic history, but I know it was a significant medieval kingdom in Scandinavia.
 
@@ -23,7 +23,7 @@ However, without specific evidence of written works on science from that period,
 So putting this all together: the Icelandic Commonwealth existed during a time when Vikings were active but their main interests were in warfare and settlement rather than systematic science. They did engage with other cultures which could have brought in some knowledge, but without explicit evidence of written scientific works from that period, I'd lean towards expecting scientific literature to be absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 mx_basin_of_mexico_10,present,"<think>
 Alright, so I need to figure out whether scientific literature existed in the Middle Postclassic Basin of Mexico between 1200 CE and 1426 CE. Hmm, let's break this down step by step.
 
@@ -50,7 +50,7 @@ So, putting it all together: there were likely some written records from Aztec t
 Given that, I think it's possible that scientific literature was present, especially considering the complexity of Aztec society which might have required some scientific knowledge. However, without concrete examples of surviving written works specifically classified as scientific literature from this period and region, it's a bit of a toss-up.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ru_soviet_union,present,"<think>
 Alright, so I need to figure out whether scientific literature existed during the Soviet Union's period of existence from 1918 to 1991 CE. Okay, first off, I know that the Soviet Union was a state that existed for quite a long time, spanning several decades under various leaders and political systems.
 
@@ -69,7 +69,7 @@ Also, considering that many scientists during this period worked on projects rel
 So putting it all together: while there were restrictions and some suppression of certain types of literature, especially those critical of the regime, there was still a presence of scientific literature, particularly in areas deemed important for the state's development. Therefore, I would expect that scientific literature existed during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pe_inca_emp,absent,"<think>
 Alright, so I need to figure out whether the Inca Empire would have had scientific literature as we define it today. The question specifically mentions that scientific literature includes math, natural sciences, and social sciences. 
 
@@ -92,7 +92,7 @@ So putting it all together: while there was some form of record-keeping and docu
 
 The Incas Empire, flourishing between 1375 CE and 1532 CE, while having a well-organized society and administrative systems using quipu for record-keeping, did not develop scientific literature in the traditional sense. Their documentation was primarily practical and administrative, serving purposes like record-keeping and governance rather than academic or scientific endeavors. Thus, we expect that Scientific Literature as defined would be absent.
 
-XXXabsentXXX"
+XXXabsentXXX",present
 cn_western_zhou_dyn,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Western Zhou period, which was from 1122 BCE to 771 BCE. The user has defined scientific literature as including mathematics, natural sciences, and social sciences. So I have to consider each of these areas.
 
@@ -117,7 +117,7 @@ I think that in ancient China, especially during periods when the state was less
 So putting it all together: mathematics—maybe not as much as in later periods; natural sciences perhaps not well-developed due to lack of centralization; social sciences might be limited too because of fragmented governance. Therefore, I expect that scientific literature was absent during the Western Zhou period.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 gr_crete_classical,absent,"<think>
 Okay, so I need to figure out whether Scientific Literature existed in Classical Crete between 500 BCE and 323 BCE. Let me break this down.
 
@@ -138,7 +138,7 @@ Also, considering its location near Phoenicia and its trade routes, Crete might 
 So, putting it all together: while the broader Hellenistic world had a rich tradition of scientific literature, Crete's role as an independent polity with less centralized education might mean that their own scientific literature wasn't as prominent. It could be absent or very limited.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 mx_basin_of_mexico_6,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Terminal Formative Basin of Mexico between 100 BCE and 99 CE. Let me break this down step by step.
 
@@ -171,7 +171,7 @@ Key reasons include the absence of a centralized polity like the TFB during that
 
 Therefore, considering the lack of evidence for a centralized governance system and the absence of an academic culture during that period, it is reasonable to conclude that scientific literature was absent in the Terminal Formative Basin between 100 BCE and 99 CE.
 
-**Answer: XXXabsentXXX**"
+**Answer: XXXabsentXXX**",absent
 ye_rasulid_dyn,present,"<think>
 Okay, so I'm trying to figure out whether scientific literature existed during the Rasulid Dynasty, which was from 1229 CE to 1453 CE. Hmm, I don't know much about this dynasty, but maybe I can start by thinking about what other regions were active around that time.
 
@@ -188,7 +188,7 @@ I guess another angle is to consider how stable and resourceful the dynasty was.
 Overall, I'm leaning towards expecting some level of scientific literature because the broader period had a rich history of such developments, even if the Rasulid Dynasty itself might have been more focused on other aspects.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ru_sakha_early,absent,"<think>
 Okay, so I need to figure out whether scientific literature was present or absent in the polity called Sakha - Early between 1400 CE and 1632 CE. Scientific literature here is defined as including mathematics, natural sciences, social sciences—basically any written documents about those fields.
 
@@ -223,7 +223,7 @@ Hmm, I'm a bit confused now. Maybe I should check more about the specific histor
 
 The polity referred to as Sakha - Early, existing between 1400 CE and 1632 CE, likely experienced the absence of original scientific literature. This conclusion is drawn from considering factors such as potential geographic isolation, limited interaction with broader scholarly networks post-Islamic Golden Age decline, and possible focus on other areas like religion or practical applications over pure science.
 
-**Answer: XXXabsentXXX**"
+**Answer: XXXabsentXXX**",absent
 tr_konya_eca,absent,"<think>
 Alright, so I need to figure out whether scientific literature existed in the early Chalcolithic period at Konya Plain. Hmm, okay, first I should understand what time frame we're talking about here. The question says between 6000 BCE and 5500 BCE. That's a pretty early time, so probably before written records became widespread.
 
@@ -242,7 +242,7 @@ Putting it all together, the time frame and the nature of early societies sugges
 
 The polity Konya Plain during the Early Chalcolithic period likely lacked scientific literature due to the early stages of written systems and the focus on oral traditions.
 
-XXXabsentXXX"
+XXXabsentXXX",present
 tr_east_roman_emp,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the time when the East Roman Empire was in place, which was from 395 CE to 631 CE. Scientific literature is defined as written documents in mathematics, natural sciences, social sciences, etc.
 
@@ -265,7 +265,7 @@ Also, the presence of Greek influence means that areas like philosophy, which is
 So putting it all together, during the time from 395 CE to 631 CE, I expect that scientific literature was present because of their role in preserving Greek knowledge, translating texts into Latin (which was important for Europe later on), and maintaining centers of learning.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_hatti_old_k,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Hatti-Old Kingdom polity between 1650 BCE and 1500 BCE. Let me break this down step by step.
 
@@ -286,7 +286,7 @@ Also, considering the decline period from 1650-1500 BCE, many ancient civilizati
 In summary, while it's possible that the Hattites had some form of writing for practical purposes like record-keeping or tracking natural phenomena, I'm not certain if they would have considered this ""scientific literature"" as per the definition given.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 tr_konya_mnl,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the time when the polity known as Konya Plain - Ceramic Neolithic was active, which was between 7000 BCE and 6600 BCE. Scientific literature here includes math, natural sciences like astronomy and biology, and social sciences such as history or anthropology.
 
@@ -313,7 +313,7 @@ In summary, while it's possible that some form of documentation existed due to a
 
 The polity known as Konya Plain - Ceramic Neolithic, active between 7000 BCE and 6600 BCE, likely did not have extensive scientific literature. While the transition to agriculture necessitated some form of record-keeping for food management and seasonal tracking, this early documentation was probably basic administrative rather than specialized or systematic scientific works. Therefore, it can be concluded that:
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 tr_konya_lnl,present,"<think>
 Okay, so I need to figure out whether there was scientific literature in the ""Konya Plain - Late Neolithic"" polity that existed between 6600 BCE and 6000 BCE. The question defines scientific literature as including math, natural sciences, and social sciences, which are written documents.
 
@@ -334,7 +334,7 @@ Wait, maybe I should think about the broader context of Neolithic Anatolia. The 
 If that's the case, then it's likely that scientific literature or related written documents were present as part of administrative or social functions. So, considering this, I would expect that Scientific Literature existed during that period in Konya Plain.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 us_cahokia_1,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in Cahokia between 1050 CE and 1199 CE. First, I should understand what scientific literature includes. It's defined as written documents related to mathematics, natural sciences, social sciences, etc. So that could include things like academic papers, textbooks, treatises, and any other scholarly works.
 
@@ -355,7 +355,7 @@ So combining all this: While it's possible that scientific literature existed in
 
 The historical polity of Cahokia, existing between 1050 CE and approximately 1199 CE, likely experienced some level of scientific literature. Given its size, complexity, and role as a center of Ancestral Puebloan culture, it's plausible that scholarly works in mathematics, natural sciences, and social sciences were present. However, without specific evidence such as inscriptions or artifacts indicating formal libraries or writing practices, the existence remains uncertain. Thus, while possible during its peak, there's no definitive evidence to confirm widespread scientific literature, especially considering the decline period.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 us_woodland_5,absent,"<think>
 Alright, I need to answer whether scientific literature was present or absent in Cahokia during the Late Woodland III period, which is between 600 CE and 750 CE. First, I should recall what I know about Cahokia. It's one of the largest prehistoric cities known from the United States, situated near the Mississippi River around the 19th century.
 
@@ -376,7 +376,7 @@ I should also consider other factors like education and universities. If there w
 Putting this all together, while there might have been some basic scientific understanding and social structures, the decline of Cahokia during Late Woodland III likely meant that formal scientific literature wasn't present.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 us_woodland_3,absent,"<think>
 Okay, so I need to figure out whether there was scientific literature in Cahokia during the Late Woodland period, which was between 300 CE and 450 CE. First, I should understand what Scientific Literature includes—mathematics, natural sciences, and social sciences. That means I'm looking for any written documents related to these fields.
 
@@ -393,7 +393,7 @@ I should also consider the time period. 300 CE to 450 CE is when Cahokia was dec
 In summary, while it's possible that some basic notes or records existed, given their society's structure and the time period, I think it's safer to say that Scientific Literature was absent. They might have had informal notes but not the structured written documents we associate with scientific literature.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 us_cahokia_3,present,"<think>
 Okay, so I need to figure out whether scientific literature was present or absent in the Cahokia-Mississippí polity between 1275 CE and 1400 CE. Let me start by recalling what I know about Cahokia.
 
@@ -414,7 +414,7 @@ But does this translate into formal scientific literature? I think it's possible
 Given all this, I'm leaning towards the expectation that some form of scientific literature was present. The administrative structures and social organization suggest the need for record-keeping, which could encompass scientific topics if they were part of their broader knowledge base.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 af_ghur_principality,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Ghur Principality between 1025 CE and 1215 CE. First, I should probably understand what the Ghur Principality was. From what I remember, the Gurs were a Mongol nomadic group that established several principalities across Central Asia during the Golden Age of Chingis Khan's descendants. The Ghur Principality, in particular, was one of these established states after 1207 CE when Genghis Khan's great-great-grandson, Kublai Khan, moved to China and took power.
 
@@ -433,7 +433,7 @@ Also, looking at specific regions within the Ghur Principality, places like Xion
 In conclusion, considering the cultural and historical context, the Mongol Empire's history of scientific endeavors, and the presence of potential scholarly centers, I would expect that scientific literature was present in the Ghur Principality during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pe_wari_emp,present,"<think>
 Okay, so I'm trying to figure out whether the Wari Empire had scientific literature between 650 CE and 999 CE. The question defines Scientific Literature as including math, natural sciences, and social sciences. First, I need to recall what I know about the Wari Empire during that time.
 
@@ -456,7 +456,7 @@ But given that legal codes like the famous Urseum Codex (which is actually from 
 
 The Wari Empire during the period 650–999 CE may have had elements of scientific literature. The empire's administrative systems, such as those at Sisaatumpan, suggest a need for recorded legal codes and administrative inscriptions, which could encompass mathematical and social science aspects. While these records might not be as formalized as contemporary scientific literature, they indicate foundational documentation that could serve similar purposes to precursors like the Urseum Codex. Therefore, it is reasonable to expect some form of written documentation related to scientific knowledge during this time.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pk_kachi_enl,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity known as Kachi Plain - Aceramic Neolithic between 7500 BCE and 5500 BCE. Scientific literature here is defined as written documents covering mathematics, natural sciences, or social sciences.
 
@@ -477,7 +477,7 @@ On the other hand, some early societies did have rudimentary forms of scientific
 I should also consider the broader context: many pre-literate societies still had some level of social organization and maybe proto-science through observation, but without written records, they wouldn't be considered to have scientific literature.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 pk_kachi_pre_urban,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Kachi Plain's pre-urban period, which was between 3200 BCE and 2500 BCE. Hmm, let me start by breaking down what I know about this time and place.
 
@@ -496,7 +496,7 @@ Wait, but even before cities formed, people might have used symbols or pictorial
 So, putting this all together: while there were probably some written records by 3200 BCE, they might not qualify as scientific literature as defined—mathematics, natural sciences, or social sciences. They could be more like administrative or cultural documents without the depth of formalized scientific content.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 pk_sind_abbasid_fatimid,present,"<think>
 Okay, so I have this question about the history of scientific literature during the Sind - Abbasid-Fatimid period, which was from 854 CE to 1193 CE. The user is asking whether we'd expect scientific literature, including math, natural sciences, and social sciences, to be present or absent. They want a yes/no answer with ""present"" or ""absent"".
 
@@ -515,7 +515,7 @@ The Sind - Abbasid-Fatimid Period, spanning from 854 CE to 1193 CE, was a time o
 
 Examples such as Al-Farghani's contributions to astronomy and al-Kindi's work in cryptography illustrate the presence of scientific literature during this period. Additionally, the Fatimid Empire continued these traditions after the Abbasid era, further supporting academic endeavors.
 
-**XXXpresentXXX**"
+**XXXpresentXXX**",present
 eg_kushite,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Kushite Period in Egypt, which was from 747 BCE to 656 BCE. Scientific literature here is defined as written documents in mathematics, natural sciences, and social sciences.
 
@@ -534,7 +534,7 @@ I'm also thinking about the decline after their destruction in 312 BCE by Alexan
 So, putting it all together, maybe they didn't have significant scientific literature because the Kushites were more focused on administration under foreign rule and didn't maintain or develop such academic works themselves.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 uz_koktepe_1,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in Koktepe I between 1400 BCE and 1000 BCE. First, I should understand who Koktepe I was. From what I recall, Koktepe is an ancient polity that was part of the Hittite Empire around the region of Anatolia. It's a well-known site for archaeological finds, including pottery and jewelry.
 
@@ -557,7 +557,7 @@ Moreover, looking at the Hittite Empire's history, there are no well-known inscr
 So, putting it all together: while the broader region had extensive scientific literatures from earlier periods, whether Koktepe I itself produced its own is uncertain. It's possible that they inherited such texts but didn't create new ones during their time.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 af_greco_bactrian_k,absent,"<think>
 Okay, so I have this question about whether scientific literature existed in the Greco-Bactrian Kingdom between 256 BCE and 125 BCE. Hmm, let's break this down.
 
@@ -578,7 +578,7 @@ Putting it all together, I'm not sure if they had any written scientific literat
 So my tentative answer would be that scientific literature was absent. But I'm not entirely sure; maybe there were some informal notes or knowledge passed down verbally.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 af_hephthalite_emp,present,"<think>
 Okay, so I need to figure out whether there was scientific literature in the Hephthalites between 408 CE and 561 CE. First, who were the Hephthalites? I remember they were a group of Hellenistic Greeks, probably from Asia Minor. They were involved in various political conflicts, including their rivalry with the Roman province of Pisidia. 
 
@@ -601,7 +601,7 @@ Wait, but the Hephthalites themselves are sometimes called Hellenistic Greeks, s
 So putting it all together: the Hephthalites probably did have access to and exposure to scientific literature from Greek sources, even if their own contributions were more on the applied side like military engineering rather than theoretical science. Therefore, I'd expect that Scientific Literature was present during their time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 af_kushan_emp,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Kushan Empire between 35 CE and 319 CE based on my knowledge of world history. Let me start by recalling what the Kushan Empire was like.
 
@@ -632,7 +632,7 @@ Maybe I should consider that the Kushan Empire's scientific literature was prese
 
 The Kushan Empire, existing from 35 CE to 319 CE, indeed had some level of scientific activity and literature. While isolated after the Han Dynasty's end in 220 CE, they engaged with scientific knowledge through their interactions with China and other regions along the Silk Road. Their scholars contributed to fields like astronomy and mathematics, suggesting the presence of scientific literature, albeit perhaps less extensive than during earlier or later periods.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 cn_eastern_han_dyn,present,"<think>
 Okay, so I have this question about the Eastern Han Empire and whether they had scientific literature. The time frame is 25 CE to 220 CE. Scientific literature here includes math, natural sciences, and social sciences.
 
@@ -653,7 +653,7 @@ Social sciences would include things like laws, governance, and maybe even liter
 Putting it all together, while I don't have specific examples of scientific literature during the Han period between 25 CE and 220 CE, there were certainly advancements in various fields that could be considered part of scientific literature. Therefore, I would expect some level of presence.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 cn_jin_spring_and_autumn,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity known as Jin, which was active between 780 BCE and 404 BCE. Scientific literature here is defined as written documents in mathematics, natural sciences, social sciences. 
 
@@ -676,7 +676,7 @@ On the other hand, the later part of their rule until 404 BCE, when they were ov
 Putting this all together, it seems like during the Jin period itself, there might have been some scientific literature preserved from earlier times, but when considering the entire span up to 404 BCE under foreign rule, the presence of such literature would be limited.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 cn_ming_dyn,present,"<think>
 Okay, so I have this question about whether scientific literature existed during the Great Ming Dynasty in China between 1368 CE and 1644 CE. I'm not super familiar with Chinese history, but I know that the Ming Dynasty was a time of significant cultural and technological development in China.
 
@@ -697,7 +697,7 @@ Socially, in the Ming Dynasty, science and mathematics were considered important
 Putting this all together, I think it's reasonable to expect that scientific literature was present during the Great Ming Dynasty. They had scholars who contributed to various fields, formalized knowledge sharing, and even with limited resources like printing presses, there were ways to disseminate these works.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 cn_northern_song_dyn,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Northern Song Dynasty based on my knowledge of history. The Northern Song was a polity that existed from 960 CE to 1127 CE. Scientific literature includes works in mathematics, natural sciences, and social sciences.
 
@@ -718,7 +718,7 @@ Also, education systems might have supported scholarly work, which would facilit
 So putting this all together, it seems plausible that scientific literature existed in the Northern Song because there were likely advancements across multiple fields, and the structure of society didn't completely eliminate academic pursuits.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 cn_tang_dyn_1,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Tang Dynasty, which was from 617 CE to 763 CE. I'm not super familiar with all the details of this period, but I know a few things.
 
@@ -737,7 +737,7 @@ Wait, but wasn't the Tang Dynasty known for its efficient bureaucracy? Maybe tha
 So putting it all together: advancements in mathematics (from Li2 or similar), medicine and engineering, which would imply scientific literature. Even if social sciences weren't as prominent, the technical fields would still count.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 cn_tang_dyn_2,present,"<think>
 Okay, so I need to figure out whether scientific literature was present in the Tang Dynasty II period, which was between 763 CE and 907 CE. Hmm, let's break this down.
 
@@ -764,7 +764,7 @@ Furthermore, the concept of ""litmus"" for testing acidity came from China, amon
 So putting it all together, considering the time period in question (763-907 CE), the Northern Tang dynasty's rule aligns with this era. Given that this was a time of significant cultural and technological progress, I would expect that scientific literature existed during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 cn_western_han_dyn,present,"<think>
 Okay, so I need to figure out whether there was scientific literature in the Western Han Empire, which existed from 202 BCE to 9 CE. Scientific literature as defined here includes math, natural sciences, and social sciences.
 
@@ -781,7 +781,7 @@ Also, considering the scale of ancient China, having scientific literature would
 So putting it all together, there were definitely written documents in these categories during the Western Han Empire.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 eg_dynasty_1,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in Egypt during the Dynasty I period, which was from around 3100 BCE to 2900 BCE. Hmm, let's break this down step by step.
 
@@ -804,7 +804,7 @@ Wait, there's also the Akhenaten period around 1400 BCE that comes after Dynasty
 Putting it all together: Even though there might not have been a central repository of knowledge, local cultures likely kept some records of scientific information for practical purposes like agriculture, construction, and astronomy. So, while the overall amount might be limited or fragmented compared to later periods, some form of scientific literature would have existed.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 iq_babylonia_1,present,"<think>
 Alright, so I need to figure out whether scientific literature existed in the Amorite Babylonia period between 2000 BCE and 1600 BCE. Let's break this down step by step.
 
@@ -823,7 +823,7 @@ Also, the Code of Hammurabi is a famous legal code from around 1754 BCE, indicat
 Therefore, considering the available evidence about tablets, legal codes, and advancements in mathematics and astronomy, I expect that Scientific Literature was present during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 eg_dynasty_2,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Egyptian Dynasty II period, which was from around 2900 BCE to 2687 BCE. I'm not super familiar with all the details of Egyptian history, but I remember that Egypt had periods of both prosperous and decline, often associated with pharaohs.
 
@@ -844,7 +844,7 @@ Wait, though— wasn't there some proto-scientific documentation? Maybe from ear
 Therefore, the expectation would be that Scientific Literature was absent during Dynasty II.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 uz_sogdiana_city_states,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Sogdiana city-states period from 604 CE to 711 CE. I'm not super familiar with Sogdiana, but I know it was an important region in Central Asia and parts of the Middle East, especially known for its Silk Road connections. 
 
@@ -861,7 +861,7 @@ Also, during this time, there was an emphasis on translation of texts from Greek
 So considering all that, it seems likely that some form of scientific literature existed in Sogdiana during this period, especially if they were part of a broader network that did produce such literature. They might not have had everything themselves, but interactions would mean that there was exposure to scientific works from other regions.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 eg_naqada_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Naqada II polity between 3550 BCE and 3300 BCE. Let's break this down.
 
@@ -880,7 +880,7 @@ As for natural sciences, without modern tools, they might have observed animals 
 Putting this together, given their script's presence and the nature of Shetro, I'd expect that some form of scientific literature existed during Naqada II.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 eg_new_k_2,present,"<think>
 Okay, so I have this question about whether scientific literature was present during the New Kingdom Ramesside Period in Egypt. Hmm, let me think through this step by step.
 
@@ -899,7 +899,7 @@ Additionally, the scrolls we have today, like the Papyrus of AnubHotep I from 10
 Putting all this together, it seems clear that scientific literature wasn't absent during the New Kingdom Ramesside Period. They had various written documents covering mathematics, natural sciences, and social sciences, which were integral to their society's functioning.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 jp_jomon_3,absent,"<think>
 Okay, so I'm trying to figure out whether there was scientific literature in Japan during the Early Jomon period, which was between around 5300 BCE and 3500 BCE. I know that this period is part of the Yayoi culture, right? The Yayoi were one of Japan's earliest historical cultures, so they probably had some form of writing.
 
@@ -912,7 +912,7 @@ Mathematics... I'm not sure about early math literature during this time. Maybe 
 Putting it all together, while there are records like the Kuroni that are more contemporary in nature (3rd century BCE), they aren't part of the Early Jomon period itself. The early Jomon likely used some writing but perhaps not as formalized or specialized as later periods. So maybe scientific literature wasn't present then.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 eg_old_k_1,present,"<think>
 Okay, so I need to figure out whether there was scientific literature in ancient Egypt during the Classic Old Kingdom period, which was from about 2650 BCE to 2350 BCE. Hmm, let me start by breaking this down.
 
@@ -931,7 +931,7 @@ I don't recall specific examples of math texts from that period, though they mig
 Putting it all together: Egypt during the Classic Old Kingdom had schools, records of medical practices, astronomical observations, and engineering works. While they might not have formalized scientific literature as we know it today, there were certainly written documents used for teaching and record-keeping in various fields. So I think scientific literature was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_old_k_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in ancient Egypt during the Late Old Kingdom period, which was from around 2350 BCE to 2150 BCE. Let's break this down step by step.
 
@@ -950,7 +950,7 @@ Putting this together: The Rhind Papyrus indicates mathematical knowledge existe
 Therefore, considering that mathematical literature was present earlier in the period, it's reasonable to expect that some level of scientific literature, at least in mathematics, continued to exist during the Late Old Kingdom.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_ptolemaic_k_2,present,"<think>
 Okay, so I need to figure out whether there was scientific literature in the Ptolemaic Kingdom II between 217 BCE and 30 BCE. Hmm. Let me start by recalling what I know about this period.
 
@@ -975,7 +975,7 @@ But could there have been periods when scientific literature was absent? Well, i
 So putting it all together: Even though not all centers were in Alexandria at all times, the presence of notable scientists like Archimedes suggests that scientific literature would have been present. Also, the Hellenistic influence kept these fields active.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 eg_saite,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Saite Period in Egypt, which was from 664 BCE to 525 BCE. Hmm, first, I should recall what the Saite Period was like historically.
 
@@ -998,7 +998,7 @@ On the other hand, maybe there were local scribes who kept records that touched 
 So putting it all together: The Saite Period likely didn't have extensive scientific literature in the same way as later periods. They had some math from earlier periods, and maybe some practical knowledge recorded by local scribes, but no major treatises in natural sciences or social sciences.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 es_spanish_emp_1,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Spanish Empire between 1516 and 1715 CE. The Spanish Empire was a huge political entity that expanded a lot during its reign. It covered places like Spain, Latin America, parts of Africa, the Middle East, and even some areas in Asia. 
 
@@ -1025,7 +1025,7 @@ On the other hand, even if some universities continued to operate in parts of Sp
 So putting all these together: the Spanish Empire's decline, territorial loss, lack of central support for academic activities, and competition from other European powers likely meant that scientific literature wasn't as prevalent as in its prime. Therefore, I would expect Scientific Literature to be absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 fm_truk_1,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the time of the Chuuk polity, which was from 1775 to 1886 CE. Hmm, let's start by understanding what the Chuuk polity was. From what I remember, it was a significant Polynesian society on the island of Palau. They were known for their advanced navigation skills and had a rich culture.
 
@@ -1040,7 +1040,7 @@ Also, in isolated regions like Palau, people often rely more on spoken words and
 So putting it all together, I think it's absent because of the isolation and lack of writing system.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 fr_bourbon_k_1,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the early Bourbon period of France, which was between 1589 CE and 1660 CE. First, I should understand what ""scientific literature"" means here—it includes written documents in math, natural sciences, and social sciences. 
 
@@ -1055,7 +1055,7 @@ Also, Henry IV's son, Louis XIV (the Sun King), came into power in 1610, continu
 Putting it all together: between 1589 and 1660, there was a foundation for scientific literature due to academic institutions like the University of Paris promoting math, and kings who supported science. Therefore, I expect that Scientific Literature was present during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 fr_bourbon_k_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the French Kingdom from 1660 to 1815 CE. The time frame is between the late 17th century and early 19th century.
 
@@ -1074,7 +1074,7 @@ There's also the possibility of scientific works being published in French newsp
 So putting it all together, considering the establishment of academic institutions, funding from rulers like Louis XIV, and ongoing scientific developments, I would expect that scientific literature was indeed present in the French Kingdom during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 fr_la_tene_b2_c1,present,"<think>
 Okay, so I need to figure out whether scientific literature was present in the polity known as La Tene B2-C1, which existed between 325 BCE and 175 BCE. Scientific literature here is defined as written documents related to mathematics, natural sciences, or social sciences.
 
@@ -1093,7 +1093,7 @@ But given the time frame up to 175 BCE, which is before the end of Hellenistic i
 So, considering all this, it's possible that scientific literature was present during La Tene B2-C1, though perhaps in a more fragmented form compared to earlier periods.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 fr_la_tene_c2_d,present,"<think>
 Okay, so I have this question about whether scientific literature existed in the polity called La Tene C2-D between 175 BCE and 27 BCE. The user defines scientific literature as including math, natural sciences, and social sciences. My task is to figure out if these kinds of written documents were present or not.
 
@@ -1110,7 +1110,7 @@ Also, during this time, Aristotle had a school in Athens, but that's outside the
 Considering all this, I'm leaning towards expecting that there was some scientific literature present because of the academic traditions and the influence of figures like Pythagoras who contributed to mathematics.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 fr_valois_k_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the French Kingdom during the Late Valois period, which was from 1450 CE to 1589 CE. Hmm, let's break this down.
 
@@ -1133,7 +1133,7 @@ Another angle: the political role of science during this time. If the French kin
 In conclusion, I think it's possible that there was some level of scientific literature present during the Late Valois period, even if it wasn't as extensive as later periods. The recovery from the Middle Ages and the rise of towns under French rule might have supported some scholarly activity, though it would be limited by broader societal conditions.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 us_hawaii_1,absent,"<think>
 Okay, so I have this question about whether scientific literature existed in Hawaii between 1000 CE and 1200 CE. I need to figure out if it was present or not based on what I know from history.
 
@@ -1154,7 +1154,7 @@ Wait, but there was contact before Spanish conquest. Maybe they had some influen
 So putting it all together, I don't recall specific examples of scientific literature in Hawaii between 1000 and 1200 CE. Their main literatures were likely oral histories, proverbs, religious texts, etc., but not specialized scientific works. Therefore, my answer is that Scientific Literature was absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 us_hawaii_2,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity called Hawaii II between 1200 CE and 1580 CE. First, I should probably understand what Hawaii II refers to because I'm not too familiar with that name. Maybe it's a typo or perhaps it's referring to the Hawaiian Polynesians? I know that the Kingdom of Hawaii was a significant entity in the Pacific, especially during the time between 1200 and 1580 CE when they were under various influences like Portuguese colonizers.
 
@@ -1177,7 +1177,7 @@ Putting it all together: there were some instances of scientific activity—astr
 Therefore, while there was some scientific activity, especially in astronomy, it's possible that scientific literature (as defined) was absent from Hawaii II. Instead, knowledge was transmitted orally through learned elites rather than being preserved in written form.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 us_hawaii_3,absent,"<think>
 Okay, so I need to figure out whether scientific literature was present in the polity called ""Hawaii III"" between 1580 CE and 1778 CE. First, I should understand what Hawaii III refers to because that name isn't familiar to me. Maybe it's a historical period or a specific region within Hawaii?
 
@@ -1196,7 +1196,7 @@ Given that many Polynesian societies prior to European contact used oral histori
 However, there could be exceptions if certain leaders or groups started to record information after contact. But for most of the period, it's more likely that they continued without written scientific literature.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 in_mauryan_emp,absent,"<think>
 Alright, so I need to figure out whether scientific literature existed in the Maurya Empire, which was between 324 BCE and 187 BCE. Hmm, okay, first, let me break down what ""scientific literature"" means here—it includes math, natural sciences, and social sciences. So, are there any written documents from that time in those fields?
 
@@ -1213,7 +1213,7 @@ Also, without a unified writing system across the entire empire, it would be har
 So putting it all together, I think there's no strong evidence for scientific literature from the Maurya Empire during that time. They might not have had the infrastructure or incentives to produce written works in those fields.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 in_rashtrakuta_emp,present,"<think>
 Alright, so I need to figure out whether scientific literature existed during the Rashtrakuta Empire based on my understanding of their history. Let me start by recalling what I know about the Rashtrakutes.
 
@@ -1236,7 +1236,7 @@ I should also think about the languages used. The Rashtrakutes were known to hav
 In summary, while there are hints suggesting cultural exchange and possibly some centers of learning, the absence of concrete evidence about scientists writing scientific literature during the Rashtrakute period makes it hard to confirm its presence. It might have been present if they had scholars contributing to these fields, but without specific instances or documentation, I can't be certain.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_susiana_a,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity called Susiana A, which was around between 6000 BCE and 5700 BCE. I don't know much about this specific region or time period, but I can try to piece it together based on what I know.
 
@@ -1257,7 +1257,7 @@ I also need to consider if there are any exceptions or known cases where early s
 So, putting it all together: Susiana A is in a time period when writing wasn't widespread, likely before the development of literate cultures. Without evidence of written records specifically related to science—like mathematical treatises or texts on natural or social sciences—it's unlikely that scientific literature was present. Therefore, I would expect it to be absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 in_sunga_emp,absent,"<think>
 Okay, so I have this question about the Magadha-Sunga Empire and whether scientific literature was present during their time, which was between 187 BCE and 65 BCE. The empire existed in what's now modern-day India, right? I remember that the Sahastraordesates were some of their main rulers.
 
@@ -1280,7 +1280,7 @@ Also, the Shaka dynasty later in the period had access to foreign knowledge, esp
 But considering all of this, I think it's more likely that while there were some influences and formal education, actual scientific literature as we define it (mathematics, natural sciences, social sciences) wasn't prevalent in the Magadha-Sunga Empire. They had practical knowledge but not the formal written texts.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 iq_abbasid_cal_1,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Abbasid Caliphate based on my knowledge of world history. Let's start by recalling what I know about this period.
 
@@ -1297,7 +1297,7 @@ Moreover, during their rule, the Abbasid caliphates were relatively peaceful per
 Putting all this together, it seems that scientific literature was definitely present during the Abbasid Caliphate.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 iq_akkad_emp,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Akkadian Empire. Let me start by recalling what I know about the Akkadian Empire.
 
@@ -1316,7 +1316,7 @@ Social sciences would involve things like laws, customs, and societal structures
 Putting this all together, it seems likely that scientific literature existed during the Akkadian period. They would have needed writing for administration, law, construction, and documentation of their observations and knowledge. So I'm leaning towards present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_babylonia_2,present,"<think>
 Okay, so I have this question about the Kassite Babylonia period between 1595 BCE and 1150 BCE. I need to determine whether scientific literature was present or not. Let me think through this step by step.
 
@@ -1333,7 +1333,7 @@ Social sciences during this period would include things like record-keeping and 
 Putting it all together, given the advanced nature of Babylonian society, their focus on record-keeping, and the presence of institutions where knowledge was shared and preserved, I would expect that scientific literature was indeed present during the Kassite Babylonia period. They were probably at the forefront of these scientific fields, both practical and theoretical.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 iq_bazi_dyn,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Bazi Dynasty, which was between 1005 BCE and 986 BCE. Scientific literature here is defined as any written documents in mathematics, natural sciences, social sciences, etc.
 
@@ -1356,7 +1356,7 @@ Also, I should consider if any notable scientists or scholars existed during thi
 In summary, while it's possible that some scientific literature existed during the Bazi Dynasty due to practical needs in agriculture and administration, the lack of centralized governance and ongoing social upheavals might have limited the scope and preservation of such literature. Therefore, I would expect scientific literature to be absent from this period.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ir_susiana_ubaid_2,absent,"<think>
 Okay, so I have this question about the Susiana culture in the region between 4700 BCE and 4300 BCE. The question is asking whether scientific literature was present or absent. Scientific literature includes math, natural sciences, and social sciences.
 
@@ -1371,7 +1371,7 @@ So, considering the period from 4700 to 4300 BCE, which is before their migratio
 Therefore, it's reasonable to conclude that scientific literature, as defined by formal written documents in the fields of math, natural sciences, or social sciences, would not be present in Susiana from that time period.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 ir_susiana_ubaid_1,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity called Susiana during its time between 5100 BCE and 4700 BCE. Scientific literature includes math, natural sciences, and social sciences as per the definition given.
 
@@ -1390,7 +1390,7 @@ Additionally, I should think about the types of information that would have been
 So putting it all together, while the Susiana people may have created some form of written documentation using other media (like petroglyphs), there's no indication that they used written scientific literature as we define it. Therefore, I would expect Scientific Literature to be absent during this period.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 iq_isin_dynasty2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Second Dynasty of Isin between 1153 BCE and 1027 BCE. First, let me recall what I know about this dynasty.
 
@@ -1415,7 +1415,7 @@ But wait, maybe during this time, the focus was more on practical applications r
 I'm a bit unsure, but I think there might have been some form of scientific literature from this period, given their overall scientific contributions.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 iq_isin_larsa,present,"<think>
 Okay, so I have this question about the historical period of Isin-Larsa, which existed from 2004 BCE to 1763 BCE. The question is asking whether scientific literature was present or absent during that time. Scientific literature includes math, natural sciences, and social sciences.
 
@@ -1432,7 +1432,7 @@ Considering social sciences would involve things like laws or constitutions, whi
 So putting it all together, during this period, the people of Isin-Larsa were likely producing scientific literature in various forms—mathematical, natural, and social. Therefore, I expect that scientific literature was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 iq_neo_babylonian_emp,present,"<think>
 Alright, so I need to figure out whether scientific literature existed in the Neo-Babylonian Empire between 626 BCE and 539 BCE. First, I should understand what the Neo-Babylonian Empire was. From my history classes, I remember that it was a continuation of the Old Babylonian Empire founded by Nebuchadnezzar II. The empire lasted until around 539 BCE when Cyrus the Great conquered it as part of his plan to establish Persian rule over Mesopotamia.
 
@@ -1449,7 +1449,7 @@ Also, the time between 626 and 539 BCE is when they were under Persian rule, so 
 I'm leaning towards expecting scientific literature to still be present because their cultural continuity from before would mean they kept up with cuneiform writing. Even if the specific kinds of texts changed or were influenced by Persian scholars, there should have been some continuation in their written records.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_achaemenid_emp,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Achaemenid Empire, which was from 550 BCE to 331 BCE. Hmm, let's start by recalling what I know about this empire.
 
@@ -1474,7 +1474,7 @@ So, putting it all together: I think scientific literature wasn't absent because
 
 The Achaemenid Empire, existing between 550 BCE and 331 BCE, saw the presence of scientific literature, particularly in engineering and practical sciences. While it was less developed than later periods like Hellenistic or Parthian, there were proto-scientific documents related to construction and military strategy that indicate its existence.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_ak_koyunlu,present,"<think>
 Okay, so I need to figure out whether scientific literature was present during the Ak Koyunlu polity that existed from 1339 CE to 1501 CE. Hmm, first, I should probably understand what Ak Koyunlu is. From what I remember, it's a historical period in Turkey under the Ottoman Empire. The name sounds Turkish, so it's likely an era within the broader Ottoman history.
 
@@ -1495,7 +1495,7 @@ But then again, the period includes the creation of maps and globes by the Ottom
 In conclusion, while I'm not 100% certain, given that the Ottoman Empire had scholars and translated works, including scientific literature seems plausible during this polity's existence.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_susiana_archaic,absent,"<think>
 Okay, so I have this question about the historical polity called Susiana-Muhammad Jaffar, which existed between 7000 BCE and 6000 BCE. The question is asking whether scientific literature was present or absent in that period. Scientific literature here includes math, natural sciences, and social sciences.
 
@@ -1514,7 +1514,7 @@ So putting it all together, since Susiana-Muhammad Jaffar existed around 7000 to
 
 The polity of Susiana-Muhammad Jaffar, existing between 7000 BCE and 6000 BCE, likely did not have scientific literature. Writing as we understand it today emerged much later, around 3000 BCE, so any knowledge they may have had would have been transmitted through oral traditions rather than in written form.
 
-**Answer:** XXXabsentXXX"
+**Answer:** XXXabsentXXX",absent
 jp_azuchi_momoyama,absent,"<think>
 Okay, so I need to figure out whether scientific literature was present during the Azuchi-Momoyama period in Japan, which was between 1568 CE and 1603 CE. The user defined scientific literature as including math, natural sciences, and social sciences.
 
@@ -1543,7 +1543,7 @@ I think that despite the isolationist policies, there were still scholars in pla
 But I'm more inclined to say it's absent because of limited contact with outside knowledge and strict cultural maintenance as seen during the Kamakura period before that. So probably, no significant scientific literature was present then.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 ir_elam_1,present,"<think>
 Alright, so I need to figure out whether scientific literature was present in the Elam-Awan Dynasty I based on my knowledge of world history. Let me break this down step by step.
 
@@ -1562,7 +1562,7 @@ Social Sciences: This is a bit trickier because social sciences often refer to t
 Putting this all together, the dynasty might not have had extensive written documents like we know them today because of the early period and lack of preservation. But they likely had some basic forms of documentation related to their practical skills and social practices.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_susiana_formative,absent,"<think>
 Okay, so I have this question about the Formative Period, which is between 7200 BCE and 7000 BCE. The question is asking whether scientific literature was present or not. Scientific literature here includes math, natural sciences, and social sciences.
 
@@ -1579,7 +1579,7 @@ Moreover, the concept of science as we know it today probably came much later, w
 So putting this together, I don't think scientific literature was present during the Formative Period because there wasn't a developed writing system or the need for such documentation yet.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 ir_il_khanate,present,"<think>
 Alright, so I need to figure out whether scientific literature was present in the Ilkhanate between 1256 and 1339 CE. First, I should recall what the Ilkhanate is. It's a historical polity that existed under the Mongol Empire, right? The Mongols were quite a vast empire at their time, so maybe there was some academic activity there.
 
@@ -1602,7 +1602,7 @@ I also think about the Islamic Golden Age. The Ilkhanate was a part of the broad
 So putting it all together: despite potential isolation, the Ilkhanate likely had centers where scientific literature was produced. Trade networks would facilitate the exchange of ideas, even if direct transmission wasn't always possible. The presence of scholars and the Islamic scholarly tradition suggests that scientific works would have been present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ir_parthian_emp_1,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Parthian Empire, which was from 247 BCE to 40 CE. I'm a bit fuzzy on my history, but let me try to break this down.
 
@@ -1621,7 +1621,7 @@ Another angle is looking at other empires in the region around the same period. 
 Considering all this, it seems plausible that they did have some form of scientific literature because their empire was well-established enough to support such endeavors. But I'm not entirely sure about the specifics or if it was as systematic as other empires.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 iq_parthian_emp_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Parthian Empire II, which was active between 41 CE and 226 CE. Scientific literature here is defined as written documents in math, natural sciences, or social sciences.
 
@@ -1640,7 +1640,7 @@ I'm not certain if specific examples exist from this period, but there's no imme
 
 The Parthian Empire II, active between 41 CE and 226 CE, likely had a presence of scientific literature. Their extensive administrative system, cultural advancements, and influence from Hellenistic learning suggest they may have developed written records in mathematics, natural sciences, and social sciences. Although specific examples are not well-documented, the empire's history indicates a plausible foundation for such literary works.
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_susiana_pre_ceramic,absent,"<think>
 Okay, so I need to figure out whether scientific literature was present during the Pre-Ceramic Period, which was between 7800 BCE and 7200 BCE. Hmm, I'm not entirely sure about all the details of that era, but let's break it down.
 
@@ -1659,7 +1659,7 @@ Putting it all together, while the natural sciences might have some written reco
 Therefore, I think it's absent rather than present.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 ir_safavid_emp,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Safavid Empire, which was from 1501 to 1722 CE. First, I should understand what the Safavid Empire was all about. From what I remember, the Safavids were a Persian dynasty that ruled parts of the Middle East and Central Asia. They were known for being conservative and controlling religious texts.
 
@@ -1674,7 +1674,7 @@ Putting it all together, while the Safavid Empire didn't produce original scient
 
 The Safavid Empire, active between 1501 and 1722 CE, focused on preserving and translating existing scientific knowledge rather than producing original works. While they inherited scientific texts from earlier cultures like the Greeks and Persians, there's no indication of original contributions in mathematics, natural sciences, or social sciences during their rule.
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 ir_sassanid_emp_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Sasanid Empire II, which was active from 488 CE to 642 CE. Hmm, first off, I'm not super familiar with all the details of this empire, but I know it's part of the Sassanid dynasty in Persia.
 
@@ -1697,7 +1697,7 @@ In summary, considering their administrative needs and possible cultural influen
 
 The Sasanid Empire II, active between 488 CE and 642 CE, likely saw some presence of scientific literature. Given their administrative needs, engineering endeavors, and potential cultural influences from various regions, they may have produced works in mathematics, natural sciences, and social sciences. These could have been written in Persian or Farsi, adapting existing knowledge or documenting their advancements. 
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_seleucid_emp,present,"<think>
 Okay, so I have this history question about whether scientific literature existed during the time of theSeleucid Empire, which was between 312 BCE and 63 BCE. The definition given includes mathematics, natural sciences, and social sciences as examples of scientific literature.
 
@@ -1722,7 +1722,7 @@ I also think about the library at Alexandria, which became prominent around 300 
 In summary, considering the Hellenistic influence and their integration into Greek culture, it's likely that they did engage with scientific literature, possibly using it in their administrative systems and perhaps contributing to its dissemination. So, I would expect that there was some presence of scientific literature during theSeleucid period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_seljuk_sultanate,present,"<think>
 Okay, so I need to figure out whether scientific literature was present during the Seljuk Sultanate, which was from 1037 CE to 1157 CE. Let me start by recalling what I know about the Seljuk dynasty.
 
@@ -1743,7 +1743,7 @@ However, I shouldn't ignore potential challenges either. Sometimes, political ch
 In summary, based on their cultural centers, emphasis on science, support for scholarly activities, and the presence of institutions where scientific literature would be produced, I expect that scientific literature was indeed present during the Seljuk Sultanate.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ir_susa_2,absent,"<think>
 Okay, so I'm trying to figure out whether there would have been scientific literature in the polity known as Susa II, which existed from around 3800 BCE to 3100 BCE. First off, I need to understand what exactly is meant by ""scientific literature."" The question defines it as including mathematics, natural sciences, and social sciences—so basically any written documents that deal with systematic knowledge in these areas.
 
@@ -1764,7 +1764,7 @@ I should also think about why Susa II is referred to as such. Susa is a city in 
 In summary, while it's possible that Susa II had some form of scientific documentation due to the necessity of writing for administration and record-keeping, I'm not sure if it reached the level or scope we see in later periods. Without concrete evidence of schools, records kept by scientists, or explicit mention of such literature from that time, it might be safer to say it was absent compared to later civilizations.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 ir_susa_3,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity called Susa III, which spans from 3100 BCE to 2675 BCE. First, I should understand what Susa III is—was it a real historical society or a fictional one? From the name ""Susa III,"" it seems like it's part of an ancient Mesopotamian city-states tradition, as many cities in that region were known for their administrative structures and scholarly endeavors.
 
@@ -1783,7 +1783,7 @@ I should also consider if there are any exceptions or reasons why scientific lit
 Therefore, it's more likely that scientific literature would have been present in Susa III during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 jp_heian,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Heian period. First, I'll recall what I know about Heian Japan. It was a time of relative peace after the Kamakura period, right? The samurai class held more power and society was relatively stable. That stability probably encouraged various kinds of knowledge and learning.
 
@@ -1798,7 +1798,7 @@ For social sciences, Heian Japan had classes with some education—male students
 Putting it all together, while Heian may not have had as much formal scientific literature as later periods, there were certainly beginnings of written works in at least mathematics and social studies. The samurai's emphasis on education and record-keeping might have supported some level of scientific documentation, even if they weren't as systematic as the West would develop later.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 it_ostrogoth_k,absent,"<think>
 Alright, so I need to figure out whether scientific literature existed during the Ostrogothic Kingdom, which was active between 489 CE and 554 CE. Okay, first off, I should recall what the Ostrogoths were. They were a Germanic tribe that, after migrating from the North, established their capital in 431 CE near今天 known as Ostrava. The Ostrogothic Kingdom was one of the few Germanic kingdoms at the time, and it existed during a period when Western Europe was dealing with invasions by various Slavic tribes.
 
@@ -1815,7 +1815,7 @@ Additionally, considering the time frame from 489 CE (when the kingdom ended) wh
 So putting this all together, I don't expect that there was a significant presence of scientific literature during the Ostrogothic Kingdom period because the intellectual and academic environment wasn't as robust as it had been earlier. The practical needs were more pressing, and without a structured system for scholarly work, scientific literature likely didn't develop or thrive during this time.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 it_papal_state_2,present,"<think>
 Okay, so I have this question about whether scientific literature was present or absent in the Papal States during the Renaissance period. The time frame is from 1378 CE to 1527 CE. Hmm, let me break this down.
 
@@ -1840,7 +1840,7 @@ Also, the Renaissance's emphasis on empiricism and experimentation might have in
 In summary, considering the intellectual environment of the Renaissance, the resources available through the Vatican Library, the role of humanism, and the presence of scholars who engaged with scientific works, it's reasonable to expect that scientific literature was present during the time of the Papal States in the Renaissance period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 mx_basin_of_mexico_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the historical polity known as the Initial Formative Basin of Mexico between 2000 BCE and 1201 BCE. Hmm, first, I should probably understand what the Initial Formative Basin (IFB) refers to. From what I remember, the IFB is a region that includes modern-day Mexico, Guatemala, Belize, Honduras, and parts of the United States along the northern border. It's often associated with the formation of early Central American civilizations.
 
@@ -1863,7 +1863,7 @@ But wait, I'm not entirely sure about the exact definitions here. If ""scientifi
 In summary, considering the Olmec's Codices and possible Mayan texts that include scientific content, I think there was some form of scientific literature present in the IFB during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 it_ravenna_exarchate,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Exarchate of Ravenna between 568 CE and 751 CE. First, I should understand what an exarchate was historically. From what I remember, exarchies were administrative areas under the control of a bishop, often as part of the Byzantine Empire or later Eastern Orthodox church. Ravenna itself is in Italy, so this period falls within the Justinianic era and beyond.
 
@@ -1880,7 +1880,7 @@ Wait, but during this period, the Byzantine Empire was under Emperor Justinian I
 So putting it all together: Ravenna's exarchate period likely had scientific literature in Greek, even if Latin versions appeared later. Therefore, scientific literature was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 it_roman_principate,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Roman Empire Principate period, which was from 31 BCE to 284 CE. Hmm, where do I start? Well, the Roman Empire was a huge and complex organization that spanned a lot of regions. It's probably safe to assume they had some form of education and knowledge-sharing because their influence extended so far.
 
@@ -1897,7 +1897,7 @@ Moreover, emperors often commissioned works by scholars, like Ptolemy's Almagest
 So putting it all together: cities as centers of administration and scribes gathering knowledge, libraries (like Alexandria) even if not all existed throughout the entire Principate, schools teaching various subjects with written materials, and imperial support for scholars. All these factors suggest that scientific literature was present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 jp_jomon_2,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Initial Jomon period in Japan, which was from around 9200 BCE to 5300 BCE. Hmm, let's break this down.
 
@@ -1912,7 +1912,7 @@ Also, the question defines scientific literature as including math, natural scie
 So considering all this, it's unlikely that there were any written scientific literatures during the Initial Jomon period because scripts hadn't developed yet.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 jp_jomon_5,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in Japan during the Late Jomon period, which was between 2500 BCE and 1200 BCE. I remember that the Late Jomon is also called the Yayoi period. From what I know, this was a time when Japan's culture was still very traditional and oral traditions were prominent.
 
@@ -1931,7 +1931,7 @@ Moreover, the lack of extensive trade or contact with other regions might have h
 So putting this all together, while there were certainly areas where knowledge was accumulated and used, it's less likely that formal scientific literature in the defined categories existed during the Late Jomon period.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 jp_jomon_6,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in Japan during the Final Jomon period, which was from around 1200 BCE to 300 BCE. Hmm, let's break this down.
 
@@ -1946,7 +1946,7 @@ Also, the Final Jomon period was relatively early in Japanese history, so maybe 
 So putting it all together, I think scientific literature as we know it—mathematics, natural sciences, social sciences—probably didn't exist. It seems like the period was more focused on practical skills and less on written records for academic purposes.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 jp_kamakura,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Kamakura Shogunate period, which was from 1185 CE to 1333 CE. I'm not super familiar with Japanese history, but I know a bit about the Edo period because the Kamakura shogunate is part of it.
 
@@ -1963,7 +1963,7 @@ Also, the Kamakura period was more about rebuilding after a disaster, so maybe t
 So putting it all together: Japan had some preservation of knowledge through traditional writing forms but not necessarily scientific literature in Japanese script. They probably used existing Chinese texts translated into Japanese for their scientific needs.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 jp_nara,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Nara Kingdom between 710 CE and 794 CE. Let me start by recalling what I know about the Nara Period.
 
@@ -1992,7 +1992,7 @@ Putting it all together: While the Nara Period had some written records related 
 
 The Nara Period (710–794 CE) in Japan was a time of unification and cultural development, marked by the establishment of Kyoto as the capital after the Battle of Yoshkar-Oka. While the period saw some written records such as administrative chronicles documenting governance and social structures, these were primarily focused on law, administration, and administration rather than scientific research. Although there may have been informal notes on natural phenomena or separate works on specific subjects like astronomy or botany, they wouldn't fit the structured scientific literature category as defined.
 
-XXXabsentXXX"
+XXXabsentXXX",present
 jp_tokugawa_shogunate,present,"<think>
 Okay, so I need to figure out whether scientific literature was present during the Tokugawa Shogunate period, which was from 1603 to 1868 CE. The definition includes mathematics, natural sciences, and social sciences. 
 
@@ -2009,7 +2009,7 @@ I'm not sure how much Western science influenced Japan during the shogunate. The
 So, putting it all together, I think there were some forms of scientific literature in Japan during the Tokugawa period, though they were rooted in Japanese traditions rather than Western influences.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kg_kara_khanid_dyn,absent,"<think>
 Okay, so I'm trying to figure out whether scientific literature was present or absent in the Kara-Khanid polity between 950 CE and 1212 CE. I know that the Kara-Khanids were a Mongol-related group that existed during this period. First, I should recall what the Kara-Khanids did and where they were.
 
@@ -2026,7 +2026,7 @@ Wait, but before the Mongol conquests, Central Asia was a hub for various scienc
 So putting this together: they probably had access to existing scientific literature from other cultures because of trade and cultural exchange, but did they create original scientific works? It's possible that they didn't produce much themselves. Therefore, the presence would be low or absent unless they independently developed knowledge without relying on others.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 kh_angkor_2,present,"<think>
 Alright, so I'm trying to figure out whether there was scientific literature in the region around Angkor between 1100 CE and 1220 CE. I know that Angkor was a massive polity, an empire centered on Cambodia. But wait, wasn't the Khmer Empire one of the last cultures before organized religion declined? That makes me think about when science might have been practiced there.
 
@@ -2051,7 +2051,7 @@ Wait, but do we have any specific examples? I recall that Siamese Thailand had a
 Putting it all together: the area around Angkor might not have had its own scientific literature because of the decline and unification into other empires, but neighboring regions with active cultural centers could have influenced it. So perhaps it was present through interactions rather than local production.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_angkor_1,present,"<think>
 Okay, so I have this question about whether scientific literature existed during the time of Early Angkor, which was from 802 CE to 1100 CE. Hmm, let me think through this.
 
@@ -2072,7 +2072,7 @@ I should also remember that education and knowledge exchange were more common in
 In summary, while I can't point to specific examples, the context suggests that scientific literature was likely present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_angkor_3,present,"<think>
 Okay, so I have this question about whether scientific literature existed in the polity called Late Angkor between 1220 CE and 1432 CE. I'm not super familiar with Angkor's history, but I know it was a significant empire in Cambodia during the Khmer civilization. Let me try to break this down.
 
@@ -2093,7 +2093,7 @@ Moreover, considering the period until 1432 CE, when they became part of the big
 So putting it all together: Late Angkor had some time to develop and use scientific literature, influenced by both their own culture and possibly neighboring regions due to trade or cultural exchanges with the Mongols. They might have had scholars in monasteries or other institutions contributing to various fields. Therefore, I would expect that scientific literature was present during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_khmer_k,present,"<think>
 Okay, so I'm trying to figure out whether the Khmer Kingdom would have had scientific literature during its time, from 1432 CE to 1594 CE. First, I need to understand what ""scientific literature"" includes—it's written documents in math, natural sciences, and social sciences.
 
@@ -2112,7 +2112,7 @@ Also, considering trade and cultural exchanges, the Khmer Empire might have inte
 However, without specific examples of such written works surviving to this day, it's hard to say definitively. But given the time span and the nature of their society, I would expect some level of scientific documentation to exist.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 kh_funan_1,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in Funan I between 225 CE and 540 CE. First, I should understand who Funan I was. From what I remember, Funan I is an ancient Chinese name, possibly referring to a ruler or polity. Wait, maybe it's Fuyuan? I think Fuyuan was the romanization of Funan in later periods. Fuyuan is known as the Han autocratic capital, right?
 
@@ -2137,7 +2137,7 @@ I think during this period, much of China went through various dynasties with pe
 But I'm not entirely certain. Maybe in this period, especially after the fall of major dynasties, scientific literature would be less prevalent overall, but specific regions or periods within Funan I could still have had it.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ma_saadi_sultanate,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Saadi Sultanate between 1554 CE and 1659 CE. First, I should probably understand what the Saadi Sultanate was. From what I remember, it was a dynasty in what is now-day Saudi Arabia, established by Saad al-Dawla in the late 16th century. They were known for their scientific achievements, especially in mathematics and astronomy.
 
@@ -2154,7 +2154,7 @@ Also, considering the political stability of the Saadi dynasty, it might have be
 So putting this together: while there were some scientists and contributions during their rule, especially from earlier sultans, I don't think the Saadi Sultanate specifically had significant scientific literature as we might consider it. Therefore, maybe it's absent compared to more scientifically-focused periods.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ml_jenne_jeno_1,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity Jenne-jeno I during its time between 250 BCE and 49 CE. Let's break this down step by step.
 
@@ -2181,7 +2181,7 @@ On the other hand, without direct evidence from his reign's written documents, i
 So putting it all together: the period includes a mix of Roman influence, cultural openness as per Jenne-jeno I's policies, and the need for administrative sophistication. All these factors likely contributed to the presence of scientific literature in his polity.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 ml_jenne_jeno_2,absent,"<think>
 Okay, so I need to answer whether scientific literature existed in the polity Jenne-jeno II between 50 CE and 399 CE. First, I should figure out what Jenne-jeno II is. From what I remember, it's an ancient Polynesian settlement off the coast of Madagascar. I think it was known for its fishery and maybe some trade or cultural practices.
 
@@ -2196,7 +2196,7 @@ Also, considering the broader context of Madagascar during that time, there were
 So putting it all together, I think scientific literature was absent during Jenne-jeno II's existence.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ml_jenne_jeno_3,present,"<think>
 Okay, so I need to figure out whether scientific literature was present in the polity called Jenne-jeno III between 400 CE and 899 CE. Scientific literature here is defined as written documents related to mathematics, natural sciences, social sciences. 
 
@@ -2211,7 +2211,7 @@ Mathematics and natural sciences—given the time frame includes the Islamic Gol
 Putting it all together, I think Jenne-jeno III's polity would have had scientific literature because their era coincided with a period of significant scientific and mathematical advancements, especially under Islamic influence. They would have needed such knowledge for governance, trade, and cultural preservation.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ml_jenne_jeno_4,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the time of Jenne-jeno IV, which was between 900 CE and 1300 CE. I'm not too familiar with their history, but I know they were a Polynesian society inMicronesia. 
 
@@ -2232,7 +2232,7 @@ In summary, considering the Chamorro Empire's broader context, it's possible the
 
 The historical polity 'Jenne-jeno IV' existed between 900 CE and 1300 CE. Given its similarity to the broader Chamorro Empire, which was active during this period, it's plausible that scientific literature related to trade and agriculture may have existed. However, without specific evidence pointing directly to Jenne-jeno IV, such as inscriptions or records from their administration, the presence of scientific literature remains uncertain. 
 
-Answer: XXXabsentXXX"
+Answer: XXXabsentXXX",present
 mn_khitan_1,present,"<think>
 Okay, so I need to figure out whether scientific literature was present in the Khitan Empire between 907 CE and 1125 CE. Hmm, let's break this down step by step.
 
@@ -2257,7 +2257,7 @@ But I'm still not certain if it was widespread or significant in terms of scient
 In summary, while the Khitan Empire had its own governance and cultural practices, given that their successor states like the Mongols had access to scientific literatures, it's plausible that the Khitans themselves also had some form of written scientific literature, though perhaps not as advanced or widespread as in later periods.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mn_mongol_early,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Early Mongols period, which was between 1000 CE and 1206 CE. I'm not very familiar with this time period or Mongolian history in depth, but I'll try to break it down step by step.
 
@@ -2280,7 +2280,7 @@ Another factor is the political instability of the early Mongols. Since they wer
 So putting this together, while there might have been isolated cases of scientists or scholars writing works during the early Mongol period, it's unlikely that a comprehensive scientific literature as we understand it today would exist because of the lack of centralized governance and academic institutions. Therefore, I would expect scientific literature to be absent in the Early Mongols (1000-1206 CE).
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 mn_xianbei,present,"<think>
 Okay, so I have this question about the Xianbei Confederation and whether they had scientific literature between 100 CE and 250 CE. Hmm, I don't know much about that polity, but let me try to piece it together.
 
@@ -2297,7 +2297,7 @@ Also, during this time, there were scholars and maybe learned individuals who wr
 I'm not sure about specific examples of Xianbei scientific literature, but given that other literate societies in China during this period did produce such works, I would expect the Xianbei Confederation to also have some form. So maybe 'present' is the answer.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mr_wagadu_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Middle Wagadu Empire between 700 CE and 1077 CE. The empire spanned from 825 to 1093, but this question is about a period before its decline, specifically until 1077.
 
@@ -2324,7 +2324,7 @@ So putting this all together, even though I'm not entirely certain about specifi
 
 The Middle Wagadu Empire, known for its flourishing between 700 CE and 1093 CE, likely experienced the presence of scientific literature. Given their extensive trade networks, including maritime routes connecting East Africa with regions like Mesopotamia and Egypt, it's plausible that they engaged in knowledge exchange. Centers such as Mombasa and Nyanja were centers of learning, suggesting scholarly activity. The period up to 1077 CE included a time when the empire was still prosperous, allowing for the potential development of scientific treatises or manuals. Additionally, interactions with other regions might have led to the creation of local works explaining foreign knowledge. Therefore, considering these factors, it is expected that scientific literature was present during this period.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_monte_alban_1_early,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Early Monte Alban I polity between 500 BCE and 300 BCE. First, I should understand what the question is asking. Scientific literature includes writing about mathematics, natural sciences, social sciences. So, it's not just any kind of writing; it specifically refers to academic or scholarly works.
 
@@ -2341,7 +2341,7 @@ Given that it's a polity in transition, maybe their focus was more on administra
 So, weighing all this, I think there might be traces of scientific literature present, like inscriptions or records, but it's possible that comprehensive systematic writing in specific scientific fields wasn't as developed yet.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 mx_monte_alban_1_late,absent,"<think>
 Okay, so I need to figure out whether scientific literature was present in Monte Alban Late I between 300 BCE and 100 BCE. Hmm, first, I should probably understand what Monte Alban Late I is. From what I remember, Monte Alban is an ancient Etruscan settlement that was prominent around the 4th century BCE. It's known for its urban planning and infrastructure. The term ""Late I"" refers to a specific phase during the 3rd century BCE.
 
@@ -2362,7 +2362,7 @@ So putting this together, I'm leaning towards absent because while there might h
 
 The period at Monte Alban Late I between 300 BCE and 100 BCE likely did not feature extensive scientific literature. While the region had intellectual activities in natural sciences and social studies, there's no indication of formal centers or systematic written records typical of scientific literature.
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 mx_monte_alban_3_a,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity Monte Alban III between 200 CE and 500 CE. First, I should understand what Monte Alban III was. From what I remember, Monte Alban is an ancient city-state in the region of Anatolia, around modern Turkey. It's part of the Anatolian late antique tradition, which means it was a significant center during the late Roman period.
 
@@ -2385,7 +2385,7 @@ I also recall that many Greek texts were translated into Syriac during this time
 Putting it all together, I think that scientific literature was present in Monte Alban III because they had access to existing texts from earlier periods, possibly including scientific works. Even if they weren't producing new ones at that time, the preservation and translation efforts would mean that scientific literature was a part of their cultural output.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_monte_alban_3_b_4,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity Monte Alban IIIIB and IV between 500 CE and 900 CE. Let me start by understanding what Monte Alban is. From what I remember, Monte Alban was an Anatolian settlement that flourished during the Roman period, around the 3rd to 6th centuries CE. It's known for its administrative structure and role in the spread of Roman culture.
 
@@ -2400,7 +2400,7 @@ However, I'm not sure about the specific presence in Monte Alban. They were know
 So, putting this together, I think scientific literature is likely present because the broader cultural and educational trends in the region would support it. The influence of Greco-Roman scholars and the spread of knowledge through networks might mean that Monte Alban, being a significant settlement, would have had access to some scientific texts.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_monte_alban_5,present,"<think>
 Okay, so I'm trying to figure out whether scientific literature existed in Monte Alban V between 900 CE and 1520 CE. I don't know much about this polity, but I can use some general historical knowledge.
 
@@ -2421,7 +2421,7 @@ Also, the time frame goes up to 1520, which is before the Portuguese exploration
 So, putting this all together, I think it's likely that scientific literature was present because the regions around had a history of scholarly activity, and even if Monte Alban V was affected by later changes, they might have still supported such works to some extent.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 mx_aztec_emp,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Aztec Empire between 1427 CE and 1526 CE. Let me start by recalling what I know about the Aztecs.
 
@@ -2438,7 +2438,7 @@ Moreover, the Aztecs were known for their monumental architecture and art, but t
 So putting it all together, I don't recall any evidence of written scientific documents from the Aztec Empire during that period. Their focus was more on religion, administration, and cultural arts, which probably didn't lead to the kind of scientific literature we're talking about.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 mx_basin_of_mexico_3,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the ""Early Formative Basin of Mexico"" between 1200 BCE and 801 BCE. Hmm, I don't know a lot about this period, but let me try to break it down.
 
@@ -2455,7 +2455,7 @@ Social sciences: understanding societal structures, population dynamics, maybe e
 Considering all this, I don't recall any specific examples of scientific literature from the Aztec period. The documents they did have seem to be administrative or related to their religious and cultural practices rather than formal scientific works. So perhaps scientific literature was absent during that time.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 mx_basin_of_mexico_5,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Late Formative Basin of Mexico between 400 BCE and 101 BCE. Let's break this down step by step.
 
@@ -2478,7 +2478,7 @@ Moreover, if I think about the Aztecs after their empire fell, they sometimes wr
 Putting this all together, while there were literate populations and writing systems, it's possible that formal scientific literature wasn't prevalent. The focus was more on administrative, religious, and historical texts rather than specialized scientific documents.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 mx_rosario,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity of Oaxaca-Rosario between 700 BCE and 500 BCE. First off, I don't know much about this specific region or polity, but I can start by breaking down the question.
 
@@ -2503,7 +2503,7 @@ Wait, I think I need to consider the time frame and what each group focused on. 
 But without specific examples, it's hard to say definitively. I think the best answer is that while there were written documents, they weren't necessarily categorized under scientific literature as defined. Therefore, absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 mx_tierras_largas,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Oaxaca - Tierras Largas region between 1400 BCE and 1150 BCE. First, I should understand what ""scientific literature"" means here—it includes written documents related to mathematics, natural sciences, and social sciences.
 
@@ -2516,7 +2516,7 @@ For natural sciences, I don't recall any specific examples of ancient scientists
 So putting it all together: there wasn't a tradition of formal scientific writing. The information was probably recorded informally or passed down verbally without being systematized into literature.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 no_norway_k_2,present,"<think>
 Okay, so I have this question about whether scientific literature existed during the Kingdom of Norway II, which was from 1262 to 1396 CE. Hmm, I'm not super familiar with Norwegian history in that period, but let me think through this step by step.
 
@@ -2531,7 +2531,7 @@ But wait, was Norway as centers of learning? I think there were notable figures 
 Also, from other historical contexts, many European kingdoms supported arts and sciences. Norway being a part of Northern Europe, it would be expected to have similar intellectual support. Therefore, combining all these factors, I'd say there was indeed scientific literature present during that time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pe_cuzco_3,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in Cuzco during the Early Intermediate II period, which was from 500 CE to 649 CE. Alright, first off, I should probably start by understanding what Cuzco was like during that time.
 
@@ -2550,7 +2550,7 @@ Also, the Spanish conquest in the 16th century would have disrupted their record
 I'm a bit unsure because I don't know if they used written documents for education or administration. But given the complexity of their society and their need for record-keeping, it's plausible they did have some form of scientific literature.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 pe_cuzco_6,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in Cuzco during the Late Intermediate II period, which was between 1250 CE and 1400 CE. Hmm, let's start by recalling what I know about Cuzco.
 
@@ -2571,7 +2571,7 @@ But wait, maybe there were isolated centers where some basic scientific document
 In summary, considering the lack of written record-keeping practices and the emphasis on oral communication among the Incas during that time, I wouldn't expect scientific literature as defined to be present in Cuzco between 1250 and 1400 CE.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 pg_orokaiva_colonial,present,"<think>
 Okay, so I need to figure out whether Scientific Literature was present or not in the polity called Orokaiva - Colonial between 1884 CE and 1942 CE. The user defines scientific literature as including mathematics, natural sciences, social sciences. They want me to answer 'present' or 'absent'.
 
@@ -2592,7 +2592,7 @@ Another angle is the role of missionary schools or universities in such regions.
 I'm not entirely certain, though. Without more specific information about Orokaiva - Colonial's history during this time, it's hard to say definitively. But considering the general trends in colonial periods, I'd lean towards scientific literature being present due to possible influences from European powers and the need for administrative capabilities.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pk_kachi_lnl,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the ""Kachi Plain - Ceramic Neolithic"" polity between 5500 BCE and 4000 BCE. First, let me understand what Kachi Plain refers to. From what I remember, the Kachi region is located in present-day southwestern China, specifically in Sichuan Province. The Ceramic Neolithic period suggests that we're talking about a culture that used ceramic ware, which typically emerged later than earlier stone or potter-on-stand constructions.
 
@@ -2609,7 +2609,7 @@ Moreover, during the Neolithic period, people were likely focusing on agricultur
 Therefore, I think the answer would be 'absent XXX' because their society likely hadn't developed writing systems by then.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 pk_kachi_ca,present,"<think>
 Alright, so I need to figure out whether scientific literature existed in the polity known as Kachi Plain during the Chalcolithic period, which was between 4000 BCE and 3200 BCE. Scientific literature here is defined as written documents related to mathematics, natural sciences, or social sciences.
 
@@ -2640,7 +2640,7 @@ But without specific evidence pointing to Kachi Plain having such written works,
 Therefore, considering all these factors—transitioning societies needing record-keeping, possible religious influences, and the accessibility of writing—it's reasonable to conclude that while the ideas for science were present, the actual written works (scientific literature) may or may not have been common. However, given the context, it's plausible that some form of scientific literature existed, especially if there was a need for it in administrative or educational settings.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 pk_kachi_post_urban,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity known as Kachi Plain during its post-urban period, which was between 1800 BCE and 1300 BCE. Scientific literature here is defined as written documents related to mathematics, natural sciences, or social sciences.
 
@@ -2659,7 +2659,7 @@ Additionally, the transition to a more agrarian lifestyle would have required a 
 So putting this all together, while there were some forms of documentation like seals and pottery foundries, they don't specifically point to the presence of scientific literature as defined here. Therefore, it seems unlikely that scientific literature was present during the post-urban period of Kachi Plain.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 pk_samma_dyn,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Sind-Samma Dynasty, which was between 1335 CE and 1521 CE. Hmm, I don't know a lot about this dynasty, but I'll try to piece together what I can.
 
@@ -2680,7 +2680,7 @@ So maybe during their rule, there was some scientific activity as part of broade
 
 The Sind-Samma Dynasty, existing between 1335 CE and 1521 CE, likely saw the presence of scientific literature during its rule. This period coincided with India's Golden Age, a time of significant advancements in various scientific fields including mathematics, astronomy, medicine, and social sciences. While specific contributions from this dynasty are unclear due to lack of detailed records, it is reasonable to expect that some level of scientific activity would have occurred as part of broader trends in South Asia during the 14th to early 16th centuries CE.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 th_ayutthaya,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Ayutthaya polity between 1593 CE and 1767 CE. First, I should probably understand what Ayutthaya was. From what I remember, it's an old kingdom in Thailand that was prominent during the Srivijaya Empire. It started around the 8th century and fell to the Mongols in 1593, which is when they took it from a successor state called Lanna after their victory at the Battle of Lepaksa.
 
@@ -2695,7 +2695,7 @@ However, the empire also faced internal strife and external pressures, especiall
 Putting this together, it seems that even though Ayutthaya declined in power after 1593, its historical context from earlier periods supports the presence of scientific literature. The continuity of scholarly work during the empire's peak might have carried over into its later years before decline.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 th_rattanakosin,absent,"<think>
 Okay, so I'm trying to figure out whether scientific literature existed during the Rattanakosin period, which was from 1782 CE to 1873 CE. Hmm, first off, I need to understand what the Rattanakosin polity was. From what I remember, it was a Khmer kingdom in Cambodia, right? It's one of those old Khmer city-states that existed during the Classical Khmer period.
 
@@ -2714,7 +2714,7 @@ Moreover, the Rattanakosin period was marked by significant social changes, incl
 So, putting it all together: no written documents focused on the specific categories of scientific literature as they existed before. The political context and external influences probably made such literatures absent during Rattanakosin's time.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 tn_fatimid_cal,present,"<think>
 Alright, I need to figure out whether scientific literature existed during the Fatimid Caliphate. First, I should recall what the Fatimid Caliphate was like historically. It was an Islamic empire in North Africa from 909 to 1171 CE. They were known for their cultural and scientific achievements.
 
@@ -2731,7 +2731,7 @@ The Fatimid Caliphate, an Islamic empire in North Africa from 909 to 1171 CE, wa
 
 Given these factors, including their emphasis on science and interactions with other regions, I would expect scientific literature to be present during this period.
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_byzantine_emp_1,present,"<think>
 Okay, so I have this question about whether scientific literature was present in the Byzantine Empire between 632 CE and 866 CE. The definition includes math, natural sciences, and social sciences. I need to figure out if these kinds of written documents were common or not during that time.
 
@@ -2750,7 +2750,7 @@ I should also think about cultural factors. The Byzantines were influenced by bo
 So putting this all together, I believe that while there were limitations in resources compared to later periods, the Byzantine Empire did have existing scientific literature present because they focused heavily on preserving classical works. Therefore, the answer should be ""present.""
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_byzantine_emp_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Byzantine Empire II period, which was from 867 CE to 1072 CE. I'm not too familiar with Byzantine history, but I know that the Byzantine Empire is often referred to as the Eastern Roman Empire and was quite influential in preserving classical knowledge during the Middle Ages.
 
@@ -2769,7 +2769,7 @@ Moreover, the shift from late antiquity to medieval Europe would mean that the B
 So putting it all together, I think that during this time, scientific literature was indeed present because of both the preservation efforts and the continued scholarly activity within the Byzantine Empire.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 tr_lydia_k,absent,"<think>
 Okay, so I'm trying to figure out whether there was scientific literature in the Kingdom of Lydia between 670 BCE and 546 BCE. Let me start by recalling what I know about Lydia. It was an ancient Phoenician city-state located along the Mediterranean coast, known for its rich history, trade, and culture.
 
@@ -2796,7 +2796,7 @@ Alternatively, maybe there were fragments or letters from scientists who were pa
 In summary, considering Lydia's history and their interactions with other cultures, they might have had some form of scientific literature during their peak, but by the time of their decline, it was probably absent because they weren't as focused on maintaining or producing such knowledge.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 tr_ottoman_emirate,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Ottoman Empire from 1299 CE to 1402 CE. First, I should understand what the Ottoman Empire was like during that time. The Ottoman Empire was a multi-ethnic empire based in the Balkans, stretching into modern-day Turkey and adjacent regions. It was known for its administrative efficiency and military prowess under successive sultans.
 
@@ -2815,7 +2815,7 @@ Also, the role of science might have been more practical rather than theoretical
 In conclusion, given the historical context of cultural exchange with the Byzantine Empire and the presence of regions using Greek as their language, it's plausible that scientific literature existed within the Ottoman Empire during this period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_ottoman_emp_1,present,"<think>
 Okay, so I need to figure out whether scientific literature was present or absent in the Ottoman Empire between 1402 CE and 1517 CE. The definition given includes mathematics, natural sciences, and social sciences.
 
@@ -2834,7 +2834,7 @@ Looking at the broader context, many Islamic countries had centers of learning w
 Therefore, considering their cultural advancements and the presence of learned societies, I expect that Scientific Literature was present in the Ottoman Empire during 1402-1517 CE.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 tr_ottoman_emp_2,absent,"<think>
 Okay, so I need to figure out whether scientific literature was present during the Ottoman Empire II, which existed from 1517 CE to 1683 CE. Hmm, let's start by understanding what exactly is being asked here.
 
@@ -2853,7 +2853,7 @@ I also think about the social structure during this period. The Ottoman Empire w
 In conclusion, while there might not have been a strong emphasis on scientific literature compared to earlier periods in the empire's history, it's possible that some written scientific documents still existed during this time. So maybe it was absent? Or perhaps present but limited.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 us_kamehameha_k,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Kamehameha period in Hawaii. The time frame is from 1778 CE to 1819 CE, which was under King Kamehameha I and his descendants. 
 
@@ -2894,7 +2894,7 @@ The historical period in question, from 1778 CE to 1819 CE, saw the existence of
 
 In conclusion, while the likelihood of scientific literature existing in Hawaii during the Kamehameha period is low due to isolation and cultural priorities, there might be traces through indirect influences. Therefore, it is reasonable to expect that scientific literature was absent from the Kingdom of Hawaii during this time.
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 uz_chagatai_khanate,present,"<think>
 Okay, so I need to figure out whether scientific literature was present or absent in the Chagatai Khanate between 1227 CE and 1402 CE. The question defines scientific literature as including mathematics, natural sciences, social sciences, etc., which are types of written documents.
 
@@ -2913,7 +2913,7 @@ Additionally, while social sciences like history or economics might not be as pr
 Putting it all together, I think that while the Chagatai Khanate might not have been as scientifically advanced as the Islamic Golden Age, there was still an expectation or presence of scientific literature at least in parts under their rule. Therefore, my answer would be present.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 uz_janid_dyn,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Khanate of Bukhara between 1599 CE and 1747 CE based on what I know about this polity. First, I should recall what I know about the Khanate of Bukhara.
 
@@ -2944,7 +2944,7 @@ But then again, maybe there was still some continuation through local scholars o
 In conclusion, I'm leaning towards expecting that Scientific Literature was present in Bukhara Khanate during this period, even if it wasn't at its peak due to disruptions from invasions and changes in governance. The continued presence might have been sustained through interactions with neighboring regions or local scientific communities.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",absent
 uz_koktepe_2,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the polity called Koktepe II between 750 BCE and 550 BCE. First, I should understand what Koktepe II is. I think it's a historical name; maybe it refers to a specific region or city-state? I recall that many ancient civilizations had names like that, often referring to regions in the Mediterranean or Near East.
 
@@ -2979,7 +2979,7 @@ Alternatively, perhaps Koktepe II was a site where contact with Hellenistic scho
 Hmm, this is tricky because without specific information about Koktepe II, it's hard to be certain. Maybe I should go with 'present' if there are any historical hints or if it aligns with other known polities during that time.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 uz_samanid_emp,present,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Samanid Empire between 819 CE and 999 CE. The definition includes math, natural sciences, and social sciences. Alright, let's start by recalling what I know about the Samanid Empire.
 
@@ -2996,7 +2996,7 @@ Social sciences within this context might refer to geography or history. Scholar
 Putting this all together, I can see that scientific literature wasn't absent; they were actively involved in it. The patronage for learning, the establishment of observatories, and the translation efforts all point towards a presence of scientific literature during the Samanid Empire.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 uz_timurid_emp,present,"<think>
 Okay, so I need to figure out whether scientific literature existed during the Timurid Empire based on my knowledge of world history. The Timurid Empire was from 1370 CE to 1526 CE. Scientific literature includes math, natural sciences, and social sciences.
 
@@ -3011,7 +3011,7 @@ I also remember that Timurid scientists like Al-Rumi studied medicine and other 
 So even if the broader Islamic Golden Age slowed down after 14th century, Timurid science kept going into the 15th-16th centuries. Therefore, it's likely that they had scientific literature present during their empire.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 ye_qatabanian_commonwealth,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Qatabanian Commonwealth, which was around between 450 BCE and 111 BCE. Hmm, first, I should probably understand who or what the Qatabians were. From what I remember, the Qatabans were an important Berber tribe that ruled portions of North Africa during the Roman Republic and early Roman Empire times. They were known for their wealth and trade, especially in coins, which they used to pay tribute to Rome.
 
@@ -3028,7 +3028,7 @@ Wait, but I'm not sure about this period specifically. Maybe there were scholars
 So, putting it all together, my initial thought is that scientific literature would be absent from the Qatabanian Commonwealth during this period.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",absent
 ye_saba_k,absent,"<think>
 Okay, so I need to figure out whether scientific literature existed in the Kingdom of Saba and Dhu Raydan between 110 BCE and 149 CE. First, let me understand what scientific literature means here. It includes writing on mathematics, natural sciences, and social sciences. So, I'm looking for any written records or texts from these fields.
 
@@ -3043,7 +3043,7 @@ I should also think about the sources. Are there any surviving texts from Saba a
 Putting it all together, since they existed during a time when there wasn't much academic or literary activity, especially scientific, I think scientific literature is absent.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ye_tahirid_dyn,absent,"<think>
 Alright, so I need to figure out whether Scientific Literature existed during the Tahirid Dynasty in Yemen from 1454 CE to 1517 CE. Let's start by understanding what the Tahirid Dynasty was like.
 
@@ -3054,7 +3054,7 @@ Considering the social and political context, Yemen's role was limited, so they 
 Looking at the definition of Scientific Literature, it includes math, natural sciences, and social sciences. I don't recall any prominent scientists or universities from Yemen during this time, so the presence of such literature seems unlikely.
 </think>
 
-XXXabsentXXX"
+XXXabsentXXX",present
 ru_romanov_dyn_2,present,"<think>
 Okay, so I have to answer whether scientific literature existed during the Russian Empire under the Romanov dynasty from 1776 to 1917. Hmm, let me think about this step by step.
 
@@ -3073,7 +3073,7 @@ Another angle is that even during times of political instability or repression, 
 So putting this all together, from the 18th century onwards, especially with institutions like universities and academies, scientific literature was present. Even through some disruptions, there's evidence that scientists continued to publish. Therefore, I would expect scientific literature to be present during the Romanov dynasty period.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
 cn_hmong_2,present,"<think>
 Alright, so I need to figure out whether scientific literature existed during the Hmong Early Chinese period, which was from 1895 CE to 1941 CE. Okay, let me break this down step by step.
 
@@ -3096,4 +3096,4 @@ I'm also thinking about how global events might have affected Chinese science. F
 Putting it all together, I'm not entirely sure if there was active scientific literature during the Hmong period because the focus might have been on practical aspects given external pressures. But considering China's long history of scientific contributions and the continuity of academic endeavors through different dynasties, maybe some literature still existed.
 </think>
 
-XXXpresentXXX"
+XXXpresentXXX",present
