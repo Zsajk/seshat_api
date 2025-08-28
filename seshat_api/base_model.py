@@ -96,7 +96,7 @@ class _Paginated:
             self._load_page(self.next_url, self.params)
 
         if not self.results:
-            self._load_page(self.endpoint, self.params)
+            # No more results to return; do not reload the first page
             raise StopIteration
 
         if self.model:
